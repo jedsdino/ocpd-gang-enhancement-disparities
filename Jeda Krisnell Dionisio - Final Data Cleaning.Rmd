@@ -1,0 +1,683 @@
+---
+title: "Cleaning OCPD"
+author: "Jeda Krisnell Dionisio"
+date: "2026-05-28"
+output: pdf_document
+---
+
+# Cleaning
+
+Below is the code I used for the final project. I cleaned the data using this file to prevent the environment from getting too cluttered. For the sake of temporal analysis, though this is not the primary investigation, I split the years into the Rackauckas Era (2013-2018) and Spitzer Era (2019, 2021, 2023-2024).
+
+## Libraries + Files
+
+```{r}
+# ===== libraries =====
+library(tidyverse)
+library(readxl)
+```
+
+### RACKAUCKAS ERA
+
+```{r}
+# ===== 2013 =====
+charges_filed2013 = read_excel("2013DATA/2013CHARGE.xlsx", sheet = "Data")
+enhancements_charged2013 = read_excel("2013DATA/2013Enhancement.xlsx", sheet = "Data")
+priors_alleged2013 = read_excel("2013DATA/2013Prior.xlsx", sheet = "Data")
+sentences2013 = read_excel("2013DATA/2013Sentence.xlsx", sheet = "Data")
+defendant_information2013 = read_excel("2013DATA/2013Def.xlsx", sheet = "Data")
+
+# ===== 2014 =====
+charges_filed2014 = read_excel("2014DATA/2014CHARGE.xlsx", sheet = "Data")
+enhancements_charged2014 = read_excel("2014DATA/2014Enhancement.xlsx", sheet = "Data")
+priors_alleged2014 = read_excel("2014DATA/2014Prior.xlsx", sheet = "Data")
+sentences2014 = read_excel("2014DATA/2014Sentence.xlsx", sheet = "Data")
+defendant_information2014 = read_excel("2014DATA/2014Def.xlsx", sheet = "Data")
+
+# ===== 2015 =====
+charges_filed2015 = read_excel("2015DATA/2015-Charges-Filed.xlsx", sheet = "Data")
+enhancements_charged2015 = read_excel("2015DATA/2015-Enhancements-Charged.xlsx", sheet = "Data")
+priors_alleged2015 = read_excel("2015DATA/2015-Priors-Alleged.xlsx", sheet = "Data")
+sentences2015 = read_excel("2015DATA/2015-Sentences.xlsx", sheet = "Data")
+defendant_information2015 = read_excel("2015DATA/2015-Defendant-Information.xlsx", sheet = "Data")
+
+# ===== 2016 =====
+charges_filed2016 = read_excel("2016DATA/2016-Charges-Filed.xlsx", sheet = "Data")
+enhancements_charged2016 = read_excel("2016DATA/2016-Enhancements-Charged.xlsx", sheet = "Data")
+priors_alleged2016 = read_excel("2016DATA/2016-Priors-Alleged.xlsx", sheet = "Data")
+sentences2016 = read_excel("2016DATA/2016-Sentences.xlsx", sheet = "Data")
+defendant_information2016 = read_excel("2016DATA/2016-Defendant-Information.xlsx", sheet = "Data")
+
+# ===== 2017 =====
+charges_filed2017 = read_excel("2017DATA/2017-Charges-Filed.xlsx", sheet = "Data")
+enhancements_charged2017 = read_excel("2017DATA/2017-Enhancements-Charged.xlsx", sheet = "Data")
+priors_alleged2017 = read_excel("2017DATA/2017-Priors-Alleged.xlsx", sheet = "Data")
+sentences2017 = read_excel("2017DATA/2017-Sentences.xlsx", sheet = "Data")
+defendant_information2017 = read_excel("2017DATA/2017-Defendant-Information.xlsx", sheet = "Data")
+
+# ===== 2018 =====
+charges_filed2018 = read_excel("2018DATA/2018-Charges.xlsx", sheet = "Data")
+enhancements_charged2018 = read_excel("2018DATA/2018-Enhancement.xlsx", sheet = "Data")
+priors_alleged2018 = read_excel("2018DATA/2018-Prior.xlsx", sheet = "Data")
+sentences2018 = read_excel("2018DATA/2018-Sentence.xlsx", sheet = "Data")
+defendant_information2018 = read_excel("2018DATA/2018-Defendant.xlsx", sheet = "Data")
+
+```
+
+### SPITZER ERA
+
+```{r}
+# ===== 2019 =====
+charges_filed2019 = read_excel("2019DATA/2019-Charges-Filed.xlsx", sheet = "Data")
+enhancements_charged2019 = read_excel("2019DATA/2019-Enhancements-Charged.xlsx", sheet = "Data")
+priors_alleged2019 = read_excel("2019DATA/2019-Priors-Alleged.xlsx", sheet = "Data")
+sentences2019 = read_excel("2019DATA/2019-Sentences.xlsx", sheet = "Data")
+defendant_information2019 = read_excel("2019DATA/2019-Defendant-Information.xlsx", sheet = "Data")
+
+# ===== 2021 =====
+charges_filed2021 = read_excel("2021DATA/2021-Charges.xlsx", sheet = "Data")
+enhancements_charged2021 = read_excel("2021DATA/2021-Enhancement.xlsx", sheet = "Data")
+priors_alleged2021 = read_excel("2021DATA/2021-Prior.xlsx", sheet = "Data")
+sentences2021 = read_excel("2021DATA/2021-Sentence.xlsx", sheet = "Data")
+defendant_information2021 = read_excel("2021DATA/2021-Def.xlsx", sheet = "Data")
+
+# ===== 2023 =====
+charges_filed2023 = read_excel("2023DATA/2023Charges-Filed.xlsx", sheet = "Data")
+enhancements_charged2023 = read_excel("2023DATA/2023Enhancements-Charged.xlsx", sheet = "Data")
+priors_alleged2023 = read_excel("2023DATA/2023Prior.xlsx", sheet = "Data")
+sentences2023 = read_excel("2023DATA/2023Sentences.xlsx", sheet = "Data")
+defendant_information2023 = read_excel("2023DATA/2023Defendant-Information.xlsx", sheet = "Data")
+
+# ===== 2024 =====
+charges_filed2024 = read_excel("2024DATA/2024Charges.xlsx", sheet = "Data")
+enhancements_charged2024 = read_excel("2024DATA/2024Enhancement.xlsx", sheet = "Data")
+priors_alleged2024 = read_excel("2024DATA/2024Prior.xlsx", sheet = "Data")
+sentences2024 = read_excel("2024DATA/2024Sentence.xlsx", sheet = "Data")
+defendant_information2024 = read_excel("2024DATA/2024Def.xlsx", sheet = "Data")
+```
+
+# Cleaning
+
+## RACKAUCKAS ERA
+
+### 2013
+
+```{r}
+# ===== 2013 ======
+
+# ===== filter gang enhancements =====
+dat2013 = enhancements_charged2013 |> 
+  filter(str_detect(`Offense Code`, "186.22"))
+
+# ===== add defendant information ===== 
+dat2013 = dat2013 |> 
+  left_join(defendant_information2013, by = "Defendant Number")
+
+# ===== add primary charges ===== 
+dat2013 = dat2013 |> 
+  left_join(charges_filed2013,
+            by = c("Case ID Number", "Defendant Number", "Count"),
+            suffix = c("_enhancement", "_primary"))
+
+# ===== clean sentences =====
+sentences2013_clean = sentences2013 |> 
+  distinct(`Case ID Number`, `Defendant Number`, Count)
+
+# ====== join cleaned sentencing =====
+dat2013 = dat2013 |> 
+  left_join(
+    sentences2013_clean,
+    by = c("Case ID Number", "Defendant Number", "Count")
+  )
+
+# ===== create priors_alleged summary table ===== 
+priors_summary2013 = priors_alleged2013 |> 
+  group_by(`Case ID Number`, `Defendant Number`) |> 
+  summarise(
+    has_prior = 1,
+    .groups = "drop"
+  )
+
+# ===== merge priors into main dat ===== 
+dat2013 = dat2013 |> 
+  left_join(priors_summary2013,
+            by = c("Case ID Number", "Defendant Number"))
+
+dat2013 = dat2013 |> 
+  mutate(
+    has_prior = ifelse(is.na(has_prior), 0, has_prior)  
+  )
+
+# ===== final cleaning ===== 
+dat2013 = dat2013 |> 
+  filter(Gender != "Unknown")
+
+dim(dat2013)
+
+# ===== save dataframe to use in Final ===== 
+write.csv(dat2013, "../185CLEANED/2013-FINAL-CLEANED.csv", row.names = FALSE)
+```
+
+### 2014
+
+```{r}
+# ===== 2014 ======
+
+# ===== filter gang enhancements =====
+dat2014 = enhancements_charged2014 |> 
+  filter(str_detect(`Offense Code`, "186.22"))
+
+# ===== add defendant information ===== 
+dat2014 = dat2014 |> 
+  left_join(defendant_information2014, by = "Defendant Number")
+
+# ===== add primary charges ===== 
+dat2014 = dat2014 |> 
+  left_join(charges_filed2014,
+            by = c("Case ID Number", "Defendant Number", "Count"),
+            suffix = c("_enhancement", "_primary"))
+
+# ===== clean sentences =====
+sentences2014_clean = sentences2014 |> 
+  distinct(`Case ID Number`, `Defendant Number`, Count)
+
+# ====== join cleaned sentencing =====
+dat2014 = dat2014 |> 
+  left_join(
+    sentences2014_clean,
+    by = c("Case ID Number", "Defendant Number", "Count")
+  )
+
+# ===== create priors_alleged summary table ===== 
+priors_summary2014 = priors_alleged2014 |> 
+  group_by(`Case ID Number`, `Defendant Number`) |> 
+  summarise(
+    has_prior = 1,
+    .groups = "drop"
+  )
+
+# ===== merge priors into main dat ===== 
+dat2014 = dat2014 |> 
+  left_join(priors_summary2014,
+            by = c("Case ID Number", "Defendant Number"))
+
+dat2014 = dat2014 |> 
+  mutate(
+    has_prior = ifelse(is.na(has_prior), 0, has_prior)  
+  )
+
+# ===== final cleaning ===== 
+dat2014 = dat2014 |> 
+  filter(Gender != "Unknown")
+
+dim(dat2014)
+
+# ===== save dataframe to use in Final ===== 
+write.csv(dat2014, "../185CLEANED/2014-FINAL-CLEANED.csv", row.names = FALSE)
+```
+
+### 2015
+
+```{r}
+# ===== 2015 ======
+
+# ===== filter gang enhancements =====
+dat2015 = enhancements_charged2015 |> 
+  filter(str_detect(`Offense Code`, "186.22"))
+
+# ===== add defendant information ===== 
+dat2015 = dat2015 |> 
+  left_join(defendant_information2015, by = "Defendant Number")
+
+# ===== add primary charges ===== 
+dat2015 = dat2015 |> 
+  left_join(charges_filed2015,
+            by = c("Case ID Number", "Defendant Number", "Count"),
+            suffix = c("_enhancement", "_primary"))
+
+# ===== clean sentences =====
+sentences2015_clean = sentences2015 |> 
+  distinct(`Case ID Number`, `Defendant Number`, Count)
+
+# ====== join cleaned sentencing =====
+dat2015 = dat2015 |> 
+  left_join(
+    sentences2015_clean,
+    by = c("Case ID Number", "Defendant Number", "Count")
+  )
+
+# ===== create priors_alleged summary table ===== 
+priors_summary2015 = priors_alleged2015 |> 
+  group_by(`Case ID Number`, `Defendant Number`) |> 
+  summarise(
+    has_prior = 1,
+    .groups = "drop"
+  )
+
+# ===== merge priors into main dat ===== 
+dat2015 = dat2015 |> 
+  left_join(priors_summary2015,
+            by = c("Case ID Number", "Defendant Number"))
+
+dat2015 = dat2015 |> 
+  mutate(
+    has_prior = ifelse(is.na(has_prior), 0, has_prior)  
+  )
+
+# ===== final cleaning ===== 
+dat2015 = dat2015 |> 
+  filter(Gender != "Unknown")
+
+dim(dat2015)
+
+# ===== save dataframe to use in Final ===== 
+write.csv(dat2015, "../185CLEANED/2015-FINAL-CLEANED.csv", row.names = FALSE)
+```
+
+### 2016
+
+```{r}
+# ===== 2016 ======
+
+# ===== filter gang enhancements =====
+dat2016 = enhancements_charged2016 |> 
+  filter(str_detect(`Offense Code`, "186.22"))
+
+# ===== add defendant information ===== 
+dat2016 = dat2016 |> 
+  left_join(defendant_information2016, by = "Defendant Number")
+
+# ===== add primary charges ===== 
+dat2016 = dat2016 |> 
+  left_join(charges_filed2016,
+            by = c("Case ID Number", "Defendant Number", "Count"),
+            suffix = c("_enhancement", "_primary"))
+
+# ===== clean sentences =====
+sentences2016_clean = sentences2016 |> 
+  distinct(`Case ID Number`, `Defendant Number`, Count)
+
+# ====== join cleaned sentencing =====
+dat2016 = dat2016 |> 
+  left_join(
+    sentences2016_clean,
+    by = c("Case ID Number", "Defendant Number", "Count")
+  )
+
+# ===== create priors_alleged summary table ===== 
+priors_summary2016 = priors_alleged2016 |> 
+  group_by(`Case ID Number`, `Defendant Number`) |> 
+  summarise(
+    has_prior = 1,
+    .groups = "drop"
+  )
+
+# ===== merge priors into main dat ===== 
+dat2016 = dat2016 |> 
+  left_join(priors_summary2016,
+            by = c("Case ID Number", "Defendant Number"))
+
+dat2016 = dat2016 |> 
+  mutate(
+    has_prior = ifelse(is.na(has_prior), 0, has_prior)  
+  )
+
+# ===== final cleaning ===== 
+dat2016 = dat2016 |> 
+  filter(Gender != "Unknown")
+
+dim(dat2016)
+
+# ===== save dataframe to use in Final ===== 
+write.csv(dat2016, "../185CLEANED/2016-FINAL-CLEANED.csv", row.names = FALSE)
+```
+
+### 2017
+
+```{r}
+# ===== 2017 ======
+
+# ===== filter gang enhancements =====
+dat2017 = enhancements_charged2017 |> 
+  filter(str_detect(`Offense Code`, "186.22"))
+
+# ===== add defendant information ===== 
+dat2017 = dat2017 |> 
+  left_join(defendant_information2017, by = "Defendant Number")
+
+# ===== add primary charges ===== 
+dat2017 = dat2017 |> 
+  left_join(charges_filed2017,
+            by = c("Case ID Number", "Defendant Number", "Count"),
+            suffix = c("_enhancement", "_primary"))
+
+# ===== clean sentences =====
+sentences2017_clean = sentences2017 |> 
+  distinct(`Case ID Number`, `Defendant Number`, Count)
+
+# ====== join cleaned sentencing =====
+dat2017 = dat2017 |> 
+  left_join(
+    sentences2017_clean,
+    by = c("Case ID Number", "Defendant Number", "Count")
+  )
+
+# ===== create priors_alleged summary table ===== 
+priors_summary2017 = priors_alleged2017 |> 
+  group_by(`Case ID Number`, `Defendant Number`) |> 
+  summarise(
+    has_prior = 1,
+    .groups = "drop"
+  )
+
+# ===== merge priors into main dat ===== 
+dat2017 = dat2017 |> 
+  left_join(priors_summary2017,
+            by = c("Case ID Number", "Defendant Number"))
+
+dat2017 = dat2017 |> 
+  mutate(
+    has_prior = ifelse(is.na(has_prior), 0, has_prior)  
+  )
+
+# ===== final cleaning ===== 
+dat2017 = dat2017 |> 
+  filter(Gender != "Unknown")
+
+dim(dat2017)
+
+# ===== save dataframe to use in Final ===== 
+write.csv(dat2017, "../185CLEANED/2017-FINAL-CLEANED.csv", row.names = FALSE)
+```
+
+### 2018
+
+```{r}
+# ===== 2018 ======
+
+# ===== filter gang enhancements =====
+dat2018 = enhancements_charged2018 |> 
+  filter(str_detect(`Offense Code`, "186.22"))
+
+# ===== add defendant information ===== 
+dat2018 = dat2018 |> 
+  left_join(defendant_information2018, by = "Defendant Number")
+
+# ===== add primary charges ===== 
+dat2018 = dat2018 |> 
+  left_join(charges_filed2018,
+            by = c("Case ID Number", "Defendant Number", "Count"),
+            suffix = c("_enhancement", "_primary"))
+
+# ===== clean sentences =====
+sentences2018_clean = sentences2018 |> 
+  distinct(`Case ID Number`, `Defendant Number`, Count) 
+
+# ====== join cleaned sentencing =====
+dat2018 = dat2018 |> 
+  left_join(
+    sentences2018_clean,
+    by = c("Case ID Number", "Defendant Number", "Count")
+  )
+
+# ===== create priors_alleged summary table ===== 
+priors_summary2018 = priors_alleged2018 |> 
+  group_by(`Case ID Number`, `Defendant Number`) |> 
+  summarise(
+    has_prior = 1,
+    .groups = "drop"
+  )
+
+# ===== merge priors into main dat ===== 
+dat2018 = dat2018 |> 
+  left_join(priors_summary2018,
+            by = c("Case ID Number", "Defendant Number"))
+
+dat2018 = dat2018 |> 
+  mutate(
+    has_prior = ifelse(is.na(has_prior), 0, has_prior)  
+  )
+
+# ===== final cleaning ===== 
+dat2018 = dat2018 |> 
+  filter(Gender != "Unknown")
+
+dim(dat2018)
+
+# ===== save dataframe to use in Final ===== 
+write.csv(dat2018, "../185CLEANED/2018-FINAL-CLEANED.csv", row.names = FALSE)
+```
+
+## SPITZER ERA
+
+### 2019
+
+```{r}
+# ===== 2019 ======
+
+# ===== filter gang enhancements =====
+dat2019 = enhancements_charged2019 |> 
+  filter(str_detect(`Offense Code`, "186.22"))
+
+# ===== add defendant information ===== 
+dat2019 = dat2019 |> 
+  left_join(defendant_information2019, by = "Defendant Number")
+
+# ===== add primary charges ===== 
+dat2019 = dat2019 |> 
+  left_join(charges_filed2019,
+            by = c("Case ID Number", "Defendant Number", "Count"),
+            suffix = c("_enhancement", "_primary"))
+
+# ===== clean sentences =====
+sentences2019_clean = sentences2019 |> 
+  distinct(`Case ID Number`, `Defendant Number`, Count)
+
+# ====== join cleaned sentencing =====
+dat2019 = dat2019 |> 
+  left_join(
+    sentences2019_clean,
+    by = c("Case ID Number", "Defendant Number", "Count")
+  )
+
+# ===== create priors_alleged summary table ===== 
+priors_summary2019 = priors_alleged2019 |> 
+  group_by(`Case ID Number`, `Defendant Number`) |> 
+  summarise(
+    has_prior = 1,
+    .groups = "drop"
+  )
+
+# ===== merge priors into main dat ===== 
+dat2019 = dat2019 |> 
+  left_join(priors_summary2019,
+            by = c("Case ID Number", "Defendant Number"))
+
+dat2019 = dat2019 |> 
+  mutate(
+    has_prior = ifelse(is.na(has_prior), 0, has_prior)  
+  )
+
+# ===== final cleaning ===== 
+dat2019 = dat2019 |> 
+  filter(Gender != "Unknown")
+
+dim(dat2019)
+
+# ===== save dataframe to use in Final ===== 
+write.csv(dat2019, "../185CLEANED/2019-FINAL-CLEANED.csv", row.names = FALSE)
+```
+
+### 2021
+
+```{r}
+# ===== 2021 ======
+
+# ===== filter gang enhancements =====
+dat2021 = enhancements_charged2021 |> 
+  filter(str_detect(`Offense Code`, "186.22"))
+
+# ===== add defendant information ===== 
+dat2021 = dat2021 |> 
+  left_join(defendant_information2021, by = "Defendant Number")
+
+# ===== add primary charges ===== 
+dat2021 = dat2021 |> 
+  left_join(charges_filed2021,
+            by = c("Case ID Number", "Defendant Number", "Count"),
+            suffix = c("_enhancement", "_primary"))
+
+# ===== clean sentences =====
+sentences2021_clean = sentences2021 |> 
+  distinct(`Case ID Number`, `Defendant Number`, Count)
+
+# ====== join cleaned sentencing =====
+dat2021 = dat2021 |> 
+  left_join(
+    sentences2021_clean,
+    by = c("Case ID Number", "Defendant Number", "Count")
+  )
+
+# ===== create priors_alleged summary table ===== 
+priors_summary2021 = priors_alleged2021 |> 
+  group_by(`Case ID Number`, `Defendant Number`) |> 
+  summarise(
+    has_prior = 1,
+    .groups = "drop"
+  )
+
+# ===== merge priors into main dat ===== 
+dat2021 = dat2021 |> 
+  left_join(priors_summary2021,
+            by = c("Case ID Number", "Defendant Number"))
+
+dat2021 = dat2021 |> 
+  mutate(
+    has_prior = ifelse(is.na(has_prior), 0, has_prior)  
+  )
+
+# ===== final cleaning ===== 
+dat2021 = dat2021 |> 
+  filter(Gender != "Unknown")
+
+dim(dat2021)
+
+# ===== save dataframe to use in Final ===== 
+write.csv(dat2021, "../185CLEANED/2021-FINAL-CLEANED.csv", row.names = FALSE)
+```
+
+### 2023
+
+```{r}
+# ===== 2023 ======
+
+# ===== filter gang enhancements =====
+dat2023 = enhancements_charged2023 |> 
+  filter(str_detect(`Offense Code`, "186.22"))
+
+# ===== add defendant information ===== 
+dat2023 = dat2023 |> 
+  left_join(defendant_information2023, by = "Defendant Number")
+
+# ===== add primary charges ===== 
+dat2023 = dat2023 |> 
+  left_join(charges_filed2023,
+            by = c("Case ID Number", "Defendant Number", "Count"),
+            suffix = c("_enhancement", "_primary"))
+
+# ===== clean sentences =====
+sentences2023_clean = sentences2023 |> 
+  distinct(`Case ID Number`, `Defendant Number`, Count) 
+
+# ====== join cleaned sentencing =====
+dat2023 = dat2023 |> 
+  left_join(
+    sentences2023_clean,
+    by = c("Case ID Number", "Defendant Number", "Count")
+  )
+
+# ===== create priors_alleged summary table ===== 
+priors_summary2023 = priors_alleged2023 |> 
+  group_by(`Case ID Number`, `Defendant Number`) |> 
+  summarise(
+    has_prior = 1,
+    .groups = "drop"
+  )
+
+# ===== merge priors into main dat ===== 
+dat2023 = dat2023 |> 
+  left_join(priors_summary2023,
+            by = c("Case ID Number", "Defendant Number"))
+
+dat2023 = dat2023 |> 
+  mutate(
+    has_prior = ifelse(is.na(has_prior), 0, has_prior)  
+  )
+
+# ===== final cleaning ===== 
+dat2023 = dat2023 |> 
+  filter(Gender != "Unknown")
+
+dim(dat2023)
+
+# ===== save dataframe to use in Final ===== 
+write.csv(dat2023, "../185CLEANED/2023-FINAL-CLEANED.csv", row.names = FALSE)
+```
+
+### 2024
+
+```{r}
+# ===== 2024 ======
+
+# ===== filter gang enhancements =====
+dat2024 = enhancements_charged2024 |> 
+  filter(str_detect(`Offense Code`, "186.22"))
+
+# ===== add defendant information ===== 
+dat2024 = dat2024 |> 
+  left_join(defendant_information2024, by = "Defendant Number")
+
+# ===== add primary charges ===== 
+dat2024 = dat2024 |> 
+  left_join(charges_filed2024,
+            by = c("Case ID Number", "Defendant Number", "Count"),
+            suffix = c("_enhancement", "_primary"))
+
+# ===== clean sentences =====
+sentences2024_clean = sentences2024 |> 
+  distinct(`Case ID Number`, `Defendant Number`, Count)
+
+# ====== join cleaned sentencing =====
+dat2024 = dat2024 |> 
+  left_join(
+    sentences2024_clean,
+    by = c("Case ID Number", "Defendant Number", "Count")
+  )
+
+# ===== create priors_alleged summary table ===== 
+priors_summary2024 = priors_alleged2024 |> 
+  group_by(`Case ID Number`, `Defendant Number`) |> 
+  summarise(
+    has_prior = 1,
+    .groups = "drop"
+  )
+
+# ===== merge priors into main dat ===== 
+dat2024 = dat2024 |> 
+  left_join(priors_summary2024,
+            by = c("Case ID Number", "Defendant Number"))
+
+dat2024 = dat2024 |> 
+  mutate(
+    has_prior = ifelse(is.na(has_prior), 0, has_prior)  
+  )
+
+# ===== final cleaning ===== 
+dat2024 = dat2024 |> 
+  filter(Gender != "Unknown")
+
+dim(dat2024)
+
+# ===== save dataframe to use in Final ===== 
+write.csv(dat2024, "../185CLEANED/2024-FINAL-CLEANED.csv", row.names = FALSE)
+```
