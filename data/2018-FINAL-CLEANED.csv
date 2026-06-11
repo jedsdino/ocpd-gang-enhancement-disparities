@@ -1,0 +1,984 @@
+"Case ID Number","Defendant Number","Count","Offense Code_enhancement","Section Code_enhancement","Enhancement Type","Disposition Date_enhancement","Disposition_enhancement","Race","Gender","Date of Arrest","Bail Amount","Appearance Status","Sealed Case","Date of Violation","Attempt","Offense Code_primary","Section Code_primary","Crime Type","Disposition Date_primary","Disposition_primary","...11","has_prior"
+2801206,2759104,1,"186.22(b)(1)","PC","Enhancement",2019-01-14,"Dismissed/Not True","Hispanic","Male",2015-09-02,1e+06,"Walk Thru Warrant",NA,2015-08-22,"N","664(a)-187(a)","PC","Felony",2019-01-14,"Dismissed/Not Guilty",NA,1
+2801206,2759104,2,"186.22(b)(1)","PC","Enhancement",2019-01-14,"Dismissed/Not True","Hispanic","Male",2015-09-02,1e+06,"Walk Thru Warrant",NA,2015-08-22,"N","246","PC","Felony",2019-01-14,"Guilty",NA,1
+2986890,2960722,1,"186.22(b)(1)","PC","Enhancement",2018-12-10,"TRUE","Hispanic","Male",2018-09-11,NA,"In Custody",NA,2017-09-22,"N","245(a)(1)","PC","Felony",2018-12-10,"Guilty",NA,0
+2989369,2963389,1,"186.22(b)(1)","PC","Enhancement",2018-02-22,"TRUE","Hispanic","Male",2017-10-08,1e+05,"Appearance Date",NA,2017-10-08,"N","594(a)/(b)(1)","PC","Felony",2018-02-22,"Guilty",NA,0
+2995635,2970133,1,"186.22(b)(1)","PC","Enhancement",2019-07-22,"Dismissed/Not True","Hispanic","Male",2017-11-28,50000,"Arraignment Letter",NA,2017-11-18,"N","245(a)(1)","PC","Felony",2019-07-22,"Reduced",NA,0
+2995635,2970133,2,"186.22(b)(1)","PC","Enhancement",2019-07-22,"Dismissed/Not True","Hispanic","Male",2017-11-28,50000,"Arraignment Letter",NA,2017-11-18,"N","245(a)(1)","PC","Felony",2019-07-22,"Reduced",NA,0
+2995635,2970133,3,"186.22(b)(1)","PC","Enhancement",2019-07-22,"Dismissed/Not True","Hispanic","Male",2017-11-28,50000,"Arraignment Letter",NA,2017-11-18,"N","245(a)(1)","PC","Felony",2019-07-22,"Reduced",NA,0
+2995635,2970133,4,"186.22(b)(1)","PC","Enhancement",2019-07-22,"Dismissed/Not True","Hispanic","Male",2017-11-28,50000,"Arraignment Letter",NA,2017-11-18,"N","422(a)","PC","Felony",2019-07-22,"Guilty",NA,0
+2995635,2970133,5,"186.22(b)(1)","PC","Enhancement",2019-07-22,"Dismissed/Not True","Hispanic","Male",2017-11-28,50000,"Arraignment Letter",NA,2017-11-18,"N","422(a)","PC","Felony",2019-07-22,"Guilty",NA,0
+2995635,2970133,6,"186.22(b)(1)","PC","Enhancement",2019-07-22,"Dismissed/Not True","Hispanic","Male",2017-11-28,50000,"Arraignment Letter",NA,2017-11-18,"N","422(a)","PC","Felony",2019-07-22,"Guilty",NA,0
+3001897,2976943,1,"186.22(b)(1)","PC","Enhancement",2018-07-16,"TRUE","Hispanic","Male",NA,1e+05,"In Custody",NA,2017-08-25,"N","245(a)(1)","PC","Felony",2018-07-16,"Guilty",NA,1
+3003758,2978952,1,"186.22(b)(1)","PC","Enhancement",2018-05-07,"Dismissed/Not True","Hispanic","Male",2017-12-12,435000,"Request for Warrant",NA,2017-12-12,"N","11378","HS","Felony",2018-05-07,"Guilty",NA,1
+3003758,2978952,2,"186.22(b)(1)","PC","Enhancement",2018-05-07,"TRUE","Hispanic","Male",2017-12-12,435000,"Request for Warrant",NA,2017-12-12,"N","11351","HS","Felony",2018-05-07,"Guilty",NA,1
+3003900,2979109,1,"186.22(b)(1)","PC","Enhancement",2018-10-02,"TRUE","Hispanic","Male",2017-12-29,50000,"Appearance Date",NA,2017-12-29,"N","21310","PC","Felony",2018-10-02,"Guilty",NA,0
+3004160,2979388,1,"186.22(b)(1)","PC","Enhancement",2018-10-11,"Dismissed/Not True","Hispanic","Male",2018-01-05,1e+05,"In Custody",NA,2018-01-05,"N","594(a)/(b)(1)","PC","Felony",2018-10-11,"Reduced",NA,1
+3004160,2979389,1,"186.22(b)(1)","PC","Enhancement",2018-10-11,"Dismissed/Not True","Hispanic","Male",2018-01-05,1e+05,"In Custody",NA,2018-01-05,"N","594(a)/(b)(1)","PC","Felony",2018-10-11,"Reduced",NA,1
+3004634,2979906,1,"186.22(b)(1)","PC","Enhancement",2019-02-08,"TRUE","Hispanic","Male",2018-01-08,1e+05,"In Custody",NA,2018-01-08,"N","626.9(b)","PC","Felony",2019-02-08,"Guilty",NA,0
+3005398,2980735,1,"186.22(b)(1)","PC","Enhancement",2019-03-21,"TRUE","Hispanic","Male",2018-01-10,NA,"In Custody",NA,2018-01-10,"N","10851(a)","VC","Felony",2019-03-21,"Guilty",NA,1
+3005398,2980735,2,"186.22(b)(1)","PC","Enhancement",2019-03-21,"TRUE","Hispanic","Male",2018-01-10,NA,"In Custody",NA,2018-01-10,"N","496d(a)","PC","Felony",2019-03-21,"Guilty",NA,1
+3005496,2980840,1,"186.22(b)(1)","PC","Enhancement",2018-06-07,"TRUE","Hispanic","Male",2018-01-09,NA,"In Custody",NA,2018-01-09,"N","496d(a)","PC","Felony",2018-06-07,"Guilty",NA,1
+3005496,2980840,2,"186.22(b)(1)","PC","Enhancement",2018-06-07,"TRUE","Hispanic","Male",2018-01-09,NA,"In Custody",NA,2018-01-09,"N","10851(a)","VC","Felony",2018-06-07,"Guilty",NA,1
+3006066,2981459,1,"186.22(b)(1)","PC","Enhancement",2019-06-14,"TRUE","Hispanic","Male",2018-01-12,1e+06,"In Custody",NA,2017-12-07,"N","245(a)(1)","PC","Felony",2019-06-14,"Guilty",NA,1
+3006066,2981459,2,"186.22(b)(1)","PC","Enhancement",2019-06-14,"Dismissed/Not True","Hispanic","Male",2018-01-12,1e+06,"In Custody",NA,2017-12-07,"N","245(a)(4)","PC","Felony",2019-06-14,"Dismissed/Not Guilty",NA,1
+3006066,2981459,3,"186.22(b)(1)","PC","Enhancement",2019-06-14,"Dismissed/Not True","Hispanic","Male",2018-01-12,1e+06,"In Custody",NA,2017-12-07,"N","245(a)(4)","PC","Felony",2019-06-14,"Dismissed/Not Guilty",NA,1
+3006066,2981459,4,"186.22(b)(1)","PC","Enhancement",2019-06-14,"Dismissed/Not True","Hispanic","Male",2018-01-12,1e+06,"In Custody",NA,2017-12-07,"N","186.22(a)","PC","Felony",2019-06-14,"Dismissed/Not Guilty",NA,1
+3006718,2982175,1,"186.22(b)(1)","PC","Enhancement",2018-01-25,"Dismissed/Not True","Black","Male",2018-01-15,1e+05,"In Custody",NA,2018-01-15,"N","11351","HS","Felony",2018-01-25,"Guilty",NA,1
+3006718,2982175,2,"186.22(b)(1)","PC","Enhancement",2018-01-25,"Dismissed/Not True","Black","Male",2018-01-15,1e+05,"In Custody",NA,2018-01-15,"N","11378","HS","Felony",2018-01-25,"Guilty",NA,1
+3006756,2982216,1,"186.22(b)(1)","PC","Enhancement",2018-07-23,"Dismissed/Not True","Hispanic","Male",2018-01-15,250000,"In Custody",NA,2018-01-15,"N","626.9(b)","PC","Felony",2018-07-23,"Dismissed/Not Guilty",NA,0
+3006756,2982216,2,"186.22(b)(1)","PC","Enhancement",2018-07-23,"Dismissed/Not True","Hispanic","Male",2018-01-15,250000,"In Custody",NA,2018-01-15,"N","29815(a)","PC","Felony",2018-07-23,"Guilty",NA,0
+3006756,2982217,1,"186.22(b)(1)","PC","Enhancement",2018-09-28,"Dismissed/Not True","Hispanic","Male",2018-01-15,NA,"Appearance Date",NA,2018-01-15,"N","626.9(b)","PC","Felony",2018-09-28,"Reduced",NA,1
+3006792,2982260,1,"186.22(b)(1)","PC","Enhancement",2018-05-24,"TRUE","Hispanic","Male",2018-01-15,1e+05,"In Custody",NA,2018-01-15,"N","245(a)(4)","PC","Felony",2018-05-24,"Guilty",NA,0
+3006792,2982261,1,"186.22(b)(1)","PC","Enhancement",2018-09-28,"TRUE","Hispanic","Male",2018-01-15,1e+05,"In Custody",NA,2018-01-15,"N","245(a)(4)","PC","Felony",2018-09-28,"Guilty",NA,1
+3007515,2988789,1,"186.22(b)(1)","PC","Enhancement",2019-08-16,"Dismissed/Not True","Hispanic","Female",NA,NA,"In Custody",NA,2018-01-16,"N","215(a)","PC","Felony",2019-08-16,"Guilty",NA,0
+3007515,2988789,1,"186.22(b)(4)","PC","Other",2019-08-16,"Dismissed/Not True","Hispanic","Female",NA,NA,"In Custody",NA,2018-01-16,"N","215(a)","PC","Felony",2019-08-16,"Guilty",NA,0
+3007515,2988789,2,"186.22(b)(1)","PC","Enhancement",2019-08-16,"Dismissed/Not True","Hispanic","Female",NA,NA,"In Custody",NA,2018-01-16,"N","211/212.5(c)","PC","Felony",2019-08-16,"Guilty",NA,0
+3007515,2988794,1,"186.22(b)(1)","PC","Enhancement",2021-02-26,"TRUE","Hispanic","Male",NA,NA,"Request for Warrant",NA,2018-01-16,"N","215(a)","PC","Felony",2021-02-26,"Guilty",NA,1
+3007515,2988794,1,"186.22(b)(4)","PC","Other",2021-02-26,"TRUE","Hispanic","Male",NA,NA,"Request for Warrant",NA,2018-01-16,"N","215(a)","PC","Felony",2021-02-26,"Guilty",NA,1
+3007515,2988794,2,"186.22(b)(1)","PC","Enhancement",2021-02-26,"TRUE","Hispanic","Male",NA,NA,"Request for Warrant",NA,2018-01-16,"N","211/212.5(c)","PC","Felony",2021-02-26,"Guilty",NA,1
+3007515,2988796,1,"186.22(b)(1)","PC","Enhancement",2019-08-14,"Dismissed/Not True","White","Female",NA,NA,"Request for Warrant",NA,2018-01-16,"N","215(a)","PC","Felony",2019-08-14,"Dismissed/Not Guilty",NA,0
+3007515,2988796,1,"186.22(b)(4)","PC","Other",2019-08-14,"Dismissed/Not True","White","Female",NA,NA,"Request for Warrant",NA,2018-01-16,"N","215(a)","PC","Felony",2019-08-14,"Dismissed/Not Guilty",NA,0
+3007515,2988796,2,"186.22(b)(1)","PC","Enhancement",2019-08-14,"Dismissed/Not True","White","Female",NA,NA,"Request for Warrant",NA,2018-01-16,"N","211/212.5(c)","PC","Felony",2019-08-14,"Guilty",NA,0
+3007515,3113675,1,"186.22(b)(1)","PC","Enhancement",2019-10-28,"TRUE","Hispanic","Female",NA,NA,"Appearance Date",NA,2018-01-16,"N","215(a)","PC","Felony",2019-10-28,"Guilty",NA,1
+3007515,3113675,1,"186.22(b)(4)","PC","Other",2019-10-28,"TRUE","Hispanic","Female",NA,NA,"Appearance Date",NA,2018-01-16,"N","215(a)","PC","Felony",2019-10-28,"Guilty",NA,1
+3007515,3113675,2,"186.22(b)(1)","PC","Enhancement",2019-10-28,"TRUE","Hispanic","Female",NA,NA,"Appearance Date",NA,2018-01-16,"N","211/212.5(c)","PC","Felony",2019-10-28,"Guilty",NA,1
+3007628,2983166,1,"186.22(b)(1)","PC","Enhancement",2018-09-19,"TRUE","Hispanic","Female",2018-01-18,NA,"Appearance Date",NA,2018-01-18,"N","594(a)/(b)(1)","PC","Felony",2018-09-19,"Dismissed/Not Guilty",NA,0
+3007628,2983166,2,"186.22(b)(1)","PC","Enhancement",2018-09-19,"TRUE","Hispanic","Female",2018-01-18,NA,"Appearance Date",NA,2018-01-18,"N","594(a)/(b)(1)","PC","Misdemeanor",2018-09-19,"Guilty",NA,0
+3007628,2983168,1,"186.22(b)(1)","PC","Enhancement",2018-09-19,"TRUE","Hispanic","Male",2018-01-18,NA,"In Custody",NA,2018-01-18,"N","594(a)/(b)(1)","PC","Felony",2018-09-19,"Guilty",NA,1
+3007628,2983168,2,"186.22(b)(1)","PC","Enhancement",2018-09-19,"TRUE","Hispanic","Male",2018-01-18,NA,"In Custody",NA,2018-01-18,"N","594(a)/(b)(1)","PC","Misdemeanor",2018-09-19,"Guilty",NA,1
+3007637,2983178,1,"186.22(b)(1)","PC","Enhancement",2020-06-29,"Dismissed/Not True","Hispanic","Male",2018-01-17,NA,"In Custody",NA,2018-01-17,"N","594(a)/(b)(1)","PC","Felony",2020-06-29,"Reduced",NA,1
+3007637,2983178,2,"186.22(b)(1)","PC","Enhancement",2020-06-29,"Dismissed/Not True","Hispanic","Male",2018-01-17,NA,"In Custody",NA,2018-01-17,"N","422(a)","PC","Felony",2020-06-29,"Reduced",NA,1
+3007817,2983373,1,"186.22(b)(1)","PC","Enhancement",2018-06-11,"Dismissed/Not True","Hispanic","Male",2018-01-20,1e+05,"In Custody",NA,2018-01-20,"N","29800(a)(1)","PC","Felony",2018-06-11,"Guilty",NA,0
+3007817,2983373,2,"186.22(b)(1)","PC","Enhancement",2018-06-11,"Dismissed/Not True","Hispanic","Male",2018-01-20,1e+05,"In Custody",NA,2018-01-20,"N","626.9(b)","PC","Felony",2018-06-11,"Dismissed/Not Guilty",NA,0
+3007817,2983373,3,"186.22(b)(1)","PC","Enhancement",2018-06-11,"Dismissed/Not True","Hispanic","Male",2018-01-20,1e+05,"In Custody",NA,2018-01-20,"N","25850(a)/(c)(6)","PC","Felony",2018-06-11,"Dismissed/Not Guilty",NA,0
+3007817,2983373,4,"186.22(b)(1)","PC","Enhancement",2018-06-11,"Dismissed/Not True","Hispanic","Male",2018-01-20,1e+05,"In Custody",NA,2018-01-20,"N","30305(a)(1)","PC","Felony",2018-06-11,"Guilty",NA,0
+3008006,2983595,1,"186.22(b)(1)","PC","Enhancement",2019-03-20,"TRUE","White","Female",NA,1e+06,"In Custody",NA,2018-01-11,"N","29800(a)(1)","PC","Felony",2019-03-20,"Guilty",NA,1
+3008006,2983595,2,"186.22(b)(1)","PC","Enhancement",2019-03-20,"TRUE","White","Female",NA,1e+06,"In Custody",NA,2018-01-18,"N","25400(a)(2)/(c)(1)","PC","Felony",2019-03-20,"Guilty",NA,1
+3008679,2984318,1,"186.22(b)(1)","PC","Enhancement",2019-01-29,"Dismissed/Not True","Hispanic","Male",2018-01-22,1e+06,"In Custody",NA,2018-01-22,"N","11378","HS","Felony",2019-01-29,"Dismissed/Not Guilty",NA,1
+3008679,2984318,2,"186.22(b)(1)","PC","Enhancement",2018-09-19,"TRUE","Hispanic","Male",2018-01-22,1e+06,"In Custody",NA,2018-01-22,"N","11351","HS","Felony",2018-09-19,"Guilty",NA,1
+3009075,2984745,2,"186.22(b)(1)","PC","Enhancement",2019-03-01,"TRUE","Hispanic","Male",2018-01-23,1e+06,"In Custody",NA,2018-01-23,"N","664(a)-187(a)","PC","Felony",2019-03-01,"Guilty",NA,1
+3009075,2984746,3,"186.22(b)(1)","PC","Enhancement",2019-03-25,"Dismissed/Not True","Hispanic","Male",2018-01-23,1e+06,"In Custody",NA,2018-01-23,"N","664(a)-187(a)","PC","Felony",2019-03-25,"Dismissed/Not Guilty",NA,0
+3009075,2984746,5,"186.22(b)(1)","PC","Enhancement",2019-03-25,"TRUE","Hispanic","Male",2018-01-23,1e+06,"In Custody",NA,2018-01-23,"N","245(a)(1)","PC","Felony",2019-03-25,"Guilty",NA,0
+3009128,2984800,1,"186.22(b)(1)","PC","Enhancement",2018-09-10,"TRUE","Hispanic","Male",2018-01-24,1e+05,"In Custody",NA,2018-01-24,"N","29800(a)(1)","PC","Felony",2018-09-10,"Guilty",NA,1
+3009128,2984800,2,"186.22(b)(1)","PC","Enhancement",2018-09-10,"Dismissed/Not True","Hispanic","Male",2018-01-24,1e+05,"In Custody",NA,2018-01-24,"N","30305(a)(1)","PC","Felony",2018-09-10,"Guilty",NA,1
+3009201,2984876,1,"186.22(b)(1)","PC","Enhancement",2019-02-15,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Arraignment Letter",NA,2017-11-14,"N","22210","PC","Felony",2019-02-15,"Reduced",NA,0
+3009364,2985051,1,"186.22(b)(1)","PC","Enhancement",2018-02-06,"Dismissed/Not True","Hispanic","Male",2018-01-24,20000,"In Custody",NA,2018-01-24,"N","594(a)/(b)(1)","PC","Felony",2018-02-06,"Guilty",NA,0
+3009364,2985053,1,"186.22(b)(1)","PC","Enhancement",2018-02-05,"Dismissed/Not True","Hispanic","Male",2018-01-24,25000,"In Custody",NA,2018-01-24,"N","594(a)/(b)(1)","PC","Felony",2018-02-05,"Guilty",NA,0
+3009364,2985054,1,"186.22(b)(1)","PC","Enhancement",2018-04-12,"Dismissed/Not True","Hispanic","Male",2018-01-24,25000,"In Custody",NA,2018-01-24,"N","594(a)/(b)(1)","PC","Felony",2018-04-12,"Dismissed/Not Guilty",NA,0
+3010196,2985976,1,"186.22(b)(1)","PC","Enhancement",2018-02-23,"Dismissed/Not True","Hispanic","Male",2018-01-27,NA,"In Custody",NA,2018-01-27,"N","22210","PC","Felony",2018-02-23,"Guilty",NA,1
+3010205,2985987,1,"186.22(b)(1)","PC","Enhancement",2019-04-29,"TRUE","Hispanic","Male",2018-01-28,150000,"In Custody",NA,2018-01-27,"N","245(a)(2)","PC","Felony",2019-04-29,"Guilty",NA,0
+3010205,2985987,2,"186.22(b)(1)","PC","Enhancement",2019-04-29,"Dismissed/Not True","Hispanic","Male",2018-01-28,150000,"In Custody",NA,2018-01-27,"N","422(a)","PC","Felony",2019-04-29,"Guilty",NA,0
+3010205,2985987,3,"186.22(b)(1)","PC","Enhancement",2019-04-29,"Dismissed/Not True","Hispanic","Male",2018-01-28,150000,"In Custody",NA,2018-01-27,"N","417(b)","PC","Felony",2019-04-29,"Guilty",NA,0
+3010489,2986278,1,"186.22(b)(1)","PC","Enhancement",2018-04-20,"TRUE","Hispanic","Male",2018-01-29,1e+05,"In Custody",NA,2018-01-29,"N","626.9(b)","PC","Felony",2018-04-20,"Guilty",NA,0
+3010489,2986278,2,"186.22(b)(1)","PC","Enhancement",2018-04-20,"Dismissed/Not True","Hispanic","Male",2018-01-29,1e+05,"In Custody",NA,2018-01-29,"N","32","PC","Felony",2018-04-20,"Dismissed/Not Guilty",NA,0
+3010489,2986279,2,"186.22(b)(1)","PC","Enhancement",2018-04-20,"Dismissed/Not True","Hispanic","Male",2018-01-29,1e+05,"In Custody",NA,2018-01-29,"N","32","PC","Felony",2018-04-20,"Dismissed/Not Guilty",NA,0
+3011938,2987876,1,"186.22(b)(1)","PC","Enhancement",2019-01-10,"TRUE","Hispanic","Male",2018-02-02,1e+05,"In Custody",NA,2018-02-02,"N","211/212.5(c)","PC","Felony",2019-01-10,"Guilty",NA,1
+3013021,2989006,1,"186.22(b)(1)","PC","Enhancement",2018-04-02,"Dismissed/Not True","Hispanic","Male",2018-02-07,50000,"Appearance Date",NA,2018-02-07,"N","594(a)/(b)(1)","PC","Felony",2018-04-02,"Reduced",NA,0
+3013021,2989007,1,"186.22(b)(1)","PC","Enhancement",2018-04-02,"TRUE","Hispanic","Male",2018-02-07,1e+05,"In Custody",NA,2018-02-07,"N","594(a)/(b)(1)","PC","Felony",2018-04-02,"Guilty",NA,1
+3013021,2989008,1,"186.22(b)(1)","PC","Enhancement",2018-04-02,"Dismissed/Not True","Hispanic","Male",2018-02-07,50000,"In Custody",NA,2018-02-07,"N","594(a)/(b)(1)","PC","Felony",2018-04-02,"Guilty",NA,0
+3013021,2989009,1,"186.22(b)(1)","PC","Enhancement",2018-04-02,"TRUE","Hispanic","Female",2018-02-07,150000,"In Custody",NA,2018-02-07,"N","594(a)/(b)(1)","PC","Felony",2018-04-02,"Guilty",NA,1
+3013021,2989009,3,"186.22(b)(1)","PC","Enhancement",2018-04-02,"TRUE","Hispanic","Female",2018-02-07,150000,"In Custody",NA,2018-02-07,"N","21810","PC","Felony",2018-04-02,"Guilty",NA,1
+3013040,2988973,1,"186.22(b)(1)","PC","Enhancement",2019-02-08,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Arraignment Letter",NA,2018-02-07,"N","25400(a)(2)/(c)(6)","PC","Felony",2019-02-08,"Dismissed/Not Guilty",NA,0
+3013040,2988973,2,"186.22(b)(1)","PC","Enhancement",2019-02-08,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Arraignment Letter",NA,2018-02-07,"N","25850(a)/(c)(6)","PC","Felony",2019-02-08,"Dismissed/Not Guilty",NA,0
+3013040,2988973,4,"186.22(b)(1)","PC","Enhancement",2019-02-08,"TRUE","Hispanic","Male",NA,1e+05,"Arraignment Letter",NA,2018-02-07,"N","23900","PC","Felony",2019-02-08,"Guilty",NA,0
+3013040,2988973,7,"186.22(b)(1)","PC","Enhancement",2019-02-08,"TRUE","Hispanic","Male",NA,1e+05,"Arraignment Letter",NA,2018-02-16,"N","23900","PC","Felony",2019-02-08,"Guilty",NA,0
+3013648,2989698,1,"186.22(b)(1)","PC","Enhancement",2019-05-15,"Dismissed/Not True","Hispanic","Male",2018-02-09,1e+06,"In Custody",NA,2017-11-26,"N","182(a)(1)","PC","Felony",2019-05-15,"Dismissed/Not Guilty",NA,1
+3013648,2989698,2,"186.22(b)(1)","PC","Enhancement",2019-05-15,"Dismissed/Not True","Hispanic","Male",2018-02-09,1e+06,"In Custody",NA,2017-11-26,"N","664(a)-187(a)","PC","Felony",2019-05-15,"Dismissed/Not Guilty",NA,1
+3013688,2989750,1,"186.22(b)(1)","PC","Enhancement",2018-04-23,"TRUE","Hispanic","Male",2018-02-10,1e+05,"In Custody",NA,2018-02-10,"N","211/212.5(c)","PC","Felony",2018-04-23,"Guilty",NA,0
+3013812,2989891,1,"186.22(b)(1)","PC","Enhancement",2019-03-29,"Dismissed/Not True","White","Male",NA,25000,"Walk Thru Warrant",NA,2018-01-31,"N","594(a)/(b)(1)","PC","Felony",2019-03-29,"Guilty",NA,0
+3013812,2989892,1,"186.22(b)(1)","PC","Enhancement",2018-09-06,"Dismissed/Not True","White","Male",NA,1e+06,"In Custody",NA,2018-01-31,"N","594(a)/(b)(1)","PC","Felony",2018-09-06,"Dismissed/Not Guilty",NA,0
+3013812,2989892,4,"186.22(b)(1)","PC","Enhancement",2018-09-06,"Dismissed/Not True","White","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","664(a)-187(a)","PC","Felony",2018-09-06,"Dismissed/Not Guilty",NA,0
+3013812,2989892,5,"186.22(b)(1)","PC","Enhancement",2018-09-06,"Dismissed/Not True","White","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","245(a)(1)","PC","Felony",2018-09-06,"Guilty",NA,0
+3013812,2989892,6,"186.22(b)(1)","PC","Enhancement",2018-09-06,"Dismissed/Not True","White","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","245(a)(1)","PC","Felony",2018-09-06,"Dismissed/Not Guilty",NA,0
+3013812,2989892,7,"186.22(b)(1)","PC","Enhancement",2018-09-06,"Dismissed/Not True","White","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","245(a)(1)","PC","Felony",2018-09-06,"Dismissed/Not Guilty",NA,0
+3013812,2989892,8,"186.22(b)(1)","PC","Enhancement",2018-09-06,"Dismissed/Not True","White","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","244","PC","Felony",2018-09-06,"Dismissed/Not Guilty",NA,0
+3013812,3028535,4,"186.22(b)(1)","PC","Enhancement",2018-09-06,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","664(a)-187(a)","PC","Felony",2018-09-06,"Dismissed/Not Guilty",NA,0
+3013812,3028535,5,"186.22(b)(1)","PC","Enhancement",2018-09-06,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","245(a)(1)","PC","Felony",2018-09-06,"Guilty",NA,0
+3013812,3028535,6,"186.22(b)(1)","PC","Enhancement",2018-09-06,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","245(a)(1)","PC","Felony",2018-09-06,"Dismissed/Not Guilty",NA,0
+3013812,3028535,7,"186.22(b)(1)","PC","Enhancement",2018-09-06,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","245(a)(1)","PC","Felony",2018-09-06,"Dismissed/Not Guilty",NA,0
+3013812,3028535,8,"186.22(b)(1)","PC","Enhancement",2018-09-06,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","244","PC","Felony",2018-09-06,"Dismissed/Not Guilty",NA,0
+3013954,2989682,1,"186.22(b)(1)","PC","Enhancement",2018-06-18,"TRUE","Hispanic","Male",2018-02-09,1e+06,"In Custody",NA,2018-02-09,"N","25400(a)(1)/(c)(3)","PC","Felony",2018-06-18,"Guilty",NA,1
+3013954,2989682,2,"186.22(b)(1)","PC","Enhancement",2018-06-18,"TRUE","Hispanic","Male",2018-02-09,1e+06,"In Custody",NA,2018-02-09,"N","25850(a)/(c)(6)","PC","Felony",2018-06-18,"Guilty",NA,1
+3013954,2989682,4,"186.22(b)(1)","PC","Enhancement",2018-06-18,"TRUE","Hispanic","Male",2018-02-09,1e+06,"In Custody",NA,2018-02-09,"N","29800(a)(1)","PC","Felony",2018-06-18,"Guilty",NA,1
+3013954,2989683,1,"186.22(b)(1)","PC","Enhancement",2018-06-18,"TRUE","Hispanic","Male",2018-02-09,1e+05,"In Custody",NA,2018-02-09,"N","25400(a)(1)/(c)(3)","PC","Felony",2018-06-18,"Guilty",NA,0
+3013954,2989683,2,"186.22(b)(1)","PC","Enhancement",2018-06-18,"Dismissed/Not True","Hispanic","Male",2018-02-09,1e+05,"In Custody",NA,2018-02-09,"N","25850(a)/(c)(6)","PC","Felony",2018-06-18,"Dismissed/Not Guilty",NA,0
+3014412,2990441,1,"186.22(b)(1)","PC","Enhancement",2019-05-17,"Dismissed/Not True","Hispanic","Female",NA,NA,"In Custody",NA,2018-01-16,"N","215(a)","PC","Felony",2019-05-17,"Dismissed/Not Guilty",NA,1
+3014412,2990441,2,"186.22(b)(1)","PC","Enhancement",2019-05-17,"Dismissed/Not True","Hispanic","Female",NA,NA,"In Custody",NA,2018-01-17,"N","211/212.5(c)","PC","Felony",2019-05-17,"Dismissed/Not Guilty",NA,1
+3014436,2990557,1,"186.22(b)(1)","PC","Enhancement",2019-08-12,"TRUE","Hispanic","Male",2018-02-13,1e+06,"In Custody",NA,2018-02-13,"N","211/212.5(c)","PC","Felony",2019-08-12,"Guilty",NA,0
+3014436,2990557,2,"186.22(b)(1)","PC","Enhancement",2019-08-12,"TRUE","Hispanic","Male",2018-02-13,1e+06,"In Custody",NA,2018-02-13,"N","487(a)","PC","Felony",2019-08-12,"Guilty",NA,0
+3014436,3001687,1,"186.22(b)(1)","PC","Enhancement",2019-08-12,"TRUE","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-02-13,"N","211/212.5(c)","PC","Felony",2019-08-12,"Guilty",NA,0
+3014436,3001687,2,"186.22(b)(1)","PC","Enhancement",2019-08-12,"TRUE","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-02-13,"N","487(a)","PC","Felony",2019-08-12,"Guilty",NA,0
+3014727,2990872,1,"186.22(b)(1)","PC","Enhancement",2019-03-05,"Dismissed/Not True","Hispanic","Female",NA,1e+05,"In Custody",NA,2018-02-09,"N","245(a)(1)","PC","Felony",2019-03-05,"Guilty",NA,0
+3014727,2990872,2,"186.22(b)(1)","PC","Enhancement",2019-03-05,"Dismissed/Not True","Hispanic","Female",NA,1e+05,"In Custody",NA,2018-02-09,"N","211/212.5(c)","PC","Felony",2019-03-05,"Dismissed/Not Guilty",NA,0
+3014727,2990873,1,"186.22(b)(1)","PC","Enhancement",2019-03-05,"Dismissed/Not True","Hispanic","Male",NA,50000,"In Custody",NA,2018-02-09,"N","245(a)(1)","PC","Felony",2019-03-05,"Guilty",NA,1
+3014727,2990873,2,"186.22(b)(1)","PC","Enhancement",2020-08-14,"Dismissed/Not True","Hispanic","Male",NA,50000,"In Custody",NA,2018-02-09,"N","211/212.5(c)","PC","Felony",2020-08-14,"Dismissed/Not Guilty",NA,1
+3014800,2990955,1,"186.22(b)(1)","PC","Enhancement",2018-08-22,"TRUE","Hispanic","Male",2018-02-14,50000,"In Custody",NA,2018-02-14,"N","21310","PC","Felony",2018-08-22,"Guilty",NA,0
+3017092,2993441,1,"186.22(b)(1)","PC","Enhancement",2019-08-29,"TRUE","Hispanic","Male",2018-02-23,1e+06,"In Custody",NA,2018-01-03,"N","664(a)-187(a)","PC","Felony",2019-08-29,"Guilty",NA,1
+3017092,2993441,2,"186.22(b)(1)","PC","Enhancement",2019-08-29,"TRUE","Hispanic","Male",2018-02-23,1e+06,"In Custody",NA,2018-01-03,"N","245(a)(1)","PC","Felony",2019-08-29,"Guilty",NA,1
+3017281,2993651,1,"186.22(b)(1)","PC","Enhancement",2018-10-10,"TRUE","Hispanic","Male",2018-02-24,1e+05,"In Custody",NA,2018-02-24,"N","666.5(a)/10851(a)","PC","Felony",2018-10-10,"Guilty",NA,1
+3017281,2993651,2,"186.22(b)(1)","PC","Enhancement",2018-10-10,"TRUE","Hispanic","Male",2018-02-24,1e+05,"In Custody",NA,2018-02-24,"N","2800.2","VC","Felony",2018-10-10,"Guilty",NA,1
+3017361,2993734,1,"186.22(b)(1)","PC","Enhancement",2021-10-04,"TRUE","Hispanic","Male",2018-02-24,1e+05,"Appearance Date",NA,2018-02-24,"N","29800(a)(1)","PC","Felony",2021-10-04,"Guilty",NA,1
+3017361,2993734,2,"186.22(b)(1)","PC","Enhancement",2021-10-04,"TRUE","Hispanic","Male",2018-02-24,1e+05,"Appearance Date",NA,2018-02-24,"N","25400(a)(2)/(c)(1)","PC","Felony",2021-10-04,"Guilty",NA,1
+3017589,2993992,1,"186.22(b)(1)","PC","Enhancement",2018-12-11,"Dismissed/Not True","Hispanic","Male",2018-02-26,1e+06,"In Custody",NA,2018-02-26,"N","594(a)/(b)(1)","PC","Felony",2018-12-11,"Reduced",NA,1
+3017589,2993992,2,"186.22(b)(1)","PC","Enhancement",2018-12-11,"Dismissed/Not True","Hispanic","Male",2018-02-26,1e+06,"In Custody",NA,2018-02-26,"N","594(a)/(b)(1)","PC","Felony",2018-12-11,"Reduced",NA,1
+3017589,2993992,3,"186.22(b)(1)","PC","Enhancement",2018-12-11,"Dismissed/Not True","Hispanic","Male",2018-02-26,1e+06,"In Custody",NA,2018-02-26,"N","459-460(b)","PC","Felony",2018-12-11,"Reduced",NA,1
+3017589,2993992,4,"186.22(b)(1)","PC","Enhancement",2018-12-11,"Dismissed/Not True","Hispanic","Male",2018-02-26,1e+06,"In Custody",NA,2018-02-26,"N","496d(a)","PC","Felony",2018-12-11,"Reduced",NA,1
+3018536,2995051,1,"186.22(b)(1)","PC","Enhancement",2019-08-23,"Dismissed/Not True","Hispanic","Male",2018-03-01,250000,"In Custody",NA,2018-02-26,"N","211/212.5(c)","PC","Felony",2019-08-23,"Guilty",NA,0
+3018536,2995051,2,"186.22(b)(1)","PC","Enhancement",2019-08-23,"Dismissed/Not True","Hispanic","Male",2018-03-01,250000,"In Custody",NA,2018-02-26,"N","245(a)(1)","PC","Felony",2019-08-23,"Dismissed/Not Guilty",NA,0
+3018536,2995051,3,"186.22(b)(1)","PC","Enhancement",2019-08-23,"Dismissed/Not True","Hispanic","Male",2018-03-01,250000,"In Custody",NA,2018-02-26,"N","245(b)","PC","Felony",2019-08-23,"Guilty",NA,0
+3018536,2995051,4,"186.22(b)(1)","PC","Enhancement",2019-08-23,"Dismissed/Not True","Hispanic","Male",2018-03-01,250000,"In Custody",NA,2018-02-26,"N","243(d)","PC","Felony",2019-08-23,"Dismissed/Not Guilty",NA,0
+3018536,2995052,1,"186.22(b)(1)","PC","Enhancement",2019-08-23,"TRUE","Hispanic","Male",2018-02-28,1e+06,"In Custody",NA,2018-02-26,"N","211/212.5(c)","PC","Felony",2019-08-23,"Guilty",NA,1
+3018536,2995052,2,"186.22(b)(1)","PC","Enhancement",2019-08-23,"TRUE","Hispanic","Male",2018-02-28,1e+06,"In Custody",NA,2018-02-26,"N","245(a)(1)","PC","Felony",2019-08-23,"Guilty",NA,1
+3018536,2995052,3,"186.22(b)(1)","PC","Enhancement",2019-08-23,"Dismissed/Not True","Hispanic","Male",2018-02-28,1e+06,"In Custody",NA,2018-02-26,"N","245(b)","PC","Felony",2019-08-23,"Dismissed/Not Guilty",NA,1
+3018536,2995052,4,"186.22(b)(1)","PC","Enhancement",2019-08-23,"Dismissed/Not True","Hispanic","Male",2018-02-28,1e+06,"In Custody",NA,2018-02-26,"N","243(d)","PC","Felony",2019-08-23,"Dismissed/Not Guilty",NA,1
+3018879,2995429,1,"186.22(b)(1)","PC","Enhancement",2018-05-14,"TRUE","Hispanic","Male",NA,1e+06,"In Custody",NA,2016-06-30,"N","664(a)-187(a)","PC","Felony",2018-05-14,"Guilty",NA,0
+3019228,2995805,1,"186.22(b)(1)","PC","Enhancement",2020-01-02,"TRUE","Hispanic","Male",2018-03-03,1e+05,"In Custody",NA,2018-03-03,"N","29800(a)(1)","PC","Felony",2020-01-02,"Guilty",NA,1
+3019743,2996365,1,"186.22(b)(1)","PC","Enhancement",2018-03-27,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-02-13,"N","211/212.5(c)","PC","Felony",2018-03-27,"Dismissed/Not Guilty",NA,1
+3019743,2996365,2,"186.22(b)(1)","PC","Enhancement",2018-03-27,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-02-13,"N","487(a)","PC","Felony",2018-03-27,"Dismissed/Not Guilty",NA,1
+3019743,2996365,3,"186.22(b)(1)","PC","Enhancement",2018-03-27,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-02-13,"N","518/520","PC","Felony",2018-03-27,"Dismissed/Not Guilty",NA,1
+3019743,2996365,5,"186.22(b)(1)","PC","Enhancement",2018-03-27,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-02-13,"N","29800(a)(1)","PC","Felony",2018-03-27,"Dismissed/Not Guilty",NA,1
+3020182,2996841,1,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Arraignment Letter",NA,2018-02-07,"N","23900","PC","Felony",NA,NA,NA,0
+3020182,2996841,3,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Arraignment Letter",NA,2018-02-16,"N","23900","PC","Felony",NA,NA,NA,0
+3020931,2997658,1,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","182(a)(1)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,1
+3020931,2997658,2,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","187(a)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,1
+3020931,2997658,3,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","459-460(a)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,1
+3020931,2997659,1,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","182(a)(1)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,1
+3020931,2997659,2,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","187(a)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,1
+3020931,2997659,3,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","459-460(a)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,1
+3020931,2997660,1,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","182(a)(1)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,0
+3020931,2997660,2,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","187(a)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,0
+3020931,2997660,3,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","459-460(a)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,0
+3020931,2997662,1,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","182(a)(1)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,1
+3020931,2997662,2,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","187(a)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,1
+3020931,2997662,3,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","459-460(a)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,1
+3020931,2997664,1,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","182(a)(1)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,1
+3020931,2997664,2,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","187(a)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,1
+3020931,2997664,3,"186.22(b)(1)","PC","Enhancement",2020-10-23,"Dismissed/Not True","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-01-19,"N","459-460(a)","PC","Felony",2020-10-23,"Dismissed/Not Guilty",NA,1
+3020997,2997734,1,"186.22(b)(1)","PC","Enhancement",2018-08-28,"TRUE","Hispanic","Male",2018-03-10,1e+05,"In Custody",NA,2018-03-10,"N","594(a)/(b)(1)","PC","Felony",2018-08-28,"Guilty",NA,0
+3021484,2997792,1,"186.22(b)(1)","PC","Enhancement",2018-03-26,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-03-10,"N","11378","HS","Felony",2018-03-26,"Guilty",NA,1
+3021539,2998340,1,"186.22(b)(1)","PC","Enhancement",2018-12-10,"TRUE","Hispanic","Male",NA,NA,"In Custody",NA,2017-10-10,"N","664(a)-187(a)","PC","Felony",2018-12-10,"Guilty",NA,0
+3021539,2998340,2,"186.22(b)(4)","PC","Other",2018-12-10,"TRUE","Hispanic","Male",NA,NA,"In Custody",NA,2017-10-10,"N","215(a)","PC","Felony",2018-12-10,"Guilty",NA,0
+3021539,2998342,1,"186.22(b)(1)","PC","Enhancement",2018-08-30,"Dismissed/Not True","White","Male",NA,NA,"In Custody",NA,2017-10-10,"N","664(a)-187(a)","PC","Felony",2018-08-30,"Guilty",NA,0
+3021539,2998342,2,"186.22(b)(1)","PC","Enhancement",2018-08-30,"Dismissed/Not True","White","Male",NA,NA,"In Custody",NA,2017-10-10,"N","215(a)","PC","Felony",2018-08-30,"Guilty",NA,0
+3021539,2998342,2,"186.22(b)(4)","PC","Other",2018-08-30,"Dismissed/Not True","White","Male",NA,NA,"In Custody",NA,2017-10-10,"N","215(a)","PC","Felony",2018-08-30,"Guilty",NA,0
+3021834,2998654,1,"186.22(b)(1)","PC","Enhancement",2018-05-21,"Dismissed/Not True","Hispanic","Male",2018-03-13,40000,"In Custody",NA,2018-03-13,"N","594(a)/(b)(1)","PC","Felony",2018-05-21,"Guilty",NA,0
+3022000,2998824,1,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",2018-03-13,50000,"Appearance Date",NA,2018-03-13,"N","11378","HS","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3022000,2998824,2,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",2018-03-13,50000,"Appearance Date",NA,2018-03-13,"N","11379(a)","HS","Felony",2019-06-18,"Guilty",NA,1
+3022332,2999176,1,"186.22(b)(1)","PC","Enhancement",2019-03-07,"TRUE","Hispanic","Male",2018-03-15,1e+05,"In Custody",NA,2018-03-15,"N","21310","PC","Felony",2019-03-07,"Guilty",NA,1
+3022589,2999466,1,"186.22(b)(1)","PC","Enhancement",2019-07-29,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Walk Thru Warrant",NA,2017-03-25,"N","245(a)(2)","PC","Felony",2019-07-29,"Guilty",NA,1
+3023832,3000816,1,"186.22(b)(1)","PC","Enhancement",2018-05-04,"TRUE","Hispanic","Male",2018-03-21,40000,"In Custody",NA,2018-03-21,"N","594(a)/(b)(1)","PC","Felony",2018-05-04,"Guilty",NA,0
+3024250,3001259,1,"186.22(b)(1)","PC","Enhancement",2018-08-23,"TRUE","Hispanic","Male",2018-03-23,1e+05,"In Custody",NA,2018-03-23,"N","29800(a)(1)","PC","Felony",2018-08-23,"Guilty",NA,0
+3024250,3001259,2,"186.22(b)(1)","PC","Enhancement",2018-08-23,"Dismissed/Not True","Hispanic","Male",2018-03-23,1e+05,"In Custody",NA,2018-03-23,"N","25850(a)/(c)(1)","PC","Felony",2018-08-23,"Guilty",NA,0
+3024250,3001259,3,"186.22(b)(1)","PC","Enhancement",2018-08-23,"Dismissed/Not True","Hispanic","Male",2018-03-23,1e+05,"In Custody",NA,2018-03-23,"N","10851(a)","VC","Felony",2018-08-23,"Guilty",NA,0
+3024250,3001259,4,"186.22(b)(1)","PC","Enhancement",2018-08-23,"Dismissed/Not True","Hispanic","Male",2018-03-23,1e+05,"In Custody",NA,2018-03-23,"N","2800.2","VC","Felony",2018-08-23,"Guilty",NA,0
+3024461,3001501,1,"186.22(b)(1)","PC","Enhancement",2018-08-15,"TRUE","Hispanic","Male",2018-03-23,25000,"In Custody",NA,2018-03-23,"Y","211/212.5(c)","PC","Felony",2018-08-15,"Guilty",NA,1
+3024461,3001501,3,"186.22(b)(1)","PC","Enhancement",2018-08-15,"Dismissed/Not True","Hispanic","Male",2018-03-23,25000,"In Custody",NA,2018-03-23,"N","10851(a)","VC","Felony",2018-08-15,"Dismissed/Not Guilty",NA,1
+3024461,3001502,1,"186.22(b)(1)","PC","Enhancement",2018-08-15,"TRUE","Hispanic","Female",2018-03-23,25000,"In Custody",NA,2018-03-23,"Y","211/212.5(c)","PC","Felony",2018-08-15,"Guilty",NA,0
+3024461,3001502,3,"186.22(b)(1)","PC","Enhancement",2018-08-15,"Dismissed/Not True","Hispanic","Female",2018-03-23,25000,"In Custody",NA,2018-03-23,"N","10851(a)","VC","Felony",2018-08-15,"Dismissed/Not Guilty",NA,0
+3024893,3001980,2,"186.22(b)(1)","PC","Enhancement",2018-05-09,"TRUE","Hispanic","Male",2018-03-26,50000,"In Custody",NA,2018-03-26,"N","25400(a)(1)/(c)(6)","PC","Felony",2018-05-09,"Guilty",NA,0
+3024893,3001981,1,"186.22(b)(1)","PC","Enhancement",2018-05-09,"TRUE","Hispanic","Male",2018-03-26,50000,"In Custody",NA,2018-03-26,"N","25850(a)/(c)(2)","PC","Felony",2018-05-09,"Guilty",NA,0
+3025149,3002266,4,"186.22(b)(1)","PC","Enhancement",2019-08-06,"TRUE","Vietnamese","Male",2018-03-27,250000,"In Custody",NA,2018-01-01,"N","182(a)(1)","PC","Felony",2019-08-06,"Guilty",NA,1
+3025149,3002266,5,"186.22(b)(1)","PC","Enhancement",2019-08-06,"TRUE","Vietnamese","Male",2018-03-27,250000,"In Custody",NA,2018-01-01,"N","182.5","PC","Felony",2019-08-06,"Guilty",NA,1
+3025605,3002743,1,"186.22(b)(1)","PC","Enhancement",2019-10-04,"Dismissed/Not True","Hispanic","Male",NA,50000,"Appearance Date",NA,2018-03-20,"N","245(a)(4)","PC","Felony",2019-10-04,"Guilty",NA,0
+3025605,3002743,2,"186.22(b)(1)","PC","Enhancement",2019-10-04,"Dismissed/Not True","Hispanic","Male",NA,50000,"Appearance Date",NA,2018-03-20,"N","422(a)","PC","Felony",2019-10-04,"Reduced",NA,0
+3025605,3002743,3,"186.22(b)(1)","PC","Enhancement",2019-10-04,"Dismissed/Not True","Hispanic","Male",NA,50000,"Appearance Date",NA,2018-03-20,"N","30605(a)","PC","Felony",2019-10-04,"Guilty",NA,0
+3025605,3002743,4,"186.22(b)(1)","PC","Enhancement",2019-10-04,"Dismissed/Not True","Hispanic","Male",NA,50000,"Appearance Date",NA,2018-03-20,"N","21810","PC","Felony",2019-10-04,"Guilty",NA,0
+3026081,3003264,1,"186.22(b)(4)","PC","Other",2018-12-13,"TRUE","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-03-29,"N","664(a)-187(a)","PC","Felony",2018-12-13,"Guilty",NA,0
+3026081,3003264,2,"186.22(b)(4)","PC","Other",2018-12-13,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-03-29,"N","246","PC","Felony",2018-12-13,"Guilty",NA,0
+3026362,3003582,1,"186.22(b)(1)","PC","Enhancement",2018-06-18,"Dismissed/Not True","Hispanic","Male",2018-04-02,1e+05,"In Custody",NA,2018-04-02,"N","25850(a)/(c)(3)","PC","Felony",2018-06-18,"Dismissed/Not Guilty",NA,0
+3026362,3003582,3,"186.22(b)(1)","PC","Enhancement",2018-06-18,"Dismissed/Not True","Hispanic","Male",2018-04-02,1e+05,"In Custody",NA,2018-04-02,"N","626.9(b)","PC","Felony",2018-06-18,"Guilty",NA,0
+3026362,3003583,2,"186.22(b)(1)","PC","Enhancement",2018-06-18,"Dismissed/Not True","Hispanic","Male",2018-04-02,1e+05,"In Custody",NA,2018-04-02,"N","29800(a)(1)","PC","Felony",2018-06-18,"Dismissed/Not Guilty",NA,0
+3026362,3003583,3,"186.22(b)(1)","PC","Enhancement",2018-06-18,"Dismissed/Not True","Hispanic","Male",2018-04-02,1e+05,"In Custody",NA,2018-04-02,"N","626.9(b)","PC","Felony",2018-06-18,"Guilty",NA,0
+3026362,3003584,1,"186.22(b)(1)","PC","Enhancement",2018-04-04,"Dismissed/Not True","Hispanic","Male",2018-04-02,1e+05,"In Custody",NA,2018-04-02,"N","25850(a)/(c)(3)","PC","Felony",2018-04-04,"Dismissed/Not Guilty",NA,0
+3026362,3003584,3,"186.22(b)(1)","PC","Enhancement",2018-06-18,"Dismissed/Not True","Hispanic","Male",2018-04-02,1e+05,"In Custody",NA,2018-04-02,"N","626.9(b)","PC","Felony",2018-06-18,"Guilty",NA,0
+3026421,3003652,1,"186.22(b)(1)","PC","Enhancement",2018-07-25,"TRUE","Hispanic","Male",2018-04-02,50000,"In Custody",NA,2017-09-29,"N","29805(a)","PC","Felony",2018-07-25,"Guilty",NA,0
+3026421,3003652,2,"186.22(b)(1)","PC","Enhancement",2018-07-25,"Dismissed/Not True","Hispanic","Male",2018-04-02,50000,"In Custody",NA,2017-09-29,"N","33210","PC","Felony",2018-07-25,"Dismissed/Not Guilty",NA,0
+3026421,3003652,3,"186.22(b)(1)","PC","Enhancement",2018-07-25,"Dismissed/Not True","Hispanic","Male",2018-04-02,50000,"In Custody",NA,2017-09-29,"N","246.3(a)","PC","Felony",2018-07-25,"Dismissed/Not Guilty",NA,0
+3026755,3004009,3,"186.22(b)(1)","PC","Enhancement",2018-08-10,"Dismissed/Not True","Hispanic","Male",2018-04-03,75000,"In Custody",NA,2018-04-03,"N","25400(a)(1)/(c)(2)","PC","Felony",2018-08-10,"Guilty",NA,0
+3026755,3004010,1,"186.22(b)(1)","PC","Enhancement",2018-08-10,"Dismissed/Not True","Hispanic","Male",2018-04-03,150000,"In Custody",NA,2018-04-03,"N","29800(a)(1)","PC","Felony",2018-08-10,"Guilty",NA,1
+3026755,3004011,1,"186.22(b)(1)","PC","Enhancement",2018-08-10,"Dismissed/Not True","Hispanic","Male",2018-04-03,150000,"In Custody",NA,2018-04-03,"N","29800(a)(1)","PC","Felony",2018-08-10,"Guilty",NA,1
+3026820,3004043,1,"186.22(b)(1)","PC","Enhancement",2018-04-20,"Dismissed/Not True","Hispanic","Male",2018-04-04,25000,"In Custody",NA,2018-04-04,"N","25850(a)/(c)(2)","PC","Felony",2018-04-20,"Dismissed/Not Guilty",NA,0
+3027007,3004289,1,"186.22(b)(1)","PC","Enhancement",2018-08-27,"Dismissed/Not True","Hispanic","Male",2018-04-04,1e+05,"In Custody",NA,2018-04-04,"N","11378","HS","Felony",2018-08-27,"Dismissed/Not Guilty",NA,0
+3027007,3004289,2,"186.22(b)(1)","PC","Enhancement",2018-08-27,"Dismissed/Not True","Hispanic","Male",2018-04-04,1e+05,"In Custody",NA,2018-04-04,"N","11370.1(a)","HS","Felony",2018-08-27,"Dismissed/Not Guilty",NA,0
+3027007,3004289,3,"186.22(b)(1)","PC","Enhancement",2018-08-27,"Dismissed/Not True","Hispanic","Male",2018-04-04,1e+05,"In Custody",NA,2018-04-04,"N","626.9(b)","PC","Felony",2018-08-27,"Dismissed/Not Guilty",NA,0
+3027007,3004289,4,"186.22(b)(1)","PC","Enhancement",2018-08-27,"Dismissed/Not True","Hispanic","Male",2018-04-04,1e+05,"In Custody",NA,2018-04-04,"N","29800(a)(1)","PC","Felony",2018-08-27,"Guilty",NA,0
+3027007,3004290,1,"186.22(b)(1)","PC","Enhancement",2018-08-27,"Dismissed/Not True","Hispanic","Male",2018-04-04,1e+05,"In Custody",NA,2018-04-04,"N","11378","HS","Felony",2018-08-27,"Dismissed/Not Guilty",NA,0
+3027007,3004290,2,"186.22(b)(1)","PC","Enhancement",2018-08-27,"Dismissed/Not True","Hispanic","Male",2018-04-04,1e+05,"In Custody",NA,2018-04-04,"N","11370.1(a)","HS","Felony",2018-08-27,"Guilty",NA,0
+3027007,3004290,3,"186.22(b)(1)","PC","Enhancement",2018-08-27,"Dismissed/Not True","Hispanic","Male",2018-04-04,1e+05,"In Custody",NA,2018-04-04,"N","626.9(b)","PC","Felony",2018-08-27,"Dismissed/Not Guilty",NA,0
+3027183,3004495,1,"186.22(b)(1)","PC","Enhancement",2019-01-29,"Dismissed/Not True","Hispanic","Male",NA,250000,"Request for Warrant",NA,2017-03-27,"N","182(a)(1)","PC","Felony",2019-01-29,"Dismissed/Not Guilty",NA,1
+3027183,3004495,3,"186.22(b)(1)","PC","Enhancement",2019-01-29,"TRUE","Hispanic","Male",NA,250000,"Request for Warrant",NA,2017-11-17,"Y","518/520","PC","Felony",2019-01-29,"Guilty",NA,1
+3027237,3004579,1,"186.22(b)(1)","PC","Enhancement",2018-11-30,"Dismissed/Not True","Hispanic","Male",NA,250000,"Walk Thru Warrant",NA,2018-02-12,"N","182(a)(1)","PC","Felony",2018-11-30,"Guilty",NA,1
+3027237,3004579,2,"186.22(b)(1)","PC","Enhancement",2018-11-30,"Dismissed/Not True","Hispanic","Male",NA,250000,"Walk Thru Warrant",NA,2018-02-25,"N","11378","HS","Felony",2018-11-30,"Guilty",NA,1
+3027237,3004580,1,"186.22(b)(1)","PC","Enhancement",2018-11-30,"TRUE","Hispanic","Female",NA,1e+05,"Walk Thru Warrant",NA,2018-02-12,"N","182(a)(1)","PC","Felony",2018-11-30,"Guilty",NA,0
+3027237,3004580,2,"186.22(b)(1)","PC","Enhancement",2018-11-30,"TRUE","Hispanic","Female",NA,1e+05,"Walk Thru Warrant",NA,2018-02-25,"N","11378","HS","Felony",2018-11-30,"Guilty",NA,0
+3027237,3004581,1,"186.22(b)(1)","PC","Enhancement",2018-09-27,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Walk Thru Warrant",NA,2018-02-12,"N","182(a)(1)","PC","Felony",2018-09-27,"Guilty",NA,1
+3027237,3004581,2,"186.22(b)(1)","PC","Enhancement",2018-09-27,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Walk Thru Warrant",NA,2018-02-25,"N","11378","HS","Felony",2018-09-27,"Guilty",NA,1
+3027237,3004582,1,"186.22(b)(1)","PC","Enhancement",2019-07-17,"Dismissed/Not True","Hispanic","Female",NA,1e+05,"Walk Thru Warrant",NA,2018-02-12,"N","182(a)(1)","PC","Felony",2019-07-17,"Dismissed/Not Guilty",NA,1
+3027237,3004582,2,"186.22(b)(1)","PC","Enhancement",2019-07-17,"Dismissed/Not True","Hispanic","Female",NA,1e+05,"Walk Thru Warrant",NA,2018-02-25,"N","11378","HS","Felony",2019-07-17,"Dismissed/Not Guilty",NA,1
+3027383,3004757,1,"186.22(b)(1)","PC","Enhancement",2019-08-13,"TRUE","Hispanic","Male",2018-04-06,1e+05,"In Custody",NA,2018-04-05,"N","2800.2","VC","Felony",2019-08-13,"Guilty",NA,0
+3027383,3004758,1,"186.22(b)(1)","PC","Enhancement",2019-08-09,"Dismissed/Not True","Hispanic","Male",2018-04-06,1e+06,"In Custody",NA,2018-04-05,"N","2800.2","VC","Felony",2019-08-09,"Dismissed/Not Guilty",NA,1
+3027580,3004975,1,"186.22(b)(1)","PC","Enhancement",2018-12-13,"Dismissed/Not True","Hispanic","Male",2018-04-07,80000,"In Custody",NA,2018-04-07,"N","245(a)(4)","PC","Felony",2018-12-13,"Guilty",NA,0
+3027864,3005288,1,"186.22(b)(1)","PC","Enhancement",2019-04-19,"Dismissed/Not True","Hispanic","Male",2018-04-10,NA,"Request for Warrant",NA,2018-04-10,"N","30305(a)(1)","PC","Felony",2019-04-19,"Reduced",NA,1
+3028629,3006091,1,"186.22(b)(1)","PC","Enhancement",2019-12-17,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"Walk Thru Warrant",NA,2018-03-14,"N","594(a)/(b)(1)","PC","Felony",2019-12-17,"Reduced",NA,1
+3028719,3006188,1,"186.22(b)(1)","PC","Enhancement",2018-07-25,"Dismissed/Not True","Hispanic","Male",2018-04-11,1e+05,"In Custody",NA,2018-04-11,"N","21310","PC","Felony",2018-07-25,"Guilty",NA,1
+3029108,3006614,1,"186.22(b)(1)","PC","Enhancement",2018-07-10,"TRUE","Hispanic","Male",2018-04-12,150000,"In Custody",NA,2018-04-12,"N","211/212.5(c)","PC","Felony",2018-07-10,"Guilty",NA,1
+3029108,3006614,2,"186.22(b)(1)","PC","Enhancement",2018-07-10,"TRUE","Hispanic","Male",2018-04-12,150000,"In Custody",NA,2018-04-12,"N","211/212.5(c)","PC","Felony",2018-07-10,"Guilty",NA,1
+3029108,3006614,3,"186.22(b)(1)","PC","Enhancement",2018-07-10,"TRUE","Hispanic","Male",2018-04-12,150000,"In Custody",NA,2018-04-12,"N","211/212.5(c)","PC","Felony",2018-07-10,"Guilty",NA,1
+3029108,3006614,4,"186.22(b)(1)","PC","Enhancement",2018-07-10,"TRUE","Hispanic","Male",2018-04-12,150000,"In Custody",NA,2018-04-12,"N","211/212.5(c)","PC","Felony",2018-07-10,"Guilty",NA,1
+3029108,3006614,5,"186.22(b)(1)","PC","Enhancement",2018-07-10,"TRUE","Hispanic","Male",2018-04-12,150000,"In Custody",NA,2018-04-12,"N","666.5(a)/10851(a)","PC","Felony",2018-07-10,"Guilty",NA,1
+3029150,3006656,1,"186.22(b)(1)","PC","Enhancement",2018-09-13,"Dismissed/Not True","Hispanic","Male",2018-04-13,25000,"Appearance Date",NA,2018-04-13,"N","594(a)/(b)(1)","PC","Felony",2018-09-13,"Dismissed/Not Guilty",NA,0
+3029650,3007189,1,"186.22(b)(1)","PC","Enhancement",2019-03-13,"Dismissed/Not True","Hispanic","Male",2018-04-13,NA,"Appearance Date",NA,2018-04-13,"N","11378","HS","Felony",2019-03-13,"Guilty",NA,0
+3029650,3007189,2,"186.22(b)(1)","PC","Enhancement",2019-03-13,"Dismissed/Not True","Hispanic","Male",2018-04-13,NA,"Appearance Date",NA,2018-04-13,"N","11379(a)","HS","Felony",2019-03-13,"Dismissed/Not Guilty",NA,0
+3030054,3007637,1,"186.22(b)(1)","PC","Enhancement",2018-06-01,"Dismissed/Not True","Hispanic","Male",2018-04-16,45000,"In Custody",NA,2018-04-16,"N","594(a)/(b)(1)","PC","Felony",2018-06-01,"Guilty",NA,0
+3030223,3007810,1,"186.22(b)(1)","PC","Enhancement",2019-01-28,"TRUE","Hispanic","Male",NA,1e+06,"Walk Thru Warrant",NA,2018-02-04,"N","664(a)-187(a)","PC","Felony",2019-01-28,"Guilty",NA,1
+3030223,3007810,2,"186.22(b)(1)","PC","Enhancement",2019-01-28,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"Walk Thru Warrant",NA,2018-02-04,"N","29800(a)(1)","PC","Felony",2019-01-28,"Guilty",NA,1
+3030320,3007916,1,"186.22(b)(1)","PC","Enhancement",2018-05-04,"Dismissed/Not True","Hispanic","Male",2018-04-17,75000,"In Custody",NA,2018-04-17,"N","30305(a)(1)","PC","Felony",2018-05-04,"Reduced",NA,0
+3030699,3008331,1,"186.22(b)(1)","PC","Enhancement",2018-05-21,"TRUE","Hispanic","Male",2018-04-18,1e+06,"In Custody",NA,2018-04-18,"N","626.9(b)","PC","Felony",2018-05-21,"Guilty",NA,1
+3030699,3008331,3,"186.22(b)(1)","PC","Enhancement",2018-05-21,"TRUE","Hispanic","Male",2018-04-18,1e+06,"In Custody",NA,2018-04-18,"N","29800(a)(1)","PC","Felony",2018-05-21,"Guilty",NA,1
+3030699,3008331,4,"186.22(b)(1)","PC","Enhancement",2018-05-21,"TRUE","Hispanic","Male",2018-04-18,1e+06,"In Custody",NA,2018-04-18,"N","25850(a)/(c)(3)","PC","Felony",2018-05-21,"Guilty",NA,1
+3031212,3008880,1,"186.22(b)(1)","PC","Enhancement",2018-12-18,"TRUE","Hispanic","Male",2018-04-19,60000,"In Custody",NA,2018-04-19,"N","666.5(a)/10851(a)","PC","Felony",2018-12-18,"Guilty",NA,1
+3031212,3008880,3,"186.22(b)(1)","PC","Enhancement",2018-12-18,"Dismissed/Not True","Hispanic","Male",2018-04-19,60000,"In Custody",NA,2018-04-19,"N","496d(a)","PC","Felony",2018-12-18,"Dismissed/Not Guilty",NA,1
+3031212,3008881,2,"186.22(b)(1)","PC","Enhancement",2018-06-27,"TRUE","Hispanic","Male",NA,60000,"In Custody",NA,2018-04-19,"N","10851(a)","VC","Felony",2018-06-27,"Guilty",NA,0
+3031212,3008881,3,"186.22(b)(1)","PC","Enhancement",2018-06-27,"Dismissed/Not True","Hispanic","Male",NA,60000,"In Custody",NA,2018-04-19,"N","496d(a)","PC","Felony",2018-06-27,"Dismissed/Not Guilty",NA,0
+3031290,3008959,1,"186.22(b)(1)","PC","Enhancement",2019-02-27,"TRUE","Hispanic","Male",2018-04-20,50000,"In Custody",NA,2018-04-20,"N","11379(a)","HS","Felony",2019-02-27,"Guilty",NA,0
+3031290,3008959,2,"186.22(b)(1)","PC","Enhancement",2019-02-27,"TRUE","Hispanic","Male",2018-04-20,50000,"In Custody",NA,2018-04-20,"N","11378","HS","Felony",2019-02-27,"Guilty",NA,0
+3032235,3009910,1,"186.22(b)(1)","PC","Enhancement",2020-06-11,"TRUE","Hispanic","Male",2018-04-20,25000,"Appearance Date",NA,2018-04-20,"N","29800(a)(1)","PC","Felony",2020-06-11,"Guilty",NA,0
+3032283,3009958,1,"186.22(b)(1)","PC","Enhancement",2020-06-26,"Dismissed/Not True","White","Male",NA,1e+06,"In Custody",NA,2018-04-20,"N","664(a)-187(a)","PC","Felony",2020-06-26,"Dismissed/Not Guilty",NA,1
+3032283,3009958,2,"186.22(b)(1)","PC","Enhancement",2020-06-26,"TRUE","White","Male",NA,1e+06,"In Custody",NA,2018-04-20,"N","245(a)(1)","PC","Felony",2020-06-26,"Guilty",NA,1
+3032283,3009958,3,"186.22(b)(1)","PC","Enhancement",2020-06-26,"TRUE","White","Male",NA,1e+06,"In Custody",NA,2018-04-20,"N","245(a)(1)","PC","Felony",2020-06-26,"Guilty",NA,1
+3032283,3011445,1,"186.22(b)(1)","PC","Enhancement",2020-03-10,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-04-20,"N","664(a)-187(a)","PC","Felony",2020-03-10,"Dismissed/Not Guilty",NA,0
+3032283,3011445,2,"186.22(b)(1)","PC","Enhancement",2020-03-10,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-04-20,"N","245(a)(1)","PC","Felony",2020-03-10,"Dismissed/Not Guilty",NA,0
+3032283,3011445,3,"186.22(b)(1)","PC","Enhancement",2020-03-10,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-04-20,"N","245(a)(1)","PC","Felony",2020-03-10,"Dismissed/Not Guilty",NA,0
+3033884,3011660,1,"186.22(b)(1)","PC","Enhancement",2019-07-19,"TRUE","Hispanic","Male",2018-05-01,1e+05,"In Custody",NA,2018-05-01,"N","25850(a)/(c)(1)","PC","Felony",2019-07-19,"Guilty",NA,1
+3033884,3011660,2,"186.22(b)(1)","PC","Enhancement",2019-07-19,"Dismissed/Not True","Hispanic","Male",2018-05-01,1e+05,"In Custody",NA,2018-05-01,"N","29800(a)(1)","PC","Felony",2019-07-19,"Dismissed/Not Guilty",NA,1
+3033884,3011660,3,"186.22(b)(1)","PC","Enhancement",2019-07-19,"Dismissed/Not True","Hispanic","Male",2018-05-01,1e+05,"In Custody",NA,2018-05-01,"N","30305(a)(1)","PC","Felony",2019-07-19,"Dismissed/Not Guilty",NA,1
+3033915,3012227,1,"186.22(b)(1)","PC","Enhancement",2019-05-07,"Dismissed/Not True","Other","Male",NA,1e+06,"Walk Thru Warrant",NA,2018-04-30,"N","664(a)-187(a)","PC","Felony",2019-05-07,"Dismissed/Not Guilty",NA,0
+3033915,3012227,2,"186.22(b)(1)","PC","Enhancement",2019-05-07,"Dismissed/Not True","Other","Male",NA,1e+06,"Walk Thru Warrant",NA,2018-04-30,"N","211/212.5(c)","PC","Felony",2019-05-07,"Dismissed/Not Guilty",NA,0
+3035055,3012924,1,"186.22(b)(1)","PC","Enhancement",2018-10-30,"Dismissed/Not True","Hispanic","Male",2018-05-05,2e+05,"In Custody",NA,2018-05-05,"N","25400(a)(2)/(c)(6)","PC","Felony",2018-10-30,"Dismissed/Not Guilty",NA,0
+3035164,3013038,1,"186.22(b)(1)","PC","Enhancement",2018-07-25,"Dismissed/Not True","Hispanic","Male",2018-05-06,1e+05,"In Custody",NA,2018-05-06,"N","25850(a)/(c)(1)","PC","Felony",2018-07-25,"Guilty",NA,1
+3035164,3013038,2,"186.22(b)(1)","PC","Enhancement",2018-07-25,"Dismissed/Not True","Hispanic","Male",2018-05-06,1e+05,"In Custody",NA,2018-05-06,"N","29800(a)(1)","PC","Felony",2018-07-25,"Guilty",NA,1
+3035184,3013062,1,"186.22(b)(1)","PC","Enhancement",2019-03-18,"TRUE","White","Male",NA,50000,"Request for Warrant",NA,2017-10-22,"N","245(a)(4)","PC","Felony",2019-03-18,"Guilty",NA,1
+3035184,3013062,2,"186.22(b)(1)","PC","Enhancement",2019-03-18,"TRUE","White","Male",NA,50000,"Request for Warrant",NA,2018-02-11,"N","245(a)(4)","PC","Felony",2019-03-18,"Guilty",NA,1
+3035184,3013064,2,"186.22(b)(1)","PC","Enhancement",2018-12-13,"Dismissed/Not True","White","Male",NA,50000,"Request for Warrant",NA,2018-02-11,"N","245(a)(4)","PC","Felony",2018-12-13,"Reduced",NA,1
+3035212,3013103,1,"186.22(b)(1)","PC","Enhancement",2019-11-13,"Dismissed/Not True","White","Male",NA,25000,"Request for Warrant",NA,2017-06-19,"N","182(a)(1)","PC","Felony",2019-11-13,"Dismissed/Not Guilty",NA,1
+3035212,3013105,1,"186.22(b)(1)","PC","Enhancement",2019-10-04,"Dismissed/Not True","White","Male",NA,25000,"Request for Warrant",NA,2017-06-19,"N","182(a)(1)","PC","Felony",2019-10-04,"Dismissed/Not Guilty",NA,1
+3035236,3013117,1,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-07,"N","459-460(b)","PC","Felony",NA,NA,NA,1
+3035236,3013117,2,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-07,"N","29800(a)(1)","PC","Felony",NA,NA,NA,1
+3035236,3013118,5,"186.22(b)(1)","PC","Enhancement",2019-08-19,"Dismissed/Not True","Hispanic","Male",2018-05-04,150000,"In Custody",NA,2018-01-08,"N","496(a)","PC","Felony",2019-08-19,"Dismissed/Not Guilty",NA,1
+3035236,3013118,6,"186.22(b)(1)","PC","Enhancement",2019-08-19,"TRUE","Hispanic","Male",2018-05-04,150000,"In Custody",NA,2018-01-08,"N","29800(a)(1)","PC","Felony",2019-08-19,"Guilty",NA,1
+3035236,3013118,7,"186.22(b)(1)","PC","Enhancement",2019-08-19,"Dismissed/Not True","Hispanic","Male",2018-05-04,150000,"In Custody",NA,2018-05-04,"N","29800(a)(1)","PC","Felony",2019-08-19,"Dismissed/Not Guilty",NA,1
+3035267,3013150,1,"186.22(b)(1)","PC","Enhancement",2019-06-13,"TRUE","Hispanic","Male",2018-05-06,1e+05,"In Custody",NA,2018-05-06,"N","29800(a)(1)","PC","Felony",2019-06-13,"Guilty",NA,1
+3035267,3013150,2,"186.22(b)(1)","PC","Enhancement",2019-06-13,"TRUE","Hispanic","Male",2018-05-06,1e+05,"In Custody",NA,2018-05-06,"N","30305(a)(1)","PC","Felony",2019-06-13,"Guilty",NA,1
+3035267,3013150,3,"186.22(b)(1)","PC","Enhancement",2019-06-13,"TRUE","Hispanic","Male",2018-05-06,1e+05,"In Custody",NA,2018-05-06,"N","25850(a)/(c)(3)","PC","Felony",2019-06-13,"Guilty",NA,1
+3035298,3013181,1,"186.22(b)(1)","PC","Enhancement",2018-08-20,"Dismissed/Not True","White","Male",NA,25000,"Request for Warrant",NA,2017-09-21,"N","182(a)(1)","PC","Felony",2018-08-20,"Reduced",NA,0
+3035487,3013400,2,"186.22(b)(1)","PC","Enhancement",2018-11-13,"Dismissed/Not True","White","Male",NA,25000,"Request for Warrant",NA,2017-03-20,"N","182(a)(1)","PC","Felony",2018-11-13,"Guilty",NA,1
+3035487,3013401,2,"186.22(b)(1)","PC","Enhancement",2019-02-26,"Dismissed/Not True","White","Male",NA,25000,"Request for Warrant",NA,2017-03-20,"N","182(a)(1)","PC","Felony",2019-02-26,"Dismissed/Not Guilty",NA,0
+3035487,3013406,3,"186.22(b)(1)","PC","Enhancement",2018-09-20,"Dismissed/Not True","White","Male",NA,25000,"Request for Warrant",NA,2017-04-22,"N","182(a)(1)","PC","Felony",2018-09-20,"Reduced",NA,0
+3035487,3013407,3,"186.22(b)(1)","PC","Enhancement",2019-02-05,"Dismissed/Not True","White","Male",NA,25000,"Request for Warrant",NA,2017-04-22,"N","182(a)(1)","PC","Felony",2019-02-05,"Dismissed/Not Guilty",NA,0
+3035533,3013447,1,"186.22(b)(1)","PC","Enhancement",2019-03-25,"Dismissed/Not True","White","Male",NA,50000,"Request for Warrant",NA,2017-02-08,"N","182(a)(1)","PC","Felony",2019-03-25,"Dismissed/Not Guilty",NA,1
+3035533,3013447,2,"186.22(b)(1)","PC","Enhancement",2019-03-25,"TRUE","White","Male",NA,50000,"Request for Warrant",NA,2017-09-24,"N","245(a)(4)","PC","Felony",2019-03-25,"Guilty",NA,1
+3035533,3014057,2,"186.22(b)(1)","PC","Enhancement",2019-04-10,"TRUE","White","Male",NA,50000,"Request for Warrant",NA,2017-09-24,"N","245(a)(4)","PC","Felony",2019-04-10,"Guilty",NA,1
+3035533,3014058,3,"186.22(b)(1)","PC","Enhancement",2019-02-08,"TRUE","White","Male",NA,25000,"Request for Warrant",NA,2018-03-22,"N","245(a)(4)","PC","Felony",2019-02-08,"Guilty",NA,1
+3035533,3014060,3,"186.22(b)(1)","PC","Enhancement",2019-04-10,"Dismissed/Not True","White","Male",NA,25000,"Request for Warrant",NA,2018-03-22,"N","245(a)(4)","PC","Felony",2019-04-10,"Guilty",NA,0
+3035606,3013523,2,"186.22(b)(1)","PC","Enhancement",2019-03-04,"TRUE","White","Male",NA,1e+05,"Walk Thru Warrant",NA,2018-04-30,"N","182(a)(1)","PC","Felony",2019-03-04,"Guilty",NA,1
+3035606,3013527,2,"186.22(b)(1)","PC","Enhancement",2019-04-23,"TRUE","White","Male",NA,1e+05,"Walk Thru Warrant",NA,2018-04-30,"N","182(a)(1)","PC","Felony",2019-04-23,"Guilty",NA,1
+3035606,3013528,2,"186.22(b)(1)","PC","Enhancement",2019-03-04,"TRUE","White","Male",NA,1e+06,"Walk Thru Warrant",NA,2018-04-30,"N","182(a)(1)","PC","Felony",2019-03-04,"Guilty",NA,1
+3036484,3014483,1,"186.22(b)(1)","PC","Enhancement",2019-02-22,"TRUE","Hispanic","Male",2018-05-09,1e+06,"In Custody",NA,2018-05-09,"N","11351","HS","Felony",2019-02-22,"Guilty",NA,1
+3036484,3014483,2,"186.22(b)(1)","PC","Enhancement",2019-02-22,"TRUE","Hispanic","Male",2018-05-09,1e+06,"In Custody",NA,2018-05-09,"N","11370.1(a)","HS","Felony",2019-02-22,"Guilty",NA,1
+3036484,3014483,4,"186.22(b)(1)","PC","Enhancement",2019-02-22,"TRUE","Hispanic","Male",2018-05-09,1e+06,"In Custody",NA,2018-05-09,"N","30305(a)(1)","PC","Felony",2019-02-22,"Guilty",NA,1
+3036484,3014483,5,"186.22(b)(1)","PC","Enhancement",2019-02-22,"TRUE","Hispanic","Male",2018-05-09,1e+06,"In Custody",NA,2018-05-09,"N","29800(a)(1)","PC","Felony",2019-02-22,"Guilty",NA,1
+3036739,3014769,1,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","182(a)(1)","PC","Felony",NA,NA,NA,1
+3036739,3014769,2,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",NA,NA,NA,1
+3036739,3014769,3,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",NA,NA,NA,1
+3036739,3014769,4,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",NA,NA,NA,1
+3036739,3014769,5,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",NA,NA,NA,1
+3036739,3014769,6,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",NA,NA,NA,1
+3036739,3014769,7,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",NA,NA,NA,1
+3036739,3014769,8,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",NA,NA,NA,1
+3036739,3014769,9,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",NA,NA,NA,1
+3036739,3014769,10,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",NA,NA,NA,1
+3036739,3014769,11,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",NA,NA,NA,1
+3036739,3014769,12,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",NA,NA,NA,1
+3036739,3014769,13,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",NA,NA,NA,1
+3036739,3014770,1,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-16,"N","182(a)(1)","PC","Felony",NA,NA,NA,1
+3036739,3014770,2,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",NA,NA,NA,1
+3036739,3014770,3,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",NA,NA,NA,1
+3036739,3014770,4,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",NA,NA,NA,1
+3036739,3014770,5,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",NA,NA,NA,1
+3036739,3014770,6,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",NA,NA,NA,1
+3036739,3014770,7,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",NA,NA,NA,1
+3036739,3014770,8,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",NA,NA,NA,1
+3036739,3014770,9,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",NA,NA,NA,1
+3036739,3014770,10,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",NA,NA,NA,1
+3036739,3014770,11,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",NA,NA,NA,1
+3036739,3014770,12,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",NA,NA,NA,1
+3036739,3014770,13,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",NA,NA,NA,1
+3036739,3014771,1,"186.22(b)(1)","PC","Enhancement",2021-01-21,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2017-10-16,"N","182(a)(1)","PC","Felony",2021-01-21,"Dismissed/Not Guilty",NA,1
+3036739,3014771,2,"186.22(b)(1)","PC","Enhancement",2021-01-21,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2017-10-16,"N","10851(a)","VC","Felony",2021-01-21,"Dismissed/Not Guilty",NA,1
+3036739,3014771,3,"186.22(b)(1)","PC","Enhancement",2021-01-21,"TRUE","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2017-10-16,"N","10851(a)","VC","Felony",2021-01-21,"Guilty",NA,1
+3036739,3014771,4,"186.22(b)(1)","PC","Enhancement",2021-01-21,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2017-10-16,"N","10851(a)","VC","Felony",2021-01-21,"Dismissed/Not Guilty",NA,1
+3036739,3014771,5,"186.22(b)(1)","PC","Enhancement",2021-01-21,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2017-10-16,"N","10851(a)","VC","Felony",2021-01-21,"Dismissed/Not Guilty",NA,1
+3036739,3014771,6,"186.22(b)(1)","PC","Enhancement",2021-01-21,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2017-10-16,"N","10851(a)","VC","Felony",2021-01-21,"Dismissed/Not Guilty",NA,1
+3036739,3014771,7,"186.22(b)(1)","PC","Enhancement",2021-01-21,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2017-10-16,"N","10851(a)","VC","Felony",2021-01-21,"Dismissed/Not Guilty",NA,1
+3036739,3014771,8,"186.22(b)(1)","PC","Enhancement",2021-01-21,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2017-10-16,"N","496d(a)","PC","Felony",2021-01-21,"Dismissed/Not Guilty",NA,1
+3036739,3014771,9,"186.22(b)(1)","PC","Enhancement",2021-01-21,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2017-10-16,"N","496d(a)","PC","Felony",2021-01-21,"Dismissed/Not Guilty",NA,1
+3036739,3014771,10,"186.22(b)(1)","PC","Enhancement",2021-01-21,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2017-10-16,"N","496d(a)","PC","Felony",2021-01-21,"Dismissed/Not Guilty",NA,1
+3036739,3014771,11,"186.22(b)(1)","PC","Enhancement",2021-01-21,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2017-10-16,"N","496d(a)","PC","Felony",2021-01-21,"Dismissed/Not Guilty",NA,1
+3036739,3014771,12,"186.22(b)(1)","PC","Enhancement",2021-01-21,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2017-10-16,"N","496d(a)","PC","Felony",2021-01-21,"Dismissed/Not Guilty",NA,1
+3036739,3014771,13,"186.22(b)(1)","PC","Enhancement",2021-01-21,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2017-10-16,"N","496d(a)","PC","Felony",2021-01-21,"Dismissed/Not Guilty",NA,1
+3036739,3045443,1,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2017-10-16,"N","182(a)(1)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045443,2,"186.22(b)(1)","PC","Enhancement",2019-06-18,"TRUE","White","Male",NA,1e+06,"Request for Warrant",NA,2017-10-16,"N","10851(a)","VC","Felony",2019-06-18,"Guilty",NA,1
+3036739,3045443,3,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2017-10-16,"N","10851(a)","VC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045443,4,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2017-10-16,"N","10851(a)","VC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045443,5,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2017-10-16,"N","10851(a)","VC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045443,6,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2017-10-16,"N","10851(a)","VC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045443,7,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2017-10-16,"N","10851(a)","VC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045443,8,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2017-10-16,"N","496d(a)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045443,9,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2017-10-16,"N","496d(a)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045443,10,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2017-10-16,"N","496d(a)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045443,11,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2017-10-16,"N","496d(a)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045443,12,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2017-10-16,"N","496d(a)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045443,13,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2017-10-16,"N","496d(a)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045444,1,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","182(a)(1)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045444,2,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",2019-06-18,"Guilty",NA,1
+3036739,3045444,3,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045444,4,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045444,5,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045444,6,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045444,7,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","10851(a)","VC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045444,8,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045444,9,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045444,10,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045444,11,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045444,12,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036739,3045444,13,"186.22(b)(1)","PC","Enhancement",2019-06-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2017-10-16,"N","496d(a)","PC","Felony",2019-06-18,"Dismissed/Not Guilty",NA,1
+3036781,3014815,1,"186.22(b)(1)","PC","Enhancement",2019-07-08,"TRUE","Hispanic","Male",2018-05-13,1e+06,"In Custody",NA,2018-05-12,"N","496d(a)","PC","Felony",2019-07-08,"Guilty",NA,1
+3036781,3014816,1,"186.22(b)(1)","PC","Enhancement",2019-07-08,"TRUE","Hispanic","Male",2018-05-13,1e+06,"In Custody",NA,2018-05-12,"N","496d(a)","PC","Felony",2019-07-08,"Guilty",NA,1
+3037002,3015052,1,"186.22(b)(1)","PC","Enhancement",2018-10-03,"TRUE","Hispanic","Male",2018-05-11,1e+05,"In Custody",NA,2018-05-11,"N","211/212.5(c)","PC","Felony",2018-10-03,"Guilty",NA,1
+3037002,3015052,2,"186.22(b)(1)","PC","Enhancement",2018-10-03,"Dismissed/Not True","Hispanic","Male",2018-05-11,1e+05,"In Custody",NA,2018-05-11,"N","245(a)(1)","PC","Felony",2018-10-03,"Guilty",NA,1
+3037002,3015052,4,"186.22(b)(1)","PC","Enhancement",2018-10-03,"TRUE","Hispanic","Male",2018-05-11,1e+05,"In Custody",NA,2018-05-11,"N","22210","PC","Felony",2018-10-03,"Guilty",NA,1
+3037002,3015053,4,"186.22(b)(1)","PC","Enhancement",2018-07-10,"Dismissed/Not True","Hispanic","Male",2018-05-11,1e+05,"In Custody",NA,2018-05-11,"N","22210","PC","Felony",2018-07-10,"Guilty",NA,1
+3037085,3015149,3,"186.22(b)(1)","PC","Enhancement",2018-12-20,"Dismissed/Not True","Hispanic","Female",2018-05-12,30000,"In Custody",NA,2018-05-12,"N","11378","HS","Felony",2018-12-20,"Guilty",NA,1
+3037085,3015149,4,"186.22(b)(1)","PC","Enhancement",2018-12-20,"Dismissed/Not True","Hispanic","Female",2018-05-12,30000,"In Custody",NA,2018-05-12,"N","11379(a)","HS","Felony",2018-12-20,"Guilty",NA,1
+3037085,3015150,1,"186.22(b)(1)","PC","Enhancement",2018-12-20,"Dismissed/Not True","Hispanic","Male",2018-05-12,2e+05,"In Custody",NA,2018-05-12,"N","2800.2","VC","Felony",2018-12-20,"Guilty",NA,1
+3037085,3015150,2,"186.22(b)(1)","PC","Enhancement",2018-12-20,"Dismissed/Not True","Hispanic","Male",2018-05-12,2e+05,"In Custody",NA,2018-05-12,"N","2800.4","VC","Felony",2018-12-20,"Guilty",NA,1
+3037085,3015150,3,"186.22(b)(1)","PC","Enhancement",2018-12-20,"Dismissed/Not True","Hispanic","Male",2018-05-12,2e+05,"In Custody",NA,2018-05-12,"N","11378","HS","Felony",2018-12-20,"Guilty",NA,1
+3037085,3015150,4,"186.22(b)(1)","PC","Enhancement",2018-12-20,"Dismissed/Not True","Hispanic","Male",2018-05-12,2e+05,"In Custody",NA,2018-05-12,"N","11379(a)","HS","Felony",2018-12-20,"Guilty",NA,1
+3037114,3015183,1,"186.22(b)(1)","PC","Enhancement",2019-06-04,"TRUE","Black","Male",2018-05-11,250000,"In Custody",NA,2018-05-11,"N","211/212.5(c)","PC","Felony",2019-06-04,"Guilty",NA,0
+3037114,3015183,2,"186.22(b)(1)","PC","Enhancement",2019-06-04,"TRUE","Black","Male",2018-05-11,250000,"In Custody",NA,2018-05-11,"N","211/212.5(c)","PC","Felony",2019-06-04,"Guilty",NA,0
+3037114,3015183,3,"186.22(b)(1)","PC","Enhancement",2019-06-04,"TRUE","Black","Male",2018-05-11,250000,"In Custody",NA,2018-05-11,"N","211/212.5(c)","PC","Felony",2019-06-04,"Guilty",NA,0
+3037114,3015183,4,"186.22(b)(1)","PC","Enhancement",2019-06-04,"TRUE","Black","Male",2018-05-11,250000,"In Custody",NA,2018-05-11,"N","211/212.5(c)","PC","Felony",2019-06-04,"Guilty",NA,0
+3037114,3015183,5,"186.22(b)(1)","PC","Enhancement",2019-06-04,"TRUE","Black","Male",2018-05-11,250000,"In Custody",NA,2018-05-11,"Y","211/212.5(c)","PC","Felony",2019-06-04,"Guilty",NA,0
+3037114,3015183,6,"186.22(b)(1)","PC","Enhancement",2019-06-04,"TRUE","Black","Male",2018-05-11,250000,"In Custody",NA,2018-05-11,"Y","211/212.5(c)","PC","Felony",2019-06-04,"Guilty",NA,0
+3037114,3015184,1,"186.22(b)(1)","PC","Enhancement",2020-01-10,"Dismissed/Not True","Black","Female",2018-05-11,250000,"In Custody",NA,2018-05-11,"N","211/212.5(c)","PC","Felony",2020-01-10,"Guilty",NA,0
+3037114,3015184,2,"186.22(b)(1)","PC","Enhancement",2020-01-10,"Dismissed/Not True","Black","Female",2018-05-11,250000,"In Custody",NA,2018-05-11,"N","211/212.5(c)","PC","Felony",2020-01-10,"Dismissed/Not Guilty",NA,0
+3037114,3015184,3,"186.22(b)(1)","PC","Enhancement",2020-01-10,"Dismissed/Not True","Black","Female",2018-05-11,250000,"In Custody",NA,2018-05-11,"N","211/212.5(c)","PC","Felony",2020-01-10,"Dismissed/Not Guilty",NA,0
+3037114,3015184,4,"186.22(b)(1)","PC","Enhancement",2020-01-10,"Dismissed/Not True","Black","Female",2018-05-11,250000,"In Custody",NA,2018-05-11,"N","211/212.5(c)","PC","Felony",2020-01-10,"Dismissed/Not Guilty",NA,0
+3037114,3015184,5,"186.22(b)(1)","PC","Enhancement",2020-01-10,"Dismissed/Not True","Black","Female",2018-05-11,250000,"In Custody",NA,2018-05-11,"Y","211/212.5(c)","PC","Felony",2020-01-10,"Dismissed/Not Guilty",NA,0
+3037114,3015184,6,"186.22(b)(1)","PC","Enhancement",2020-01-10,"Dismissed/Not True","Black","Female",2018-05-11,250000,"In Custody",NA,2018-05-11,"Y","211/212.5(c)","PC","Felony",2020-01-10,"Dismissed/Not Guilty",NA,0
+3037114,3015185,1,"186.22(b)(1)","PC","Enhancement",2019-06-04,"TRUE","Black","Male",2018-05-11,250000,"In Custody",NA,2018-05-11,"N","211/212.5(c)","PC","Felony",2019-06-04,"Guilty",NA,0
+3037114,3015185,2,"186.22(b)(1)","PC","Enhancement",2019-06-04,"TRUE","Black","Male",2018-05-11,250000,"In Custody",NA,2018-05-11,"N","211/212.5(c)","PC","Felony",2019-06-04,"Guilty",NA,0
+3037114,3015185,3,"186.22(b)(1)","PC","Enhancement",2019-06-04,"TRUE","Black","Male",2018-05-11,250000,"In Custody",NA,2018-05-11,"N","211/212.5(c)","PC","Felony",2019-06-04,"Guilty",NA,0
+3037114,3015185,4,"186.22(b)(1)","PC","Enhancement",2019-06-04,"TRUE","Black","Male",2018-05-11,250000,"In Custody",NA,2018-05-11,"N","211/212.5(c)","PC","Felony",2019-06-04,"Guilty",NA,0
+3037114,3015185,5,"186.22(b)(1)","PC","Enhancement",2019-06-04,"TRUE","Black","Male",2018-05-11,250000,"In Custody",NA,2018-05-11,"Y","211/212.5(c)","PC","Felony",2019-06-04,"Guilty",NA,0
+3037114,3015185,6,"186.22(b)(1)","PC","Enhancement",2019-06-04,"TRUE","Black","Male",2018-05-11,250000,"In Custody",NA,2018-05-11,"Y","211/212.5(c)","PC","Felony",2019-06-04,"Guilty",NA,0
+3037580,3014484,1,"186.22(b)(1)","PC","Enhancement",2019-02-14,"TRUE","Hispanic","Male",2018-05-09,1e+06,"Request for Warrant",NA,2018-05-09,"N","11351","HS","Felony",2019-02-14,"Guilty",NA,1
+3037580,3014484,2,"186.22(b)(1)","PC","Enhancement",2019-02-14,"TRUE","Hispanic","Male",2018-05-09,1e+06,"Request for Warrant",NA,2018-05-09,"N","11370.1(a)","HS","Felony",2019-02-14,"Guilty",NA,1
+3037580,3014484,4,"186.22(b)(1)","PC","Enhancement",2019-02-14,"TRUE","Hispanic","Male",2018-05-09,1e+06,"Request for Warrant",NA,2018-05-09,"N","30305(a)(1)","PC","Felony",2019-02-14,"Guilty",NA,1
+3037580,3014484,5,"186.22(b)(1)","PC","Enhancement",2019-02-14,"TRUE","Hispanic","Male",2018-05-09,1e+06,"Request for Warrant",NA,2018-05-09,"N","29800(a)(1)","PC","Felony",2019-02-14,"Guilty",NA,1
+3039328,3017607,1,"186.22(b)(1)","PC","Enhancement",2018-12-20,"TRUE","Hispanic","Male",NA,1e+05,"In Custody",NA,2018-03-11,"N","594(a)/(b)(1)","PC","Felony",2018-12-20,"Guilty",NA,0
+3039413,3017708,1,"186.22(b)(1)","PC","Enhancement",2018-10-18,"Dismissed/Not True","Hispanic","Male",2018-05-22,1e+05,"In Custody",NA,2018-05-21,"N","626.9(b)","PC","Felony",2018-10-18,"Guilty",NA,1
+3039413,3017708,2,"186.22(b)(1)","PC","Enhancement",2018-10-18,"Dismissed/Not True","Hispanic","Male",2018-05-22,1e+05,"In Custody",NA,2018-05-21,"N","29800(a)(1)","PC","Felony",2018-10-18,"Guilty",NA,1
+3040010,3018336,1,"186.22(b)(1)","PC","Enhancement",2019-08-22,"Dismissed/Not True","Hispanic","Male",2018-05-24,1e+06,"In Custody",NA,2018-05-24,"N","182(a)(1)","PC","Felony",2019-08-22,"Dismissed/Not Guilty",NA,0
+3040010,3018336,2,"186.22(b)(1)","PC","Enhancement",2019-08-22,"Dismissed/Not True","Hispanic","Male",2018-05-24,1e+06,"In Custody",NA,2018-05-24,"N","245(a)(2)","PC","Felony",2019-08-22,"Dismissed/Not Guilty",NA,0
+3040010,3018337,1,"186.22(b)(1)","PC","Enhancement",2019-08-22,"Dismissed/Not True","Hispanic","Male",2018-05-24,1e+06,"In Custody",NA,2018-05-24,"N","182(a)(1)","PC","Felony",2019-08-22,"Dismissed/Not Guilty",NA,1
+3040010,3018337,2,"186.22(b)(1)","PC","Enhancement",2019-08-22,"Dismissed/Not True","Hispanic","Male",2018-05-24,1e+06,"In Custody",NA,2018-05-24,"N","245(a)(2)","PC","Felony",2019-08-22,"Dismissed/Not Guilty",NA,1
+3040636,3019021,1,"186.22(b)(1)","PC","Enhancement",2018-10-15,"TRUE","Asian","Male",NA,25000,"Request for Warrant",NA,2018-04-13,"N","29800(a)(1)","PC","Felony",2018-10-15,"Guilty",NA,0
+3040636,3021754,1,"186.22(b)(1)","PC","Enhancement",2018-10-16,"TRUE","Hispanic","Female",NA,NA,"In Custody",NA,2018-04-13,"N","29800(a)(1)","PC","Felony",2018-10-16,"Guilty",NA,0
+3041875,3020373,1,"186.22(b)(1)","PC","Enhancement",2018-07-23,"Dismissed/Not True","Hispanic","Male",2018-06-01,1e+05,"In Custody",NA,2018-05-15,"N","245(a)(4)","PC","Felony",2018-07-23,"Guilty",NA,1
+3041875,3020374,1,"186.22(b)(1)","PC","Enhancement",2018-09-12,"Dismissed/Not True","Hispanic","Male",2018-06-01,1e+05,"Appearance Date",NA,2018-05-15,"N","245(a)(4)","PC","Felony",2018-09-12,"Guilty",NA,1
+3041875,3020375,1,"186.22(b)(1)","PC","Enhancement",2018-08-15,"Dismissed/Not True","Hispanic","Male",2018-06-01,1e+05,"In Custody",NA,2018-05-15,"N","245(a)(4)","PC","Felony",2018-08-15,"Reduced",NA,1
+3042361,3020892,1,"186.22(b)(1)","PC","Enhancement",2019-12-17,"TRUE","Hispanic","Male",2018-06-04,1e+06,"In Custody",NA,2018-06-04,"N","11378","HS","Felony",2019-12-17,"Guilty",NA,1
+3042453,3020992,1,"186.22(b)(1)","PC","Enhancement",2022-06-03,"Dismissed/Not True",NA,"Male",NA,NA,NA,NA,2017-08-05,"N","182(a)(1)","PC","Felony",2022-06-03,"Dismissed/Not Guilty",NA,0
+3042453,3020992,2,"186.22(b)(1)","PC","Enhancement",2022-06-03,"Dismissed/Not True",NA,"Male",NA,NA,NA,NA,2017-08-05,"N","664(a)-187(a)","PC","Felony",2022-06-03,"Dismissed/Not Guilty",NA,0
+3042453,3020994,1,"186.22(b)(1)","PC","Enhancement",2022-06-03,"Dismissed/Not True","Hispanic","Male",NA,NA,NA,NA,2017-08-05,"N","182(a)(1)","PC","Felony",2022-06-03,"Dismissed/Not Guilty",NA,0
+3042453,3020994,2,"186.22(b)(1)","PC","Enhancement",2022-06-03,"Dismissed/Not True","Hispanic","Male",NA,NA,NA,NA,2017-08-05,"N","664(a)-187(a)","PC","Felony",2022-06-03,"Dismissed/Not Guilty",NA,0
+3042453,3020995,1,"186.22(b)(1)","PC","Enhancement",2022-04-04,"Dismissed/Not True","Hispanic","Male",NA,NA,NA,NA,2017-08-05,"N","182(a)(1)","PC","Felony",2022-04-04,"Dismissed/Not Guilty",NA,1
+3042453,3020995,2,"186.22(b)(1)","PC","Enhancement",2022-04-04,"Dismissed/Not True","Hispanic","Male",NA,NA,NA,NA,2017-08-05,"N","664(a)-187(a)","PC","Felony",2022-04-04,"Dismissed/Not Guilty",NA,1
+3042453,3020996,1,"186.22(b)(1)","PC","Enhancement",2022-05-27,"Dismissed/Not True","Hispanic","Male",NA,NA,NA,NA,2017-08-05,"N","182(a)(1)","PC","Felony",2022-05-27,"Dismissed/Not Guilty",NA,0
+3042453,3020996,2,"186.22(b)(1)","PC","Enhancement",2022-05-27,"Dismissed/Not True","Hispanic","Male",NA,NA,NA,NA,2017-08-05,"N","664(a)-187(a)","PC","Felony",2022-05-27,"Dismissed/Not Guilty",NA,0
+3043617,3022216,1,"186.22(b)(1)","PC","Enhancement",2018-06-12,"Dismissed/Not True","Asian","Female",NA,NA,"Walk Thru Warrant",NA,2017-09-23,"N","182(a)(1)","PC","Felony",2018-06-12,"Dismissed/Not Guilty",NA,0
+3043617,3022216,2,"186.22(b)(1)","PC","Enhancement",2018-06-12,"Dismissed/Not True","Asian","Female",NA,NA,"Walk Thru Warrant",NA,2017-10-11,"N","182(a)(1)","PC","Felony",2018-06-12,"Reduced",NA,0
+3044303,3022970,1,"186.22(b)(1)","PC","Enhancement",2018-07-20,"Dismissed/Not True","Hispanic","Male",2018-06-09,NA,"In Custody",NA,2017-05-04,"N","594(a)/(b)(1)","PC","Felony",2018-07-20,"Dismissed/Not Guilty",NA,0
+3044770,3023350,1,"186.22(b)(1)","PC","Enhancement",2018-11-15,"TRUE","Hispanic","Male",2018-06-12,1e+05,"In Custody",NA,2018-06-12,"N","29800(a)(1)","PC","Felony",2018-11-15,"Guilty",NA,1
+3044770,3023350,2,"186.22(b)(1)","PC","Enhancement",2018-11-15,"Dismissed/Not True","Hispanic","Male",2018-06-12,1e+05,"In Custody",NA,2018-06-12,"N","246.3(a)","PC","Felony",2018-11-15,"Dismissed/Not Guilty",NA,1
+3044949,3023670,1,"186.22(b)(1)","PC","Enhancement",2018-06-18,"Dismissed/Not True","Hispanic","Male",2018-06-13,40000,"In Custody",NA,2018-02-01,"N","594(a)/(b)(1)","PC","Felony",2018-06-18,"Guilty",NA,0
+3044963,3023684,1,"186.22(b)(1)","PC","Enhancement",2018-10-15,"Dismissed/Not True","Hispanic","Male",2018-06-13,40000,"In Custody",NA,2018-06-13,"N","11378","HS","Felony",2018-10-15,"Guilty",NA,0
+3045098,3023825,1,"186.22(b)(1)","PC","Enhancement",2018-06-27,"Dismissed/Not True","Hispanic","Male",2018-06-13,50000,"In Custody",NA,2018-06-13,"N","25850(a)/(c)(6)","PC","Felony",2018-06-27,"Reduced",NA,0
+3045098,3023825,3,"186.22(b)(1)","PC","Enhancement",2018-06-27,"Dismissed/Not True","Hispanic","Male",2018-06-13,50000,"In Custody",NA,2018-06-13,"N","32310(a)","PC","Felony",2018-06-27,"Reduced",NA,0
+3045139,3023874,1,"186.22(b)(1)","PC","Enhancement",2019-01-23,"Dismissed/Not True","Hispanic","Male",2018-06-13,1e+05,"In Custody",NA,2018-06-13,"N","11370.1(a)","HS","Felony",2019-01-23,"Dismissed/Not Guilty",NA,0
+3045139,3023874,2,"186.22(b)(1)","PC","Enhancement",2019-01-23,"TRUE","Hispanic","Male",2018-06-13,1e+05,"In Custody",NA,2018-06-13,"N","25850(a)/(c)(4)","PC","Felony",2019-01-23,"Guilty",NA,0
+3045683,3024448,1,"186.22(b)(1)","PC","Enhancement",2019-02-28,"TRUE","Hispanic","Male",2018-06-15,1e+06,"In Custody",NA,2018-06-15,"N","2800.2","VC","Felony",2019-02-28,"Guilty",NA,1
+3046022,3024815,2,"186.22(b)(1)","PC","Enhancement",2019-10-22,"TRUE","Hispanic","Male",2018-06-17,1e+05,"In Custody",NA,2018-06-17,"N","10851(a)","VC","Felony",2019-10-22,"Guilty",NA,1
+3046022,3024817,1,"186.22(b)(1)","PC","Enhancement",2019-10-22,"Dismissed/Not True","Hispanic","Female",2018-06-17,30000,"Appearance Date",NA,2018-06-17,"N","496d(a)","PC","Felony",2019-10-22,"Guilty",NA,1
+3046426,3025243,1,"186.22(b)(1)","PC","Enhancement",2018-12-21,"TRUE","Hispanic","Male",2018-06-18,150000,"In Custody",NA,2018-06-18,"N","29800(a)(1)","PC","Felony",2018-12-21,"Guilty",NA,1
+3046426,3025243,2,"186.22(b)(1)","PC","Enhancement",2019-02-14,"Dismissed/Not True","Hispanic","Male",2018-06-18,150000,"In Custody",NA,2018-06-18,"N","30305(a)(1)","PC","Felony",2019-02-14,"Dismissed/Not Guilty",NA,1
+3046426,3025353,1,"186.22(b)(1)","PC","Enhancement",2018-12-21,"TRUE","White","Male",NA,150000,"In Custody",NA,2018-06-18,"N","29800(a)(1)","PC","Felony",2018-12-21,"Guilty",NA,1
+3046426,3025353,2,"186.22(b)(1)","PC","Enhancement",2018-12-21,"Dismissed/Not True","White","Male",NA,150000,"In Custody",NA,2018-06-18,"N","30305(a)(1)","PC","Felony",2018-12-21,"Guilty",NA,1
+3047024,3025875,1,"186.22(b)(1)","PC","Enhancement",2018-08-28,"TRUE","White","Male",NA,25000,"Request for Warrant",NA,2015-10-14,"N","245(a)(1)","PC","Felony",2018-08-28,"Guilty",NA,0
+3047050,3025900,1,"186.22(b)(1)","PC","Enhancement",2019-11-18,"TRUE","White","Male",NA,1e+06,"Request for Warrant",NA,2018-03-22,"N","245(a)(4)","PC","Felony",2019-11-18,"Guilty",NA,1
+3047050,3025900,2,"186.22(b)(1)","PC","Enhancement",2019-11-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2018-04-30,"Y","653f(a)","PC","Felony",2019-11-18,"Guilty",NA,1
+3047050,3025900,3,"186.22(b)(1)","PC","Enhancement",2019-11-18,"Dismissed/Not True","White","Male",NA,1e+06,"Request for Warrant",NA,2018-04-30,"Y","653f(a)","PC","Felony",2019-11-18,"Dismissed/Not Guilty",NA,1
+3047197,3026079,1,"186.22(b)(1)","PC","Enhancement",2020-02-11,"TRUE","White","Male",NA,1e+06,"Request for Warrant",NA,2017-08-19,"Y","653f(a)","PC","Felony",2020-02-11,"Guilty",NA,1
+3047353,3026244,1,"186.22(b)(1)","PC","Enhancement",2018-07-06,"TRUE","Hispanic","Male",NA,50000,"In Custody",NA,2016-11-23,"Y","211/212.5(a)","PC","Felony",2018-07-06,"Guilty",NA,0
+3047750,3026705,1,"186.22(b)(1)","PC","Enhancement",2019-06-05,"TRUE","Hispanic","Male",2018-06-23,1e+06,"In Custody",NA,2018-06-23,"N","664(a)-187(a)","PC","Felony",2019-06-05,"Guilty",NA,0
+3047750,3026705,2,"186.22(b)(1)","PC","Enhancement",2019-06-05,"TRUE","Hispanic","Male",2018-06-23,1e+06,"In Custody",NA,2018-06-23,"N","664(a)-187(a)","PC","Felony",2019-06-05,"Guilty",NA,0
+3048123,3027123,1,"186.22(b)(1)","PC","Enhancement",2018-07-12,"Dismissed/Not True","Hispanic","Male",NA,50000,"In Custody",NA,2018-06-25,"N","594(a)/(b)(1)","PC","Felony",2018-07-12,"Guilty",NA,0
+3048574,3027654,1,"186.22(b)(1)","PC","Enhancement",2018-11-06,"TRUE","Hispanic","Male",2018-06-27,1e+05,"In Custody",NA,2018-06-27,"N","29800(a)(1)","PC","Felony",2018-11-06,"Guilty",NA,0
+3048574,3027654,2,"186.22(b)(1)","PC","Enhancement",2018-11-06,"TRUE","Hispanic","Male",2018-06-27,1e+05,"In Custody",NA,2018-06-27,"N","25850(a)/(c)(1)","PC","Felony",2018-11-06,"Guilty",NA,0
+3048574,3027654,3,"186.22(b)(1)","PC","Enhancement",2018-11-06,"TRUE","Hispanic","Male",2018-06-27,1e+05,"In Custody",NA,2018-06-27,"N","25850(a)/(c)(6)","PC","Felony",2018-11-06,"Guilty",NA,0
+3048574,3027654,4,"186.22(b)(1)","PC","Enhancement",2018-11-06,"TRUE","Hispanic","Male",2018-06-27,1e+05,"In Custody",NA,2018-06-27,"N","626.9(b)","PC","Felony",2018-11-06,"Guilty",NA,0
+3048913,3028039,1,"186.22(b)(1)","PC","Enhancement",2020-10-15,"TRUE","Hispanic","Male",NA,250000,"In Custody",NA,2018-06-27,"N","245(a)(4)","PC","Felony",2020-10-15,"Guilty",NA,1
+3048913,3028040,1,"186.22(b)(1)","PC","Enhancement",2019-08-15,"TRUE","Hispanic","Male",NA,1e+05,"In Custody",NA,2018-06-27,"N","245(a)(4)","PC","Felony",2019-08-15,"Guilty",NA,0
+3048913,3028041,1,"186.22(b)(1)","PC","Enhancement",2020-10-15,"TRUE","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-06-27,"N","245(a)(4)","PC","Felony",2020-10-15,"Guilty",NA,1
+3049759,3028994,1,"186.22(b)(1)","PC","Enhancement",2022-05-31,"Dismissed/Not True","White","Male",NA,1e+06,"Walk Thru Warrant",NA,2017-09-07,"N","182(a)(1)","PC","Felony",2022-05-31,"Dismissed/Not Guilty",NA,1
+3049759,3028996,1,"186.22(b)(1)","PC","Enhancement",2022-06-01,"TRUE","Hispanic","Male",NA,1e+06,"Walk Thru Warrant",NA,2017-09-07,"N","182(a)(1)","PC","Felony",2022-06-01,"Dismissed/Not Guilty",NA,0
+3049759,3028997,1,"186.22(b)(1)","PC","Enhancement",2022-05-31,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"Walk Thru Warrant",NA,2017-09-07,"N","182(a)(1)","PC","Felony",2022-05-31,"Dismissed/Not Guilty",NA,0
+3050026,3029290,1,"186.22(b)(1)","PC","Enhancement",2019-07-24,"Dismissed/Not True","Hispanic","Male",2018-06-29,50000,"Walk Thru Warrant",NA,2018-06-29,"N","11379(a)","HS","Felony",2019-07-24,"Dismissed/Not Guilty",NA,0
+3050026,3029290,2,"186.22(b)(1)","PC","Enhancement",2019-07-24,"Dismissed/Not True","Hispanic","Male",2018-06-29,50000,"Walk Thru Warrant",NA,2018-06-29,"N","11370.1(a)","HS","Felony",2019-07-24,"Dismissed/Not Guilty",NA,0
+3050026,3029290,5,"186.22(b)(1)","PC","Enhancement",2019-07-24,"Dismissed/Not True","Hispanic","Male",2018-06-29,50000,"Walk Thru Warrant",NA,2018-06-29,"N","25850(a)/(c)(4)","PC","Felony",2019-07-24,"Dismissed/Not Guilty",NA,0
+3050026,3029291,1,"186.22(b)(1)","PC","Enhancement",2021-11-17,"TRUE","Hispanic","Male",2018-06-29,50000,"Walk Thru Warrant",NA,2018-06-29,"N","11379(a)","HS","Felony",2021-11-17,"Guilty",NA,0
+3050026,3029291,2,"186.22(b)(1)","PC","Enhancement",2021-11-17,"Dismissed/Not True","Hispanic","Male",2018-06-29,50000,"Walk Thru Warrant",NA,2018-06-29,"N","11370.1(a)","HS","Felony",2021-11-17,"Dismissed/Not Guilty",NA,0
+3050026,3029291,5,"186.22(b)(1)","PC","Enhancement",2021-11-17,"Dismissed/Not True","Hispanic","Male",2018-06-29,50000,"Walk Thru Warrant",NA,2018-06-29,"N","25850(a)/(c)(4)","PC","Felony",2021-11-17,"Guilty",NA,0
+3050026,3029292,1,"186.22(b)(1)","PC","Enhancement",2021-02-24,"Dismissed/Not True","Hispanic","Male",2018-06-29,10000,"Walk Thru Warrant",NA,2018-06-29,"N","11379(a)","HS","Felony",2021-02-24,"Guilty",NA,1
+3050026,3029292,2,"186.22(b)(1)","PC","Enhancement",2021-02-24,"Dismissed/Not True","Hispanic","Male",2018-06-29,10000,"Walk Thru Warrant",NA,2018-06-29,"N","11370.1(a)","HS","Felony",2021-02-24,"Dismissed/Not Guilty",NA,1
+3050026,3029292,4,"186.22(b)(1)","PC","Enhancement",2021-02-24,"TRUE","Hispanic","Male",2018-06-29,10000,"Walk Thru Warrant",NA,2018-06-29,"N","29800(a)(1)","PC","Felony",2021-02-24,"Guilty",NA,1
+3050936,3030339,1,"186.22(b)(1)","PC","Enhancement",2019-03-08,"TRUE","Hispanic","Male",2018-07-06,1e+05,"In Custody",NA,2018-07-06,"N","29800(a)(1)","PC","Felony",2019-03-08,"Guilty",NA,1
+3050936,3030339,2,"186.22(b)(1)","PC","Enhancement",2019-03-08,"TRUE","Hispanic","Male",2018-07-06,1e+05,"In Custody",NA,2018-07-06,"N","30305(a)(1)","PC","Felony",2019-03-08,"Guilty",NA,1
+3051015,3030425,5,"186.22(b)(1)","PC","Enhancement",2019-04-02,"Dismissed/Not True","Hispanic","Male",2018-07-07,1e+05,"In Custody",NA,2018-07-07,"N","25400(a)(2)/(c)(6)","PC","Felony",2019-04-02,"Dismissed/Not Guilty",NA,0
+3051015,3030425,6,"186.22(b)(1)","PC","Enhancement",2019-03-25,"TRUE","Hispanic","Male",2018-07-07,1e+05,"In Custody",NA,2018-07-07,"N","25400(a)(2)/(c)(3)","PC","Felony",2019-03-25,"Guilty",NA,0
+3051015,3030426,1,"186.22(b)(1)","PC","Enhancement",2019-04-02,"Dismissed/Not True","Hispanic","Male",2018-07-07,1e+05,"In Custody",NA,2018-07-07,"N","29800(a)(1)","PC","Felony",2019-04-02,"Dismissed/Not Guilty",NA,1
+3051015,3030426,3,"186.22(b)(1)","PC","Enhancement",2019-04-02,"Dismissed/Not True","Hispanic","Male",2018-07-07,1e+05,"In Custody",NA,2018-07-07,"N","29900(a)(1)","PC","Felony",2019-04-02,"Dismissed/Not Guilty",NA,1
+3051015,3030426,4,"186.22(b)(1)","PC","Enhancement",2019-03-25,"TRUE","Hispanic","Male",2018-07-07,1e+05,"In Custody",NA,2018-07-07,"N","25400(a)(2)/(c)(2)","PC","Felony",2019-03-25,"Guilty",NA,1
+3051094,3030521,3,"186.22(b)(1)","PC","Enhancement",2019-01-08,"Dismissed/Not True","Hispanic","Male",2018-07-07,50000,"Appearance Date",NA,2018-07-07,"N","29815(a)","PC","Felony",2019-01-08,"Guilty",NA,0
+3051094,3030522,2,"186.22(b)(1)","PC","Enhancement",2018-08-30,"TRUE","Hispanic","Male",2018-07-07,1e+05,"Appearance Date",NA,2018-07-07,"N","246.3(a)","PC","Felony",2018-08-30,"Guilty",NA,0
+3051094,3030522,3,"186.22(b)(1)","PC","Enhancement",2018-08-30,"Dismissed/Not True","Hispanic","Male",2018-07-07,1e+05,"Appearance Date",NA,2018-07-07,"N","29815(a)","PC","Felony",2018-08-30,"Guilty",NA,0
+3051869,3031370,1,"186.22(b)(1)","PC","Enhancement",2019-04-30,"Dismissed/Not True","Hispanic","Male",2018-07-10,50000,"In Custody",NA,2018-07-09,"N","594(a)/(b)(1)","PC","Felony",2019-04-30,"Guilty",NA,0
+3051869,3031370,2,"186.22(b)(1)","PC","Enhancement",2019-04-30,"Dismissed/Not True","Hispanic","Male",2018-07-10,50000,"In Custody",NA,2018-07-09,"N","594(a)/(b)(1)","PC","Felony",2019-04-30,"Guilty",NA,0
+3051869,3031370,3,"186.22(b)(1)","PC","Enhancement",2019-04-30,"Dismissed/Not True","Hispanic","Male",2018-07-10,50000,"In Custody",NA,2018-07-09,"N","594(a)/(b)(1)","PC","Felony",2019-04-30,"Guilty",NA,0
+3051869,3031370,4,"186.22(b)(1)","PC","Enhancement",2019-04-30,"Dismissed/Not True","Hispanic","Male",2018-07-10,50000,"In Custody",NA,2018-07-09,"N","594(a)/(b)(1)","PC","Felony",2019-04-30,"Guilty",NA,0
+3052206,3031739,1,"186.22(b)(1)","PC","Enhancement",2018-07-23,"Dismissed/Not True","Hispanic","Male",2018-07-11,50000,"In Custody",NA,2018-07-11,"N","594(a)/(b)(1)","PC","Felony",2018-07-23,"Guilty",NA,0
+3052206,3031739,2,"186.22(b)(1)","PC","Enhancement",2018-07-23,"Dismissed/Not True","Hispanic","Male",2018-07-11,50000,"In Custody",NA,2018-07-11,"N","594(a)/(b)(1)","PC","Felony",2018-07-23,"Dismissed/Not Guilty",NA,0
+3052206,3031740,1,"186.22(b)(1)","PC","Enhancement",2019-05-28,"Dismissed/Not True","Hispanic","Male",2018-07-11,50000,"Appearance Date",NA,2018-07-11,"N","594(a)/(b)(1)","PC","Felony",2019-05-28,"Reduced",NA,0
+3052206,3031740,2,"186.22(b)(1)","PC","Enhancement",2019-05-28,"Dismissed/Not True","Hispanic","Male",2018-07-11,50000,"Appearance Date",NA,2018-07-11,"N","594(a)/(b)(1)","PC","Felony",2019-05-28,"Reduced",NA,0
+3052206,3031740,3,"186.22(b)(1)","PC","Enhancement",2019-05-28,"Dismissed/Not True","Hispanic","Male",2018-07-11,50000,"Appearance Date",NA,2018-07-11,"N","21810","PC","Felony",2019-05-28,"Reduced",NA,0
+3052206,3031741,1,"186.22(b)(1)","PC","Enhancement",2019-05-28,"TRUE","Hispanic","Male",NA,1e+05,"In Custody",NA,2018-07-11,"N","594(a)/(b)(1)","PC","Felony",2019-05-28,"Guilty",NA,1
+3052206,3031741,2,"186.22(b)(1)","PC","Enhancement",2019-05-28,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"In Custody",NA,2018-07-11,"N","594(a)/(b)(1)","PC","Felony",2019-05-28,"Reduced",NA,1
+3052206,3031741,4,"186.22(b)(1)","PC","Enhancement",2019-05-28,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"In Custody",NA,2018-07-11,"N","22210","PC","Felony",2019-05-28,"Reduced",NA,1
+3052733,3032314,1,"186.22(b)(1)","PC","Enhancement",2018-07-31,"TRUE","Black","Male",2018-07-15,1e+06,"In Custody",NA,2018-07-15,"N","29800(a)(1)","PC","Felony",2018-07-31,"Guilty",NA,1
+3052733,3032314,2,"186.22(b)(1)","PC","Enhancement",2018-07-31,"Dismissed/Not True","Black","Male",2018-07-15,1e+06,"In Custody",NA,2018-07-15,"N","32310(a)","PC","Felony",2018-07-31,"Dismissed/Not Guilty",NA,1
+3052822,3032411,1,"186.22(b)(1)","PC","Enhancement",2019-01-25,"TRUE","Hispanic","Male",2018-07-13,1e+06,"In Custody",NA,2018-07-13,"N","29800(a)(1)","PC","Felony",2019-01-25,"Guilty",NA,1
+3052822,3032411,2,"186.22(b)(1)","PC","Enhancement",2019-01-25,"TRUE","Hispanic","Male",2018-07-13,1e+06,"In Custody",NA,2018-07-13,"N","30305(a)(1)","PC","Felony",2019-01-25,"Guilty",NA,1
+3052822,3032411,3,"186.22(b)(1)","PC","Enhancement",2019-01-25,"TRUE","Hispanic","Male",2018-07-13,1e+06,"In Custody",NA,2018-07-13,"N","11370.1(a)","HS","Felony",2019-01-25,"Guilty",NA,1
+3052822,3032412,1,"186.22(b)(1)","PC","Enhancement",2019-01-25,"TRUE","Hispanic","Male",2018-07-13,1e+06,"In Custody",NA,2018-07-13,"N","29800(a)(1)","PC","Felony",2019-01-25,"Guilty",NA,1
+3052822,3032412,2,"186.22(b)(1)","PC","Enhancement",2019-01-25,"TRUE","Hispanic","Male",2018-07-13,1e+06,"In Custody",NA,2018-07-13,"N","30305(a)(1)","PC","Felony",2019-01-25,"Guilty",NA,1
+3052822,3032412,3,"186.22(b)(1)","PC","Enhancement",2019-01-25,"TRUE","Hispanic","Male",2018-07-13,1e+06,"In Custody",NA,2018-07-13,"N","11370.1(a)","HS","Felony",2019-01-25,"Guilty",NA,1
+3052826,3032416,1,"186.22(b)(1)","PC","Enhancement",2018-09-18,"TRUE","Hispanic","Male",2018-07-13,1e+06,"In Custody",NA,2018-07-13,"N","11378","HS","Felony",2018-09-18,"Guilty",NA,1
+3052826,3032416,2,"186.22(b)(1)","PC","Enhancement",2018-09-18,"TRUE","Hispanic","Male",2018-07-13,1e+06,"In Custody",NA,2018-07-13,"N","11379(a)","HS","Felony",2018-09-18,"Guilty",NA,1
+3052826,3032418,1,"186.22(b)(1)","PC","Enhancement",2019-07-24,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-07-13,"N","11378","HS","Felony",2019-07-24,"Dismissed/Not Guilty",NA,1
+3053319,3032942,1,"186.22(b)(1)","PC","Enhancement",2019-02-14,"TRUE","Hispanic","Male",2018-07-16,1e+05,"In Custody",NA,2018-07-16,"N","11351","HS","Felony",2019-02-14,"Guilty",NA,1
+3053319,3032942,2,"186.22(b)(1)","PC","Enhancement",2019-02-14,"TRUE","Hispanic","Male",2018-07-16,1e+05,"In Custody",NA,2018-07-16,"N","11352(a)","HS","Felony",2019-02-14,"Guilty",NA,1
+3053376,3033003,1,"186.22(b)(1)","PC","Enhancement",2018-09-13,"TRUE","Hispanic","Male",2018-07-16,1e+05,"In Custody",NA,2018-07-16,"N","29800(a)(1)","PC","Felony",2018-09-13,"Guilty",NA,1
+3053376,3033003,2,"186.22(b)(1)","PC","Enhancement",2018-09-13,"Dismissed/Not True","Hispanic","Male",2018-07-16,1e+05,"In Custody",NA,2018-07-16,"N","33215","PC","Felony",2018-09-13,"Guilty",NA,1
+3054169,3033862,1,"186.22(b)(4)","PC","Other",NA,NA,"Vietnamese","Male",NA,2e+06,"Walk Thru Warrant",NA,2017-11-02,"N","664(a)-187(a)","PC","Felony",NA,NA,NA,1
+3054169,3033862,2,"186.22(b)(4)","PC","Other",NA,NA,"Vietnamese","Male",NA,2e+06,"Walk Thru Warrant",NA,2017-11-02,"N","664(a)-187(a)","PC","Felony",NA,NA,NA,1
+3054169,3033862,3,"186.22(b)(4)","PC","Other",NA,NA,"Vietnamese","Male",NA,2e+06,"Walk Thru Warrant",NA,2017-11-02,"N","664(a)-187(a)","PC","Felony",NA,NA,NA,1
+3054169,3033862,4,"186.22(b)(4)","PC","Other",NA,NA,"Vietnamese","Male",NA,2e+06,"Walk Thru Warrant",NA,2017-11-02,"N","246","PC","Felony",NA,NA,NA,1
+3054425,3034139,1,"186.22(b)(1)","PC","Enhancement",2018-08-06,"Dismissed/Not True","Black","Male",2018-07-21,NA,"In Custody",NA,2018-07-21,"N","29800(a)(1)","PC","Felony",2018-08-06,"Dismissed/Not Guilty",NA,1
+3054425,3034139,2,"186.22(b)(1)","PC","Enhancement",2018-08-06,"Dismissed/Not True","Black","Male",2018-07-21,NA,"In Custody",NA,2018-07-21,"N","30305(a)(1)","PC","Felony",2018-08-06,"Dismissed/Not Guilty",NA,1
+3054425,3034140,1,"186.22(b)(1)","PC","Enhancement",2018-08-06,"Dismissed/Not True","Black","Male",2018-07-21,NA,"In Custody",NA,2018-07-21,"N","29800(a)(1)","PC","Felony",2018-08-06,"Dismissed/Not Guilty",NA,1
+3054425,3034140,2,"186.22(b)(1)","PC","Enhancement",2018-08-06,"Dismissed/Not True","Black","Male",2018-07-21,NA,"In Custody",NA,2018-07-21,"N","30305(a)(1)","PC","Felony",2018-08-06,"Dismissed/Not Guilty",NA,1
+3054425,3034141,3,"186.22(b)(1)","PC","Enhancement",2018-08-06,"Dismissed/Not True","Black","Female",2018-07-21,NA,"In Custody",NA,2018-07-21,"N","25400(a)(1)/(c)(6)","PC","Felony",2018-08-06,"Dismissed/Not Guilty",NA,0
+3055494,3035378,1,"186.22(b)(1)","PC","Enhancement",2019-01-07,"TRUE","Hispanic","Male",2018-06-28,1e+06,"Appearance Date",NA,2018-06-28,"N","182(a)(1)","PC","Felony",2019-01-07,"Guilty",NA,1
+3055494,3035378,2,"186.22(b)(1)","PC","Enhancement",2019-01-07,"TRUE","Hispanic","Male",2018-06-28,1e+06,"Appearance Date",NA,2018-06-28,"N","4573","PC","Felony",2019-01-07,"Guilty",NA,1
+3055494,3035379,1,"186.22(b)(1)","PC","Enhancement",2019-04-10,"Dismissed/Not True","Hispanic","Male",2018-06-28,50000,"Appearance Date",NA,2018-06-28,"N","182(a)(1)","PC","Felony",2019-04-10,"Dismissed/Not Guilty",NA,0
+3055907,3035842,1,"186.22(b)(1)","PC","Enhancement",2018-12-10,"Dismissed/Not True","Hispanic","Male",2018-07-25,50000,"In Custody",NA,2018-07-25,"N","245(a)(1)","PC","Felony",2018-12-10,"Dismissed/Not Guilty",NA,0
+3055907,3035842,2,"186.22(b)(1)","PC","Enhancement",2018-12-10,"Dismissed/Not True","Hispanic","Male",2018-07-25,50000,"In Custody",NA,2018-07-25,"N","245(a)(1)","PC","Felony",2018-12-10,"Guilty",NA,0
+3055907,3035842,3,"186.22(b)(1)","PC","Enhancement",2018-12-10,"Dismissed/Not True","Hispanic","Male",2018-07-25,50000,"In Custody",NA,2018-07-25,"N","594(a)/(b)(1)","PC","Felony",2018-12-10,"Dismissed/Not Guilty",NA,0
+3055907,3035844,2,"186.22(b)(1)","PC","Enhancement",2018-12-07,"TRUE","Hispanic","Male",2018-07-25,1e+05,"In Custody",NA,2018-07-25,"N","245(a)(1)","PC","Felony",2018-12-07,"Guilty",NA,1
+3055907,3035844,3,"186.22(b)(1)","PC","Enhancement",2018-12-07,"Dismissed/Not True","Hispanic","Male",2018-07-25,1e+05,"In Custody",NA,2018-07-25,"N","594(a)/(b)(1)","PC","Felony",2018-12-07,"Dismissed/Not Guilty",NA,1
+3055946,3035885,1,"186.22(b)(1)","PC","Enhancement",2018-07-31,"Dismissed/Not True","Vietnamese","Male",NA,5e+05,"In Custody",NA,2018-06-21,"N","245(a)(1)","PC","Felony",2018-07-31,"Dismissed/Not Guilty",NA,1
+3055946,3035885,2,"186.22(b)(1)","PC","Enhancement",2018-07-31,"Dismissed/Not True","Vietnamese","Male",NA,5e+05,"In Custody",NA,2018-06-21,"N","245(a)(4)","PC","Felony",2018-07-31,"Dismissed/Not Guilty",NA,1
+3055946,3035885,3,"186.22(b)(1)","PC","Enhancement",2018-07-31,"Dismissed/Not True","Vietnamese","Male",NA,5e+05,"In Custody",NA,2018-06-21,"N","182(a)(1)","PC","Felony",2018-07-31,"Dismissed/Not Guilty",NA,1
+3055946,3035893,1,"186.22(b)(1)","PC","Enhancement",2019-08-14,"Dismissed/Not True","Black","Male",NA,50000,"Appearance Date",NA,2018-06-21,"N","245(a)(1)","PC","Felony",2019-08-14,"Reduced",NA,0
+3055946,3035893,2,"186.22(b)(1)","PC","Enhancement",2019-08-14,"Dismissed/Not True","Black","Male",NA,50000,"Appearance Date",NA,2018-06-21,"N","245(a)(4)","PC","Felony",2019-08-14,"Reduced",NA,0
+3055946,3035893,3,"186.22(b)(1)","PC","Enhancement",2019-08-14,"Dismissed/Not True","Black","Male",NA,50000,"Appearance Date",NA,2018-06-21,"N","182(a)(1)","PC","Felony",2019-08-14,"Reduced",NA,0
+3056516,3036493,1,"186.22(b)(1)","PC","Enhancement",2020-03-02,"TRUE","Hispanic","Male",2018-07-28,1e+06,"In Custody",NA,2018-07-28,"N","211/212.5(c)","PC","Felony",2020-03-02,"Guilty",NA,1
+3056516,3036493,2,"186.22(b)(1)","PC","Enhancement",2020-03-06,"Dismissed/Not True","Hispanic","Male",2018-07-28,1e+06,"In Custody",NA,2018-07-28,"N","245(a)(1)","PC","Felony",2020-03-06,"Dismissed/Not Guilty",NA,1
+3056516,3036493,3,"186.22(b)(1)","PC","Enhancement",2020-03-02,"Dismissed/Not True","Hispanic","Male",2018-07-28,1e+06,"In Custody",NA,2018-07-28,"N","203","PC","Felony",2020-03-02,"Dismissed/Not Guilty",NA,1
+3056595,3036579,1,"186.22(b)(1)","PC","Enhancement",2018-10-30,"TRUE","Hispanic","Male",2018-07-29,50000,"In Custody",NA,2018-07-29,"N","422(a)","PC","Felony",2018-10-30,"Guilty",NA,0
+3056947,3036966,1,"186.22(b)(1)","PC","Enhancement",2019-10-25,"Dismissed/Not True","Hispanic","Male",2018-07-30,1e+05,"In Custody",NA,2018-06-16,"N","664(a)-187(a)","PC","Felony",2019-10-25,"Dismissed/Not Guilty",NA,1
+3056947,3036966,2,"186.22(b)(1)","PC","Enhancement",2019-10-25,"Dismissed/Not True","Hispanic","Male",2018-07-30,1e+05,"In Custody",NA,2018-06-16,"N","245(a)(2)","PC","Felony",2019-10-25,"Guilty",NA,1
+3056947,3036966,3,"186.22(b)(1)","PC","Enhancement",2019-10-25,"TRUE","Hispanic","Male",2018-07-30,1e+05,"In Custody",NA,2018-06-16,"N","29800(a)(1)","PC","Felony",2019-10-25,"Dismissed/Not Guilty",NA,1
+3057736,3037787,1,"186.22(b)(1)","PC","Enhancement",2019-08-13,"TRUE","Hispanic","Male",2018-08-01,50000,"In Custody",NA,2018-08-01,"N","21310","PC","Felony",2019-08-13,"Guilty",NA,0
+3057775,3037826,1,"186.22(b)(1)","PC","Enhancement",2018-12-14,"Dismissed/Not True","Hispanic","Male",2018-08-02,1e+05,"In Custody",NA,2018-08-02,"N","30305(a)(1)","PC","Felony",2018-12-14,"Guilty",NA,1
+3057961,3038038,1,"186.22(b)(1)","PC","Enhancement",2019-02-06,"TRUE","Hispanic","Male",2018-08-03,2e+05,"In Custody",NA,2018-07-16,"N","211/212.5(c)","PC","Felony",2019-02-06,"Guilty",NA,1
+3057961,3038038,2,"186.22(b)(1)","PC","Enhancement",2019-02-06,"Dismissed/Not True","Hispanic","Male",2018-08-03,2e+05,"In Custody",NA,2018-07-16,"N","245(a)(1)","PC","Felony",2019-02-06,"Dismissed/Not Guilty",NA,1
+3057961,3044952,1,"186.22(b)(1)","PC","Enhancement",2019-06-03,"TRUE","Hispanic","Male",2018-08-28,NA,"In Custody",NA,2018-07-16,"N","211/212.5(c)","PC","Felony",2019-06-03,"Guilty",NA,0
+3057961,3044952,2,"186.22(b)(1)","PC","Enhancement",2019-06-03,"Dismissed/Not True","Hispanic","Male",2018-08-28,NA,"In Custody",NA,2018-07-16,"N","245(a)(1)","PC","Felony",2019-06-03,"Dismissed/Not Guilty",NA,0
+3058086,3038186,1,"186.22(b)(1)","PC","Enhancement",2018-08-20,"Dismissed/Not True","Black","Male",NA,NA,"Appearance Date",NA,2018-07-21,"N","29800(a)(1)","PC","Felony",2018-08-20,"Dismissed/Not Guilty",NA,1
+3058086,3038186,2,"186.22(b)(1)","PC","Enhancement",2018-08-20,"Dismissed/Not True","Black","Male",NA,NA,"Appearance Date",NA,2018-07-21,"N","30305(a)(1)","PC","Felony",2018-08-20,"Dismissed/Not Guilty",NA,1
+3058086,3038189,1,"186.22(b)(1)","PC","Enhancement",2018-08-20,"Dismissed/Not True","Black","Male",NA,NA,"Appearance Date",NA,2018-07-21,"N","29800(a)(1)","PC","Felony",2018-08-20,"Dismissed/Not Guilty",NA,1
+3058086,3038189,2,"186.22(b)(1)","PC","Enhancement",2018-08-20,"Dismissed/Not True","Black","Male",NA,NA,"Appearance Date",NA,2018-07-21,"N","30305(a)(1)","PC","Felony",2018-08-20,"Dismissed/Not Guilty",NA,1
+3058086,3038191,3,"186.22(b)(1)","PC","Enhancement",2018-08-20,"Dismissed/Not True","Black","Female",NA,NA,"Appearance Date",NA,2018-07-21,"N","25400(a)(1)/(c)(6)","PC","Felony",2018-08-20,"Dismissed/Not Guilty",NA,0
+3058552,3038689,1,"186.22(b)(1)","PC","Enhancement",2023-03-15,"Dismissed/Not True","Hispanic","Male",2018-07-30,1e+05,"Request for Warrant",NA,2018-07-30,"N","22210","PC","Felony",2023-03-15,"Reduced",NA,1
+3059790,3040062,1,"186.22(b)(1)","PC","Enhancement",2019-03-26,"TRUE","Hispanic","Male",2018-08-09,1e+05,"In Custody",NA,2018-07-06,"N","29800(a)(1)","PC","Felony",2019-03-26,"Guilty",NA,0
+3059790,3040062,2,"186.22(b)(1)","PC","Enhancement",2019-03-26,"TRUE","Hispanic","Male",2018-08-09,1e+05,"In Custody",NA,2018-07-06,"N","25400(a)(1)/(c)(3)","PC","Felony",2019-03-26,"Guilty",NA,0
+3059790,3040062,3,"186.22(b)(1)","PC","Enhancement",2019-03-26,"Dismissed/Not True","Hispanic","Male",2018-08-09,1e+05,"In Custody",NA,2018-07-06,"N","30305(a)(1)","PC","Felony",2019-03-26,"Guilty",NA,0
+3059790,3040062,5,"186.22(b)(1)","PC","Enhancement",2019-03-26,"TRUE","Hispanic","Male",2018-08-09,1e+05,"In Custody",NA,2018-07-06,"N","496d(a)","PC","Felony",2019-03-26,"Guilty",NA,0
+3059790,3040062,6,"186.22(b)(1)","PC","Enhancement",2019-03-26,"TRUE","Hispanic","Male",2018-08-09,1e+05,"In Custody",NA,2018-07-06,"N","10851(a)","VC","Felony",2019-03-26,"Guilty",NA,0
+3060006,3040308,1,"186.22(b)(1)","PC","Enhancement",2018-11-07,"TRUE","Hispanic","Male",2018-08-11,50000,"In Custody",NA,2018-08-11,"N","29815(a)","PC","Felony",2018-11-07,"Guilty",NA,0
+3060006,3040308,2,"186.22(b)(1)","PC","Enhancement",2018-11-07,"Dismissed/Not True","Hispanic","Male",2018-08-11,50000,"In Custody",NA,2018-08-11,"N","30305(a)(1)","PC","Felony",2018-11-07,"Dismissed/Not Guilty",NA,0
+3060103,3040409,1,"186.22(b)(1)","PC","Enhancement",2018-11-30,"TRUE","Hispanic","Male",2018-08-12,25000,"In Custody",NA,2018-08-12,"N","29815(a)","PC","Felony",2018-11-30,"Guilty",NA,0
+3061256,3041664,1,"186.22(b)(1)","PC","Enhancement",2018-08-27,"Dismissed/Not True","Hispanic","Male",2018-08-15,50000,"In Custody",NA,2018-08-15,"N","21810","PC","Felony",2018-08-27,"Guilty",NA,0
+3061431,3041855,1,"186.22(b)(1)","PC","Enhancement",2018-11-01,"Dismissed/Not True","Hispanic","Female",2018-08-16,50000,"In Custody",NA,2018-07-20,"N","136.1(c)(1)","PC","Felony",2018-11-01,"Guilty",NA,0
+3061431,3041855,2,"186.22(b)(1)","PC","Enhancement",2018-11-01,"Dismissed/Not True","Hispanic","Female",2018-08-16,50000,"In Custody",NA,2018-07-20,"N","136.1(a)(2)","PC","Felony",2018-11-01,"Dismissed/Not Guilty",NA,0
+3061431,3041856,1,"186.22(b)(1)","PC","Enhancement",2019-05-15,"TRUE","Hispanic","Male",NA,50000,"In Custody",NA,2018-07-20,"N","136.1(c)(1)","PC","Felony",2019-05-15,"Guilty",NA,0
+3061431,3041856,2,"186.22(b)(1)","PC","Enhancement",2019-05-15,"Dismissed/Not True","Hispanic","Male",NA,50000,"In Custody",NA,2018-07-20,"N","136.1(a)(2)","PC","Felony",2019-05-15,"Guilty",NA,0
+3061577,3042012,1,"186.22(b)(1)","PC","Enhancement",2019-03-21,"TRUE","Hispanic","Male",2018-08-16,1e+06,"In Custody",NA,2018-08-16,"N","29800(a)(1)","PC","Felony",2019-03-21,"Guilty",NA,0
+3061742,3042192,1,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",2018-08-19,50000,"In Custody",NA,2018-08-19,"N","245(a)(1)","PC","Felony",NA,NA,NA,0
+3061742,3042192,2,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",2018-08-19,50000,"In Custody",NA,2018-08-19,"N","245(a)(4)","PC","Felony",NA,NA,NA,0
+3061859,3042320,1,"186.22(b)(1)","PC","Enhancement",2019-01-23,"Dismissed/Not True","Hispanic","Male",2018-08-19,1e+05,"In Custody",NA,2018-08-19,"N","11370.1(a)","HS","Felony",2019-01-23,"Guilty",NA,0
+3061859,3042320,2,"186.22(b)(1)","PC","Enhancement",2019-01-23,"Dismissed/Not True","Hispanic","Male",2018-08-19,1e+05,"In Custody",NA,2018-08-19,"N","11378","HS","Felony",2019-01-23,"Dismissed/Not Guilty",NA,0
+3061859,3042320,3,"186.22(b)(1)","PC","Enhancement",2019-01-23,"Dismissed/Not True","Hispanic","Male",2018-08-19,1e+05,"In Custody",NA,2018-08-19,"N","11352(a)","HS","Felony",2019-01-23,"Dismissed/Not Guilty",NA,0
+3061944,3042421,1,"186.22(b)(1)","PC","Enhancement",2018-08-30,"Dismissed/Not True","Hispanic","Male",2018-08-18,1e+05,"In Custody",NA,2018-08-18,"N","594(a)/(b)(1)","PC","Felony",2018-08-30,"Reduced",NA,0
+3061944,3042422,1,"186.22(b)(1)","PC","Enhancement",2022-09-12,"Dismissed/Not True","Hispanic","Male",2018-08-18,1e+05,"Appearance Date",NA,2018-08-18,"N","594(a)/(b)(1)","PC","Felony",2022-09-12,"Reduced",NA,0
+3062511,3043038,1,"186.22(b)(1)","PC","Enhancement",2018-08-31,"Dismissed/Not True","Hispanic","Male",2018-08-19,2e+05,"In Custody",NA,2018-08-19,"N","245(a)(4)","PC","Felony",2018-08-31,"Dismissed/Not Guilty",NA,1
+3063339,3043940,1,"186.22(b)(1)","PC","Enhancement",2019-07-11,"TRUE","Hispanic","Female",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","459-460(a)","PC","Felony",2019-07-11,"Guilty",NA,1
+3063339,3043940,2,"186.22(b)(1)","PC","Enhancement",2019-07-11,"TRUE","Hispanic","Female",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","459-460(b)","PC","Felony",2019-07-11,"Guilty",NA,1
+3063339,3043940,3,"186.22(b)(1)","PC","Enhancement",2019-07-11,"Dismissed/Not True","Hispanic","Female",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","496(a)","PC","Misdemeanor",2019-07-11,"Dismissed/Not Guilty",NA,1
+3063339,3043940,4,"186.22(b)(1)","PC","Enhancement",2019-07-11,"Dismissed/Not True","Hispanic","Female",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","484f(a)","PC","Felony",2019-07-11,"Dismissed/Not Guilty",NA,1
+3063339,3043940,5,"186.22(b)(1)","PC","Enhancement",2019-07-11,"TRUE","Hispanic","Female",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","530.5(c)(2)","PC","Felony",2019-07-11,"Guilty",NA,1
+3063339,3043940,7,"186.22(b)(1)","PC","Enhancement",2019-07-11,"Dismissed/Not True","Hispanic","Female",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","29800(a)(1)","PC","Felony",2019-07-11,"Dismissed/Not Guilty",NA,1
+3063339,3043940,8,"186.22(b)(1)","PC","Enhancement",2019-07-11,"Dismissed/Not True","Hispanic","Female",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","29800(a)(1)","PC","Felony",2019-07-11,"Dismissed/Not Guilty",NA,1
+3063339,3043941,1,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Female",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","459-460(a)","PC","Felony",2019-02-25,"Dismissed/Not Guilty",NA,0
+3063339,3043941,2,"186.22(b)(1)","PC","Enhancement",2019-02-25,"TRUE","Hispanic","Female",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","459-460(b)","PC","Felony",2019-02-25,"Guilty",NA,0
+3063339,3043941,3,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Female",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","496(a)","PC","Misdemeanor",2019-02-25,"Dismissed/Not Guilty",NA,0
+3063339,3043941,4,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Female",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","484f(a)","PC","Felony",2019-02-25,"Dismissed/Not Guilty",NA,0
+3063339,3043941,6,"186.22(b)(1)","PC","Enhancement",2019-02-25,"TRUE","Hispanic","Female",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","530.5(a)","PC","Felony",2019-02-25,"Guilty",NA,0
+3063339,3043942,1,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Male",2018-08-23,1e+06,"In Custody",NA,2018-08-23,"N","459-460(a)","PC","Felony",2019-02-25,"Dismissed/Not Guilty",NA,1
+3063339,3043942,2,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Male",2018-08-23,1e+06,"In Custody",NA,2018-08-23,"N","459-460(b)","PC","Felony",2019-02-25,"Dismissed/Not Guilty",NA,1
+3063339,3043942,3,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Male",2018-08-23,1e+06,"In Custody",NA,2018-08-23,"N","496(a)","PC","Misdemeanor",2019-02-25,"Dismissed/Not Guilty",NA,1
+3063339,3043942,4,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Male",2018-08-23,1e+06,"In Custody",NA,2018-08-23,"N","484f(a)","PC","Felony",2019-02-25,"Dismissed/Not Guilty",NA,1
+3063339,3043942,6,"186.22(b)(1)","PC","Enhancement",2019-02-25,"TRUE","Hispanic","Male",2018-08-23,1e+06,"In Custody",NA,2018-08-23,"N","530.5(a)","PC","Felony",2019-02-25,"Guilty",NA,1
+3063339,3043942,7,"186.22(b)(1)","PC","Enhancement",2019-02-25,"TRUE","Hispanic","Male",2018-08-23,1e+06,"In Custody",NA,2018-08-23,"N","29800(a)(1)","PC","Felony",2019-02-25,"Guilty",NA,1
+3063339,3043942,8,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Male",2018-08-23,1e+06,"In Custody",NA,2018-08-23,"N","29800(a)(1)","PC","Felony",2019-02-25,"Dismissed/Not Guilty",NA,1
+3063339,3043943,1,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Male",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","459-460(a)","PC","Felony",2019-02-25,"Dismissed/Not Guilty",NA,1
+3063339,3043943,2,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Male",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","459-460(b)","PC","Felony",2019-02-25,"Dismissed/Not Guilty",NA,1
+3063339,3043943,3,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Male",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","496(a)","PC","Misdemeanor",2019-02-25,"Dismissed/Not Guilty",NA,1
+3063339,3043943,4,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Male",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","484f(a)","PC","Felony",2019-02-25,"Dismissed/Not Guilty",NA,1
+3063339,3043943,6,"186.22(b)(1)","PC","Enhancement",2019-02-25,"TRUE","Hispanic","Male",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","530.5(a)","PC","Felony",2019-02-25,"Guilty",NA,1
+3063339,3043943,7,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Male",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","29800(a)(1)","PC","Felony",2019-02-25,"Dismissed/Not Guilty",NA,1
+3063339,3043943,8,"186.22(b)(1)","PC","Enhancement",2019-02-25,"Dismissed/Not True","Hispanic","Male",2018-08-23,1e+05,"In Custody",NA,2018-08-23,"N","29800(a)(1)","PC","Felony",2019-02-25,"Guilty",NA,1
+3063486,3044113,1,"186.22(b)(1)","PC","Enhancement",2019-03-14,"TRUE","Hispanic","Male",2018-08-25,50000,"In Custody",NA,2018-08-25,"N","29815(a)","PC","Felony",2019-03-14,"Guilty",NA,0
+3063486,3044113,2,"186.22(b)(1)","PC","Enhancement",2019-03-14,"Dismissed/Not True","Hispanic","Male",2018-08-25,50000,"In Custody",NA,2018-08-25,"N","29820(b)","PC","Felony",2019-03-14,"Dismissed/Not Guilty",NA,0
+3063486,3044113,3,"186.22(b)(1)","PC","Enhancement",2019-03-14,"Dismissed/Not True","Hispanic","Male",2018-08-25,50000,"In Custody",NA,2018-08-25,"N","30305(a)(1)","PC","Felony",2019-03-14,"Dismissed/Not Guilty",NA,0
+3063486,3044114,4,"186.22(b)(1)","PC","Enhancement",2019-02-21,"Dismissed/Not True","Hispanic","Male",2018-08-25,1e+05,"In Custody",NA,2018-08-25,"N","29815(a)","PC","Felony",2019-02-21,"Dismissed/Not Guilty",NA,1
+3063486,3044114,5,"186.22(b)(1)","PC","Enhancement",2019-02-21,"Dismissed/Not True","Hispanic","Male",2018-08-25,1e+05,"In Custody",NA,2018-08-25,"N","29800(a)(1)","PC","Felony",2019-02-21,"Dismissed/Not Guilty",NA,1
+3063758,3044416,1,"186.22(b)(1)","PC","Enhancement",2018-11-26,"Dismissed/Not True","Hispanic","Male",2018-08-26,1e+05,"In Custody",NA,2018-08-26,"N","594(a)/(b)(1)","PC","Felony",2018-11-26,"Dismissed/Not Guilty",NA,1
+3064014,3044673,1,"186.22(b)(1)","PC","Enhancement",2018-12-26,"TRUE","White","Male",2018-08-27,45000,"In Custody",NA,2018-08-27,"N","25850(a)/(c)(6)","PC","Felony",2018-12-26,"Guilty",NA,0
+3064014,3044673,2,"186.22(b)(1)","PC","Enhancement",2018-12-26,"Dismissed/Not True","White","Male",2018-08-27,45000,"In Custody",NA,2018-08-27,"N","25400(a)(2)/(c)(6)","PC","Felony",2018-12-26,"Dismissed/Not Guilty",NA,0
+3064014,3044673,3,"186.22(b)(1)","PC","Enhancement",2018-12-26,"Dismissed/Not True","White","Male",2018-08-27,45000,"In Custody",NA,2018-08-27,"N","29815(a)","PC","Felony",2018-12-26,"Dismissed/Not Guilty",NA,0
+3064014,3044673,4,"186.22(b)(1)","PC","Enhancement",2018-12-26,"Dismissed/Not True","White","Male",2018-08-27,45000,"In Custody",NA,2018-08-27,"N","29820(b)","PC","Felony",2018-12-26,"Dismissed/Not Guilty",NA,0
+3064576,2960721,1,"186.22(b)(1)","PC","Enhancement",2019-02-08,"TRUE","Hispanic","Male",NA,NA,"Appearance Date",NA,2017-09-22,"N","245(a)(1)","PC","Felony",2019-02-08,"Guilty",NA,0
+3064942,3045724,1,"186.22(b)(1)","PC","Enhancement",2019-08-05,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"Appearance Date",NA,2015-09-19,"N","664(a)-187(a)","PC","Felony",2019-08-05,"Dismissed/Not Guilty",NA,0
+3064942,3045724,2,"186.22(b)(1)","PC","Enhancement",2019-08-05,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"Appearance Date",NA,2015-09-19,"N","211/212.5(c)","PC","Felony",2019-08-05,"Dismissed/Not Guilty",NA,0
+3064942,3045724,3,"186.22(b)(1)","PC","Enhancement",2019-08-05,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"Appearance Date",NA,2015-09-19,"N","245(a)(2)","PC","Felony",2019-08-05,"Guilty",NA,0
+3064942,3045724,5,"186.22(b)(1)","PC","Enhancement",2019-08-05,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"Appearance Date",NA,2015-09-19,"N","29800(a)(1)","PC","Felony",2019-08-05,"Dismissed/Not Guilty",NA,0
+3064944,3045726,1,"186.22(b)(1)","PC","Enhancement",2019-01-08,"TRUE","Hispanic","Male",2018-08-30,50000,"In Custody",NA,2018-08-30,"N","594(a)/(b)(1)","PC","Felony",2019-01-08,"Guilty",NA,1
+3065086,3045875,1,"186.22(b)(1)","PC","Enhancement",2019-10-08,"Dismissed/Not True","Hispanic","Male",2018-08-30,5e+05,"In Custody",NA,2018-08-30,"N","666.5(a)/10851(a)","PC","Felony",2019-10-08,"Guilty",NA,1
+3065214,3046013,1,"186.22(b)(1)","PC","Enhancement",2018-11-09,"Dismissed/Not True","Hispanic","Male",2018-08-30,1e+05,"In Custody",NA,2018-08-09,"Y","215(a)","PC","Felony",2018-11-09,"Dismissed/Not Guilty",NA,0
+3065214,3046013,2,"186.22(b)(1)","PC","Enhancement",2018-11-09,"Dismissed/Not True","Hispanic","Male",2018-08-30,1e+05,"In Custody",NA,2018-08-09,"N","245(a)(2)","PC","Felony",2018-11-09,"Guilty",NA,0
+3065283,3046093,1,"186.22(b)(1)","PC","Enhancement",2019-06-04,"Dismissed/Not True","Hispanic","Male",2018-08-31,250000,"In Custody",NA,2018-08-31,"N","245(a)(1)","PC","Felony",2019-06-04,"Reduced",NA,1
+3065283,3046093,2,"186.22(b)(1)","PC","Enhancement",2019-06-04,"Dismissed/Not True","Hispanic","Male",2018-08-31,250000,"In Custody",NA,2018-08-31,"N","245(a)(4)","PC","Felony",2019-06-04,"Guilty",NA,1
+3065336,3046153,1,"186.22(b)(1)","PC","Enhancement",2019-03-05,"TRUE","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2018-08-09,"Y","215(a)","PC","Felony",2019-03-05,"Guilty",NA,0
+3065336,3046153,2,"186.22(b)(1)","PC","Enhancement",2019-03-05,"TRUE","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2018-08-09,"N","245(a)(2)","PC","Felony",2019-03-05,"Dismissed/Not Guilty",NA,0
+3065563,3046406,1,"186.22(b)(1)","PC","Enhancement",2018-09-13,"TRUE","Hispanic","Male",2018-09-03,1e+06,"In Custody",NA,2018-09-03,"N","29800(a)(1)","PC","Felony",2018-09-13,"Guilty",NA,1
+3065563,3046406,3,"186.22(b)(1)","PC","Enhancement",2018-09-13,"TRUE","Hispanic","Male",2018-09-03,1e+06,"In Custody",NA,2018-09-03,"N","25400(a)(2)/(c)(1)","PC","Felony",2018-09-13,"Guilty",NA,1
+3065563,3046406,4,"186.22(b)(1)","PC","Enhancement",2018-09-13,"TRUE","Hispanic","Male",2018-09-03,1e+06,"In Custody",NA,2018-09-03,"N","30305(a)(1)","PC","Felony",2018-09-13,"Guilty",NA,1
+3065563,3046406,5,"186.22(b)(1)","PC","Enhancement",2018-09-13,"TRUE","Hispanic","Male",2018-09-03,1e+06,"In Custody",NA,2018-09-03,"N","626.9(b)","PC","Felony",2018-09-13,"Guilty",NA,1
+3065630,3046484,1,"186.22(b)(1)","PC","Enhancement",2018-12-17,"Dismissed/Not True","Hispanic","Male",2018-09-02,1e+05,"In Custody",NA,2018-09-02,"N","25850(a)/(c)(1)","PC","Felony",2018-12-17,"Guilty",NA,1
+3065630,3046484,3,"186.22(b)(1)","PC","Enhancement",2018-12-17,"Dismissed/Not True","Hispanic","Male",2018-09-02,1e+05,"In Custody",NA,2018-09-02,"N","30305(a)(1)","PC","Felony",2018-12-17,"Reduced",NA,1
+3065630,3046485,1,"186.22(b)(1)","PC","Enhancement",2018-12-11,"TRUE","Hispanic","Male",2018-09-02,1e+05,"In Custody",NA,2018-09-02,"N","25850(a)/(c)(1)","PC","Felony",2018-12-11,"Guilty",NA,1
+3065953,3046821,1,"186.22(b)(1)","PC","Enhancement",2019-11-01,"TRUE","Hispanic","Female",2018-09-04,25000,"Walk Thru Warrant",NA,2018-09-04,"N","11378","HS","Felony",2019-11-01,"Guilty",NA,0
+3066010,3046880,1,"186.22(b)(1)","PC","Enhancement",2018-10-29,"TRUE","Hispanic","Male",2018-09-04,1e+05,"In Custody",NA,2018-09-04,"N","25850(a)/(c)(2)","PC","Felony",2018-10-29,"Guilty",NA,1
+3066010,3046880,2,"186.22(b)(1)","PC","Enhancement",2018-10-29,"TRUE","Hispanic","Male",2018-09-04,1e+05,"In Custody",NA,2018-09-04,"N","25850(a)/(c)(1)","PC","Felony",2018-10-29,"Guilty",NA,1
+3066010,3046880,3,"186.22(b)(1)","PC","Enhancement",2018-10-29,"TRUE","Hispanic","Male",2018-09-04,1e+05,"In Custody",NA,2018-09-04,"N","626.9(b)","PC","Felony",2018-10-29,"Guilty",NA,1
+3066532,3047333,1,"186.22(b)(1)","PC","Enhancement",2018-09-19,"Dismissed/Not True","Hispanic","Male",2018-09-05,50000,"In Custody",NA,2018-09-01,"N","594(a)/(b)(1)","PC","Felony",2018-09-19,"Guilty",NA,0
+3066915,3047871,1,"186.22(b)(1)","PC","Enhancement",2018-09-25,"TRUE","Hispanic","Male",2018-09-08,1e+06,"In Custody",NA,2018-09-08,"N","10851(a)","VC","Felony",2018-09-25,"Guilty",NA,1
+3066915,3047871,2,"186.22(b)(1)","PC","Enhancement",2018-12-18,"Dismissed/Not True","Hispanic","Male",2018-09-08,1e+06,"In Custody",NA,2018-09-08,"N","496d(a)","PC","Felony",2018-12-18,"Dismissed/Not Guilty",NA,1
+3066956,3047913,1,"186.22(b)(1)","PC","Enhancement",2019-06-13,"Dismissed/Not True","Hispanic","Male",2018-09-08,1e+05,"In Custody",NA,2018-09-08,"N","666.5(a)/10851(a)","PC","Felony",2019-06-13,"Guilty",NA,1
+3067064,3048032,1,"186.22(b)(1)","PC","Enhancement",2020-11-12,"Dismissed/Not True","Hispanic","Male",2018-09-08,1e+06,"In Custody",NA,2018-09-08,"N","664(a)-187(a)","PC","Felony",2020-11-12,"Dismissed/Not Guilty",NA,0
+3067064,3048032,2,"186.22(b)(1)","PC","Enhancement",2020-11-12,"TRUE","Hispanic","Male",2018-09-08,1e+06,"In Custody",NA,2018-09-08,"N","245(b)","PC","Felony",2020-11-12,"Guilty",NA,0
+3067064,3048032,3,"186.22(b)(1)","PC","Enhancement",2020-11-12,"Dismissed/Not True","Hispanic","Male",2018-09-08,1e+06,"In Custody",NA,2018-09-08,"N","29800(a)(1)","PC","Felony",2020-11-12,"Dismissed/Not Guilty",NA,0
+3067064,3048032,4,"186.22(b)(1)","PC","Enhancement",2020-11-12,"Dismissed/Not True","Hispanic","Male",2018-09-08,1e+06,"In Custody",NA,2018-09-08,"N","25400(a)(2)/(c)(3)","PC","Felony",2020-11-12,"Dismissed/Not Guilty",NA,0
+3067064,3048032,5,"186.22(b)(1)","PC","Enhancement",2020-11-12,"Dismissed/Not True","Hispanic","Male",2018-09-08,1e+06,"In Custody",NA,2018-09-08,"N","25400(a)(2)/(c)(6)","PC","Felony",2020-11-12,"Dismissed/Not Guilty",NA,0
+3067940,3048982,1,"186.22(b)(1)","PC","Enhancement",2018-11-14,"Dismissed/Not True","Hispanic","Male",NA,50000,"Walk Thru Warrant",NA,2018-09-03,"N","211/212.5(c)","PC","Felony",2018-11-14,"Dismissed/Not Guilty",NA,0
+3067940,3048982,2,"186.22(b)(1)","PC","Enhancement",2018-11-14,"Dismissed/Not True","Hispanic","Male",NA,50000,"Walk Thru Warrant",NA,2018-09-03,"N","211/212.5(c)","PC","Felony",2018-11-14,"Dismissed/Not Guilty",NA,0
+3067940,3048983,1,"186.22(b)(1)","PC","Enhancement",2019-01-11,"TRUE","Hispanic","Male",NA,50000,"Walk Thru Warrant",NA,2018-09-03,"N","211/212.5(c)","PC","Felony",2019-01-11,"Guilty",NA,0
+3067940,3048983,2,"186.22(b)(1)","PC","Enhancement",2019-01-11,"Dismissed/Not True","Hispanic","Male",NA,50000,"Walk Thru Warrant",NA,2018-09-03,"N","211/212.5(c)","PC","Felony",2019-01-11,"Dismissed/Not Guilty",NA,0
+3068694,3049803,1,"186.22(b)(1)","PC","Enhancement",2019-07-31,"Dismissed/Not True","Hispanic","Male",2018-09-14,1e+05,"Appearance Date",NA,2018-09-13,"N","626.9(b)","PC","Felony",2019-07-31,"Guilty",NA,0
+3068694,3049803,2,"186.22(b)(1)","PC","Enhancement",2019-07-31,"Dismissed/Not True","Hispanic","Male",2018-09-14,1e+05,"Appearance Date",NA,2018-09-13,"N","246.3(a)","PC","Felony",2019-07-31,"Reduced",NA,0
+3068694,3049803,3,"186.22(b)(1)","PC","Enhancement",2019-07-31,"Dismissed/Not True","Hispanic","Male",2018-09-14,1e+05,"Appearance Date",NA,2018-09-13,"N","25400(a)(1)/(c)(6)","PC","Felony",2019-07-31,"Guilty",NA,0
+3068694,3049803,4,"186.22(b)(1)","PC","Enhancement",2019-07-31,"Dismissed/Not True","Hispanic","Male",2018-09-14,1e+05,"Appearance Date",NA,2018-09-13,"N","594(a)/(b)(1)","PC","Felony",2019-07-31,"Guilty",NA,0
+3068943,3050079,1,"186.22(b)(1)","PC","Enhancement",2018-12-12,"TRUE","Hispanic","Male",2018-09-14,50000,"In Custody",NA,2018-09-14,"N","487(a)","PC","Felony",2018-12-12,"Guilty",NA,0
+3068943,3050079,2,"186.22(b)(1)","PC","Enhancement",2018-12-12,"Dismissed/Not True","Hispanic","Male",2018-09-14,50000,"In Custody",NA,2018-09-14,"N","496(a)","PC","Felony",2018-12-12,"Dismissed/Not Guilty",NA,0
+3068943,3050080,1,"186.22(b)(1)","PC","Enhancement",2018-10-18,"TRUE","Hispanic","Male",2018-09-14,1e+05,"In Custody",NA,2018-09-14,"N","487(a)","PC","Felony",2018-10-18,"Guilty",NA,1
+3068943,3050333,1,"186.22(b)(1)","PC","Enhancement",2018-12-13,"TRUE","Hispanic","Male",NA,1e+05,"Request for Warrant",NA,2018-09-14,"N","487(a)","PC","Felony",2018-12-13,"Guilty",NA,1
+3069091,3050236,1,"186.22(b)(1)","PC","Enhancement",2019-04-30,"Dismissed/Not True","Hispanic","Male",2018-09-14,NA,"In Custody",NA,2018-09-14,"N","25850(a)/(c)(3)","PC","Felony",2019-04-30,"Dismissed/Not Guilty",NA,0
+3069091,3050236,5,"186.22(b)(1)","PC","Enhancement",2019-04-30,"TRUE","Hispanic","Male",2018-09-14,NA,"In Custody",NA,2018-09-14,"N","626.9(b)","PC","Felony",2019-04-30,"Guilty",NA,0
+3069091,3050237,1,"186.22(b)(1)","PC","Enhancement",2019-04-17,"Dismissed/Not True","Hispanic","Male",2018-09-14,NA,"In Custody",NA,2018-09-14,"N","25850(a)/(c)(3)","PC","Felony",2019-04-17,"Dismissed/Not Guilty",NA,0
+3069193,3050344,1,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,NA,"Walk Thru Warrant",NA,2018-05-13,"N","187(a)","PC","Felony",NA,NA,NA,0
+3069193,3050344,2,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,NA,"Walk Thru Warrant",NA,2018-05-13,"N","664(a)-187(a)","PC","Felony",NA,NA,NA,0
+3069193,3050344,3,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,NA,"Walk Thru Warrant",NA,2018-05-13,"N","664(a)-187(a)","PC","Felony",NA,NA,NA,0
+3069193,3050344,4,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,NA,"Walk Thru Warrant",NA,2018-05-13,"N","30605(a)","PC","Felony",NA,NA,NA,0
+3069193,3050344,5,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,NA,"Walk Thru Warrant",NA,2018-05-13,"N","32310(a)","PC","Felony",NA,NA,NA,0
+3069491,3050664,1,"186.22(b)(1)","PC","Enhancement",NA,NA,"Black","Male",NA,50000,"Walk Thru Warrant",NA,2018-04-18,"N","459-460(a)","PC","Felony",NA,NA,NA,0
+3069491,3050664,2,"186.22(b)(1)","PC","Enhancement",NA,NA,"Black","Male",NA,50000,"Walk Thru Warrant",NA,2018-04-18,"N","182(a)(1)","PC","Felony",NA,NA,NA,0
+3069491,3050664,3,"186.22(b)(1)","PC","Enhancement",NA,NA,"Black","Male",NA,50000,"Walk Thru Warrant",NA,2017-10-25,"N","459-460(a)","PC","Felony",NA,NA,NA,0
+3069491,3050664,4,"186.22(b)(1)","PC","Enhancement",NA,NA,"Black","Male",NA,50000,"Walk Thru Warrant",NA,2017-11-14,"N","459-460(a)","PC","Felony",NA,NA,NA,0
+3069491,3050664,5,"186.22(b)(1)","PC","Enhancement",NA,NA,"Black","Male",NA,50000,"Walk Thru Warrant",NA,2017-11-14,"N","459-460(a)","PC","Felony",NA,NA,NA,0
+3069491,3061821,1,"186.22(b)(1)","PC","Enhancement",NA,NA,"Black","Male",NA,1e+06,"Walk Thru Warrant",NA,2018-04-18,"N","459-460(a)","PC","Felony",NA,NA,NA,1
+3069491,3061821,2,"186.22(b)(1)","PC","Enhancement",NA,NA,"Black","Male",NA,1e+06,"Walk Thru Warrant",NA,2018-04-18,"N","182(a)(1)","PC","Felony",NA,NA,NA,1
+3069491,3061823,1,"186.22(b)(1)","PC","Enhancement",NA,NA,"Black","Male",NA,150000,"Walk Thru Warrant",NA,2018-04-18,"N","459-460(a)","PC","Felony",NA,NA,NA,1
+3069491,3061823,2,"186.22(b)(1)","PC","Enhancement",NA,NA,"Black","Male",NA,150000,"Walk Thru Warrant",NA,2018-04-18,"N","182(a)(1)","PC","Felony",NA,NA,NA,1
+3069491,3061825,1,"186.22(b)(1)","PC","Enhancement",NA,NA,"Black","Male",NA,50000,"Walk Thru Warrant",NA,2018-04-18,"N","459-460(a)","PC","Felony",NA,NA,NA,0
+3069491,3061825,2,"186.22(b)(1)","PC","Enhancement",NA,NA,"Black","Male",NA,50000,"Walk Thru Warrant",NA,2018-04-18,"N","182(a)(1)","PC","Felony",NA,NA,NA,0
+3069667,3050851,1,"186.22(b)(1)","PC","Enhancement",2020-07-27,"TRUE","Hispanic","Male",NA,1e+06,"Appearance Date",NA,2018-09-04,"N","664(a)-187(a)","PC","Felony",2020-07-27,"Guilty",NA,1
+3069667,3050851,2,"186.22(b)(1)","PC","Enhancement",2020-07-27,"TRUE","Hispanic","Male",NA,1e+06,"Appearance Date",NA,2018-09-04,"N","29800(a)(1)","PC","Felony",2020-07-27,"Guilty",NA,1
+3070716,3051983,1,"186.22(b)(1)","PC","Enhancement",2019-05-14,"Dismissed/Not True","Hispanic","Male",2018-09-23,150000,"Appearance Date",NA,2018-09-22,"N","245(a)(4)","PC","Felony",2019-05-14,"Guilty",NA,0
+3070716,3051984,1,"186.22(b)(1)","PC","Enhancement",2019-05-14,"Dismissed/Not True","Hispanic","Male",2018-09-23,1e+05,"In Custody",NA,2018-09-22,"N","245(a)(4)","PC","Felony",2019-05-14,"Guilty",NA,1
+3070716,3051985,1,"186.22(b)(1)","PC","Enhancement",2019-05-14,"Dismissed/Not True","Hispanic","Male",2018-09-23,1e+05,"In Custody",NA,2018-09-22,"N","245(a)(4)","PC","Felony",2019-05-14,"Guilty",NA,0
+3071136,3052434,2,"186.22(b)(1)","PC","Enhancement",2019-03-22,"TRUE","Hispanic","Male",2018-09-23,1e+05,"In Custody",NA,2018-09-23,"N","211/212.5(a)","PC","Felony",2019-03-22,"Guilty",NA,1
+3071136,3052434,3,"186.22(b)(1)","PC","Enhancement",2019-03-22,"Dismissed/Not True","Hispanic","Male",2018-09-23,1e+05,"In Custody",NA,2018-09-20,"N","211/212.5(a)","PC","Felony",2019-03-22,"Dismissed/Not Guilty",NA,1
+3071136,3052434,4,"186.22(b)(1)","PC","Enhancement",2019-03-22,"Dismissed/Not True","Hispanic","Male",2018-09-23,1e+05,"In Custody",NA,2018-09-23,"N","211/212.5(a)","PC","Felony",2019-03-22,"Dismissed/Not Guilty",NA,1
+3071136,3052435,2,"186.22(b)(1)","PC","Enhancement",2018-12-18,"Dismissed/Not True","Hispanic","Female",2018-09-24,1e+05,"In Custody",NA,2018-09-23,"N","211/212.5(a)","PC","Felony",2018-12-18,"Dismissed/Not Guilty",NA,0
+3071136,3052435,3,"186.22(b)(1)","PC","Enhancement",2018-12-18,"Dismissed/Not True","Hispanic","Female",2018-09-24,1e+05,"In Custody",NA,2018-09-20,"N","211/212.5(a)","PC","Felony",2018-12-18,"Dismissed/Not Guilty",NA,0
+3071136,3052435,4,"186.22(b)(1)","PC","Enhancement",2018-12-18,"Dismissed/Not True","Hispanic","Female",2018-09-24,1e+05,"In Custody",NA,2018-09-23,"N","211/212.5(a)","PC","Felony",2018-12-18,"Dismissed/Not Guilty",NA,0
+3071136,3052435,5,"186.22(b)(1)","PC","Enhancement",2018-12-18,"TRUE","Hispanic","Female",2018-09-24,1e+05,"In Custody",NA,2018-09-19,"N","211/212.5(c)","PC","Felony",2018-12-18,"Guilty",NA,0
+3071802,3053166,1,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","29800(a)(1)","PC","Felony",2018-10-09,"Dismissed/Not Guilty",NA,1
+3071802,3053166,3,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","626.9(b)","PC","Felony",2018-10-09,"Dismissed/Not Guilty",NA,1
+3071802,3053166,4,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","11370.1(a)","HS","Felony",2018-10-09,"Guilty",NA,1
+3071802,3053166,5,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","11378","HS","Felony",2018-10-09,"Guilty",NA,1
+3071802,3053166,6,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","11351","HS","Felony",2018-10-09,"Dismissed/Not Guilty",NA,1
+3071802,3053167,1,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","29800(a)(1)","PC","Felony",2018-10-09,"Dismissed/Not Guilty",NA,1
+3071802,3053167,3,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","626.9(b)","PC","Felony",2018-10-09,"Dismissed/Not Guilty",NA,1
+3071802,3053167,4,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","11370.1(a)","HS","Felony",2018-10-09,"Dismissed/Not Guilty",NA,1
+3071802,3053167,5,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","11378","HS","Felony",2018-10-09,"Dismissed/Not Guilty",NA,1
+3071802,3053167,6,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","11351","HS","Felony",2018-10-09,"Dismissed/Not Guilty",NA,1
+3071802,3053168,1,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","29800(a)(1)","PC","Felony",2018-10-09,"Dismissed/Not Guilty",NA,1
+3071802,3053168,3,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","626.9(b)","PC","Felony",2018-10-09,"Dismissed/Not Guilty",NA,1
+3071802,3053168,4,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","11370.1(a)","HS","Felony",2018-10-09,"Dismissed/Not Guilty",NA,1
+3071802,3053168,5,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","11378","HS","Felony",2018-10-09,"Dismissed/Not Guilty",NA,1
+3071802,3053168,6,"186.22(b)(1)","PC","Enhancement",2018-10-09,"Dismissed/Not True","Hispanic","Male",2018-09-26,1e+05,"In Custody",NA,2018-09-26,"N","11351","HS","Felony",2018-10-09,"Dismissed/Not Guilty",NA,1
+3072403,3053811,1,"186.22(b)(1)","PC","Enhancement",2018-10-24,"Dismissed/Not True","Hispanic","Male",2018-09-27,40000,"Appearance Date",NA,2018-09-27,"N","21310","PC","Felony",2018-10-24,"Guilty",NA,0
+3073729,3055291,1,"186.22(b)(1)","PC","Enhancement",2018-10-16,"Dismissed/Not True","Hispanic","Male",2018-10-03,1e+06,"In Custody",NA,2018-10-03,"N","29800(a)(1)","PC","Felony",2018-10-16,"Dismissed/Not Guilty",NA,1
+3073729,3055291,2,"186.22(b)(1)","PC","Enhancement",2018-10-16,"TRUE","Hispanic","Male",2018-10-03,1e+06,"In Custody",NA,2018-10-03,"N","25850(a)/(c)(1)","PC","Felony",2018-10-16,"Guilty",NA,1
+3074292,3055904,1,"186.22(b)(1)","PC","Enhancement",2018-10-18,"TRUE","Hispanic","Male",2018-10-05,1e+05,"In Custody",NA,2018-10-05,"N","29800(a)(1)","PC","Felony",2018-10-18,"Guilty",NA,1
+3074292,3055904,2,"186.22(b)(1)","PC","Enhancement",2018-10-18,"TRUE","Hispanic","Male",2018-10-05,1e+05,"In Custody",NA,2018-10-05,"N","30305(a)(1)","PC","Felony",2018-10-18,"Guilty",NA,1
+3074708,3056352,1,"186.22(b)(1)","PC","Enhancement",2021-05-07,"TRUE","Hispanic","Male",2018-10-07,50000,"Appearance Date",NA,2018-10-07,"N","245(a)(1)","PC","Felony",2021-05-07,"Guilty",NA,0
+3074708,3056353,1,"186.22(b)(1)","PC","Enhancement",2019-02-06,"Dismissed/Not True","Hispanic","Male",2018-10-07,50000,"In Custody",NA,2018-10-07,"N","245(a)(1)","PC","Felony",2019-02-06,"Dismissed/Not Guilty",NA,0
+3074708,3056354,1,"186.22(b)(1)","PC","Enhancement",2020-07-02,"Dismissed/Not True","Hispanic","Male",2018-10-07,50000,"In Custody",NA,2018-10-07,"N","245(a)(1)","PC","Felony",2020-07-02,"Guilty",NA,0
+3074708,3056355,1,"186.22(b)(1)","PC","Enhancement",2019-10-15,"TRUE","Hispanic","Male",2018-10-07,1e+05,"In Custody",NA,2018-10-07,"N","245(a)(1)","PC","Felony",2019-10-15,"Reduced",NA,0
+3074709,3056356,4,"186.22(b)(1)","PC","Enhancement",2019-04-29,"Dismissed/Not True","Hispanic","Male",2018-10-08,2e+05,"In Custody",NA,2018-10-08,"N","25400(a)(1)/(c)(3)","PC","Felony",2019-04-29,"Dismissed/Not Guilty",NA,0
+3074709,3056356,7,"186.22(b)(1)","PC","Enhancement",2019-04-29,"Dismissed/Not True","Hispanic","Male",2018-10-08,2e+05,"In Custody",NA,2018-10-08,"N","30605(a)","PC","Felony",2019-04-29,"Dismissed/Not Guilty",NA,0
+3074709,3056357,5,"186.22(b)(1)","PC","Enhancement",2019-04-29,"Dismissed/Not True","Hispanic","Male",2018-10-08,3e+05,"Appearance Date",NA,2018-10-08,"N","29800(a)(1)","PC","Felony",2019-04-29,"Dismissed/Not Guilty",NA,1
+3074709,3056357,6,"186.22(b)(1)","PC","Enhancement",2019-04-29,"Dismissed/Not True","Hispanic","Male",2018-10-08,3e+05,"Appearance Date",NA,2018-10-08,"N","30305(a)(1)","PC","Felony",2019-04-29,"Dismissed/Not Guilty",NA,1
+3074709,3056357,7,"186.22(b)(1)","PC","Enhancement",2019-04-29,"Dismissed/Not True","Hispanic","Male",2018-10-08,3e+05,"Appearance Date",NA,2018-10-08,"N","30605(a)","PC","Felony",2019-04-29,"Dismissed/Not Guilty",NA,1
+3074752,3056401,1,"186.22(b)(1)","PC","Enhancement",2019-01-11,"Dismissed/Not True","Hispanic","Male",2018-10-09,1e+05,"In Custody",NA,2018-10-09,"N","25400(a)(2)/(c)(6)","PC","Felony",2019-01-11,"Guilty",NA,0
+3074752,3056401,2,"186.22(b)(1)","PC","Enhancement",2019-01-11,"Dismissed/Not True","Hispanic","Male",2018-10-09,1e+05,"In Custody",NA,2018-10-09,"N","30305(a)(1)","PC","Felony",2019-01-11,"Guilty",NA,0
+3074752,3056402,1,"186.22(b)(1)","PC","Enhancement",2019-01-08,"TRUE","Hispanic","Male",2018-10-09,1e+05,"In Custody",NA,2018-10-09,"N","25400(a)(2)/(c)(6)","PC","Felony",2019-01-08,"Guilty",NA,0
+3074752,3056402,2,"186.22(b)(1)","PC","Enhancement",2019-01-08,"TRUE","Hispanic","Male",2018-10-09,1e+05,"In Custody",NA,2018-10-09,"N","30305(a)(1)","PC","Felony",2019-01-08,"Guilty",NA,0
+3074833,3056492,1,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",2018-10-06,NA,"In Custody",NA,2018-10-01,"N","187(a)","PC","Felony",NA,NA,NA,0
+3074833,3056492,1,"186.22(b)(4)","PC","Other",NA,NA,"Hispanic","Male",2018-10-06,NA,"In Custody",NA,2018-10-01,"N","187(a)","PC","Felony",NA,NA,NA,0
+3074833,3056492,2,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",2018-10-06,NA,"In Custody",NA,2018-10-01,"N","422(a)","PC","Felony",NA,NA,NA,0
+3076012,3057778,1,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","30605(a)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,2,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","30605(a)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,3,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","30605(a)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,4,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","30605(a)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,5,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","30605(a)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,6,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","30605(a)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,7,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","30605(a)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,8,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","30605(a)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,9,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","23900","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,10,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","23900","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,11,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","23900","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,12,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,13,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,14,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,15,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,16,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,17,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,18,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,19,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,20,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,21,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,22,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,23,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,24,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,25,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,26,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,27,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,28,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,29,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,30,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,31,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,32,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,33,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,34,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","29800(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,35,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","30305(a)(1)","PC","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,36,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","11351","HS","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,37,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","11378","HS","Felony",2019-07-18,"Guilty",NA,0
+3076012,3057778,38,"186.22(b)(1)","PC","Enhancement",2019-07-18,"TRUE","Hispanic","Male",NA,5e+05,"Walk Thru Warrant",NA,2018-08-02,"N","11370.1(a)","HS","Felony",2019-07-18,"Guilty",NA,0
+3076027,3057790,1,"186.22(b)(1)","PC","Enhancement",2019-11-14,"TRUE","Hispanic","Male",2018-10-12,2e+05,"In Custody",NA,2018-10-12,"N","25400(a)(2)/(c)(1)","PC","Felony",2019-11-14,"Guilty",NA,1
+3076027,3057790,2,"186.22(b)(1)","PC","Enhancement",2019-11-14,"TRUE","Hispanic","Male",2018-10-12,2e+05,"In Custody",NA,2018-10-12,"N","30305(a)(1)","PC","Felony",2019-11-14,"Guilty",NA,1
+3076027,3057790,3,"186.22(b)(1)","PC","Enhancement",2019-11-14,"TRUE","Hispanic","Male",2018-10-12,2e+05,"In Custody",NA,2018-10-12,"N","29800(a)(1)","PC","Felony",2019-11-14,"Guilty",NA,1
+3076528,3013102,1,"186.22(b)(1)","PC","Enhancement",2019-01-24,"Dismissed/Not True","White","Male",NA,25000,"Request for Warrant",NA,2017-06-19,"N","182(a)(1)","PC","Felony",2019-01-24,"Guilty",NA,1
+3076794,3058614,1,"186.22(b)(1)","PC","Enhancement",2019-05-24,"Dismissed/Not True","Hispanic","Male",2018-10-16,NA,"Appearance Date",NA,2018-10-16,"N","594(a)/(b)(1)","PC","Felony",2019-05-24,"Reduced",NA,0
+3076794,3058614,2,"186.22(b)(1)","PC","Enhancement",2019-05-24,"Dismissed/Not True","Hispanic","Male",2018-10-16,NA,"Appearance Date",NA,2018-10-16,"N","186.22(d)","PC","Felony",2019-05-24,"Dismissed/Not Guilty",NA,0
+3076794,3058615,1,"186.22(b)(1)","PC","Enhancement",2019-05-24,"Dismissed/Not True","Hispanic","Male",2018-10-16,25000,"In Custody",NA,2018-10-16,"N","594(a)/(b)(1)","PC","Felony",2019-05-24,"Reduced",NA,0
+3076794,3058615,2,"186.22(b)(1)","PC","Enhancement",2019-05-24,"Dismissed/Not True","Hispanic","Male",2018-10-16,25000,"In Custody",NA,2018-10-16,"N","186.22(d)","PC","Felony",2019-05-24,"Reduced",NA,0
+3076794,3058616,1,"186.22(b)(1)","PC","Enhancement",2019-05-24,"Dismissed/Not True","Hispanic","Male",2018-10-16,1e+05,"In Custody",NA,2018-10-16,"N","594(a)/(b)(1)","PC","Felony",2019-05-24,"Reduced",NA,1
+3076794,3058616,2,"186.22(b)(1)","PC","Enhancement",2019-05-24,"Dismissed/Not True","Hispanic","Male",2018-10-16,1e+05,"In Custody",NA,2018-10-16,"N","186.22(d)","PC","Felony",2019-05-24,"Guilty",NA,1
+3077322,3059189,2,"186.22(b)(1)","PC","Enhancement",2018-11-07,"TRUE","Hispanic","Male",2018-10-18,50000,"In Custody",NA,2018-09-30,"N","594(a)/(b)(1)","PC","Felony",2018-11-07,"Guilty",NA,0
+3077322,3060997,2,"186.22(b)(1)","PC","Enhancement",2019-02-21,"Dismissed/Not True","Hispanic","Female",2018-10-26,40000,"In Custody",NA,2018-09-30,"N","594(a)/(b)(1)","PC","Felony",2019-02-21,"Reduced",NA,0
+3077568,3059188,1,"186.22(b)(1)","PC","Enhancement",2018-11-29,"TRUE","Hispanic","Male",2018-10-18,50000,"In Custody",NA,2018-09-30,"N","594(a)/(b)(1)","PC","Felony",2018-11-29,"Guilty",NA,0
+3078821,3060808,1,"186.22(b)(1)","PC","Enhancement",2019-06-10,"Dismissed/Not True","Hispanic","Male",2018-10-24,1e+05,"Request for Warrant",NA,2018-08-11,"N","245(a)(4)","PC","Felony",2019-06-10,"Guilty",NA,0
+3078821,3060808,2,"186.22(b)(1)","PC","Enhancement",2019-06-10,"Dismissed/Not True","Hispanic","Male",2018-10-24,1e+05,"Request for Warrant",NA,2018-08-11,"N","136.1(b)(1)","PC","Felony",2019-06-10,"Dismissed/Not Guilty",NA,0
+3078821,3060808,3,"186.22(b)(1)","PC","Enhancement",2019-06-10,"Dismissed/Not True","Hispanic","Male",2018-10-24,1e+05,"Request for Warrant",NA,2018-08-11,"N","422(a)","PC","Felony",2019-06-10,"Dismissed/Not Guilty",NA,0
+3078821,3060808,4,"186.22(b)(1)","PC","Enhancement",2019-06-10,"Dismissed/Not True","Hispanic","Male",2018-10-24,1e+05,"Request for Warrant",NA,2018-08-11,"N","417(a)(1)","PC","Misdemeanor",2019-06-10,"Dismissed/Not Guilty",NA,0
+3078987,3060981,1,"186.22(b)(1)","PC","Enhancement",2019-04-11,"TRUE","Hispanic","Male",2018-10-25,1e+05,"In Custody",NA,2018-10-25,"N","29800(a)(1)","PC","Felony",2019-04-11,"Guilty",NA,1
+3078987,3060981,2,"186.22(b)(1)","PC","Enhancement",2019-04-11,"TRUE","Hispanic","Male",2018-10-25,1e+05,"In Custody",NA,2018-10-25,"N","30305(a)(1)","PC","Felony",2019-04-11,"Guilty",NA,1
+3079386,3061421,1,"186.22(b)(1)","PC","Enhancement",2018-12-10,"TRUE","Hispanic","Male",2018-10-27,1e+05,"In Custody",NA,2018-10-27,"N","29800(a)(1)","PC","Felony",2018-12-10,"Guilty",NA,0
+3079386,3061421,2,"186.22(b)(1)","PC","Enhancement",2018-12-10,"Dismissed/Not True","Hispanic","Male",2018-10-27,1e+05,"In Custody",NA,2018-10-27,"N","30305(a)(1)","PC","Felony",2018-12-10,"Dismissed/Not Guilty",NA,0
+3079518,3061564,1,"186.22(b)(1)","PC","Enhancement",2018-11-29,"Dismissed/Not True","Hispanic","Male",NA,50000,"In Custody",NA,2018-10-26,"N","422(a)","PC","Felony",2018-11-29,"Guilty",NA,0
+3080074,3062181,1,"186.22(b)(1)","PC","Enhancement",2019-05-23,"TRUE","White","Male",NA,250000,"Walk Thru Warrant",NA,2018-10-08,"N","211/212.5(c)","PC","Felony",2019-05-23,"Guilty",NA,1
+3080074,3062182,1,"186.22(b)(1)","PC","Enhancement",2019-05-23,"Dismissed/Not True","Hispanic","Female",NA,50000,"Walk Thru Warrant",NA,2018-10-08,"N","211/212.5(c)","PC","Felony",2019-05-23,"Dismissed/Not Guilty",NA,0
+3080156,3062279,1,"186.22(b)(1)","PC","Enhancement",2019-01-10,"Dismissed/Not True","Hispanic","Male",2018-10-30,1e+05,"In Custody",NA,2018-10-30,"N","422(a)","PC","Felony",2019-01-10,"Reduced",NA,0
+3081153,3063373,1,"186.22(b)(1)","PC","Enhancement",2022-07-11,"TRUE","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-09-28,"N","664(a)-187(a)","PC","Felony",2022-07-11,"Guilty",NA,1
+3081153,3063373,2,"186.22(b)(4)","PC","Other",2022-08-22,"TRUE","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-09-28,"N","26100(c)","PC","Felony",2022-08-22,"Dismissed/Not Guilty",NA,1
+3081564,3063812,1,"186.22(b)(1)","PC","Enhancement",2019-03-21,"TRUE","Hispanic","Male",2018-11-06,1e+05,"In Custody",NA,2018-09-30,"N","594(a)/(b)(1)","PC","Felony",2019-03-21,"Guilty",NA,1
+3081689,3063938,1,"186.22(b)(1)","PC","Enhancement",2019-01-11,"TRUE","Hispanic","Male",2018-11-07,50000,"In Custody",NA,2018-11-07,"N","25400(a)(3)/(c)(2)","PC","Felony",2019-01-11,"Guilty",NA,0
+3081929,3064202,1,"186.22(b)(1)","PC","Enhancement",2019-02-27,"TRUE","Hispanic","Male",2018-11-07,1e+06,"In Custody",NA,2018-11-07,"N","11370.1(a)","HS","Felony",2019-02-27,"Guilty",NA,1
+3081929,3064202,2,"186.22(b)(1)","PC","Enhancement",2019-02-27,"TRUE","Hispanic","Male",2018-11-07,1e+06,"In Custody",NA,2018-11-07,"N","30305(a)(1)","PC","Felony",2019-02-27,"Guilty",NA,1
+3081929,3064202,3,"186.22(b)(1)","PC","Enhancement",2019-02-27,"TRUE","Hispanic","Male",2018-11-07,1e+06,"In Custody",NA,2018-11-07,"N","186.22(a)","PC","Felony",2019-02-27,"Guilty",NA,1
+3081929,3064202,4,"186.22(b)(1)","PC","Enhancement",2019-02-27,"TRUE","Hispanic","Male",2018-11-07,1e+06,"In Custody",NA,2018-11-07,"N","29800(a)(1)","PC","Felony",2019-02-27,"Guilty",NA,1
+3081929,3064203,1,"186.22(b)(1)","PC","Enhancement",2019-02-27,"Dismissed/Not True","Hispanic","Male",2018-11-07,1e+06,"In Custody",NA,2018-11-07,"N","11370.1(a)","HS","Felony",2019-02-27,"Dismissed/Not Guilty",NA,1
+3081929,3064203,2,"186.22(b)(1)","PC","Enhancement",2019-02-27,"Dismissed/Not True","Hispanic","Male",2018-11-07,1e+06,"In Custody",NA,2018-11-07,"N","30305(a)(1)","PC","Felony",2019-02-27,"Guilty",NA,1
+3081929,3064203,3,"186.22(b)(1)","PC","Enhancement",2019-02-27,"Dismissed/Not True","Hispanic","Male",2018-11-07,1e+06,"In Custody",NA,2018-11-07,"N","186.22(a)","PC","Felony",2019-02-27,"Dismissed/Not Guilty",NA,1
+3081929,3064203,5,"186.22(b)(1)","PC","Enhancement",2019-02-27,"Dismissed/Not True","Hispanic","Male",2018-11-07,1e+06,"In Custody",NA,2018-11-07,"N","29800(a)(1)","PC","Felony",2019-02-27,"Dismissed/Not Guilty",NA,1
+3082117,3064405,1,"186.22(b)(1)","PC","Enhancement",2019-02-06,"TRUE","Hispanic","Male",2018-11-09,150000,"In Custody",NA,2018-11-08,"N","139(a)","PC","Felony",2019-02-06,"Guilty",NA,1
+3082117,3064405,2,"186.22(b)(1)","PC","Enhancement",2019-02-06,"TRUE","Hispanic","Male",2018-11-09,150000,"In Custody",NA,2018-11-08,"N","140(a)","PC","Felony",2019-02-06,"Guilty",NA,1
+3082204,3064503,1,"186.22(b)(1)","PC","Enhancement",2020-02-27,"TRUE","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-11-11,"N","29800(a)(1)","PC","Felony",2020-02-27,"Guilty",NA,1
+3082334,3064648,1,"186.22(b)(1)","PC","Enhancement",2019-06-13,"Dismissed/Not True","White","Male",2018-11-08,75000,"In Custody",NA,2018-11-08,"N","29800(a)(1)","PC","Felony",2019-06-13,"Guilty",NA,1
+3082334,3064648,2,"186.22(b)(1)","PC","Enhancement",2019-06-13,"Dismissed/Not True","White","Male",2018-11-08,75000,"In Custody",NA,2018-11-08,"N","30305(a)(1)","PC","Felony",2019-06-13,"Guilty",NA,1
+3082848,3065205,1,"186.22(b)(1)","PC","Enhancement",2019-05-23,"Dismissed/Not True","Hispanic","Male",2018-11-12,1e+05,"In Custody",NA,2018-11-12,"N","11370.1(a)","HS","Felony",2019-05-23,"Guilty",NA,1
+3082848,3065205,2,"186.22(b)(1)","PC","Enhancement",2019-05-23,"Dismissed/Not True","Hispanic","Male",2018-11-12,1e+05,"In Custody",NA,2018-11-12,"N","29800(a)(1)","PC","Felony",2019-05-23,"Dismissed/Not Guilty",NA,1
+3082848,3065205,3,"186.22(b)(1)","PC","Enhancement",2019-05-23,"Dismissed/Not True","Hispanic","Male",2018-11-12,1e+05,"In Custody",NA,2018-11-12,"N","25400(a)(2)/(c)(3)","PC","Felony",2019-05-23,"Dismissed/Not Guilty",NA,1
+3082848,3065205,4,"186.22(b)(1)","PC","Enhancement",2019-05-23,"Dismissed/Not True","Hispanic","Male",2018-11-12,1e+05,"In Custody",NA,2018-11-12,"N","25850(a)/(c)(3)","PC","Felony",2019-05-23,"Dismissed/Not Guilty",NA,1
+3082848,3065205,5,"186.22(b)(1)","PC","Enhancement",2019-05-23,"Dismissed/Not True","Hispanic","Male",2018-11-12,1e+05,"In Custody",NA,2018-11-12,"N","30305(a)(1)","PC","Felony",2019-05-23,"Dismissed/Not Guilty",NA,1
+3082848,3065205,6,"186.22(b)(1)","PC","Enhancement",2019-05-23,"Dismissed/Not True","Hispanic","Male",2018-11-12,1e+05,"In Custody",NA,2018-11-12,"N","25850(a)/(c)(1)","PC","Felony",2019-05-23,"Dismissed/Not Guilty",NA,1
+3082991,3065359,1,"186.22(b)(1)","PC","Enhancement",2020-02-20,"Dismissed/Not True","Hispanic","Female",2018-11-12,30000,"In Custody",NA,2018-11-12,"N","10851(a)","VC","Felony",2020-02-20,"Dismissed/Not Guilty",NA,0
+3082991,3065359,2,"186.22(b)(1)","PC","Enhancement",2020-02-20,"Dismissed/Not True","Hispanic","Female",2018-11-12,30000,"In Custody",NA,2018-11-12,"N","10851(a)","VC","Felony",2020-02-20,"Dismissed/Not Guilty",NA,0
+3082991,3065359,3,"186.22(b)(1)","PC","Enhancement",2020-02-20,"Dismissed/Not True","Hispanic","Female",2018-11-12,30000,"In Custody",NA,2018-11-12,"N","496d(a)","PC","Felony",2020-02-20,"Reduced",NA,0
+3082991,3065359,4,"186.22(b)(1)","PC","Enhancement",2020-02-20,"Dismissed/Not True","Hispanic","Female",2018-11-12,30000,"In Custody",NA,2018-11-12,"N","496(a)","PC","Felony",2020-02-20,"Reduced",NA,0
+3082991,3065360,1,"186.22(b)(1)","PC","Enhancement",2019-03-01,"TRUE","Hispanic","Male",2018-11-12,50000,"In Custody",NA,2018-11-12,"N","10851(a)","VC","Felony",2019-03-01,"Guilty",NA,1
+3082991,3065360,2,"186.22(b)(1)","PC","Enhancement",2019-03-01,"TRUE","Hispanic","Male",2018-11-12,50000,"In Custody",NA,2018-11-12,"N","10851(a)","VC","Felony",2019-03-01,"Guilty",NA,1
+3082991,3065360,3,"186.22(b)(1)","PC","Enhancement",2019-03-01,"TRUE","Hispanic","Male",2018-11-12,50000,"In Custody",NA,2018-11-12,"N","496d(a)","PC","Felony",2019-03-01,"Dismissed/Not Guilty",NA,1
+3082991,3065360,4,"186.22(b)(1)","PC","Enhancement",2019-03-01,"TRUE","Hispanic","Male",2018-11-12,50000,"In Custody",NA,2018-11-12,"N","496(a)","PC","Felony",2019-03-01,"Dismissed/Not Guilty",NA,1
+3082991,3065361,1,"186.22(b)(1)","PC","Enhancement",2020-06-11,"TRUE","Hispanic","Male",2018-11-12,1e+05,"In Custody",NA,2018-11-12,"N","10851(a)","VC","Felony",2020-06-11,"Guilty",NA,0
+3082991,3065361,2,"186.22(b)(1)","PC","Enhancement",2020-06-11,"Dismissed/Not True","Hispanic","Male",2018-11-12,1e+05,"In Custody",NA,2018-11-12,"N","10851(a)","VC","Felony",2020-06-11,"Guilty",NA,0
+3082991,3065361,3,"186.22(b)(1)","PC","Enhancement",2020-06-11,"Dismissed/Not True","Hispanic","Male",2018-11-12,1e+05,"In Custody",NA,2018-11-12,"N","496d(a)","PC","Felony",2020-06-11,"Dismissed/Not Guilty",NA,0
+3082991,3065361,4,"186.22(b)(1)","PC","Enhancement",2020-06-11,"Dismissed/Not True","Hispanic","Male",2018-11-12,1e+05,"In Custody",NA,2018-11-12,"N","496(a)","PC","Felony",2020-06-11,"Dismissed/Not Guilty",NA,0
+3083172,3065553,1,"186.22(b)(1)","PC","Enhancement",2019-01-31,"Dismissed/Not True","Hispanic","Male",2018-11-13,50000,"In Custody",NA,2018-11-13,"N","594(a)/(b)(1)","PC","Felony",2019-01-31,"Dismissed/Not Guilty",NA,0
+3083474,3065882,1,"186.22(b)(1)","PC","Enhancement",2018-12-31,"Dismissed/Not True","Hispanic","Male",2018-11-14,50000,"In Custody",NA,2018-11-14,"N","21310","PC","Felony",2018-12-31,"Guilty",NA,1
+3083708,3066157,1,"186.22(b)(1)","PC","Enhancement",2020-05-18,"TRUE","White","Male",NA,50000,"Appearance Date",NA,2018-06-01,"N","4573","PC","Felony",2020-05-18,"Guilty",NA,1
+3083863,3073935,1,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-04,"N","211/212.5(c)","PC","Felony",2019-10-16,"Guilty",NA,1
+3083863,3073935,3,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-04,"N","236/237(a)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,4,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-04,"N","245(b)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,5,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-10,"N","211/212.5(c)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,7,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-10,"N","211/212.5(c)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,8,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-10,"N","236/237(a)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,9,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-10,"N","236/237(a)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,10,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-10,"N","245(b)","PC","Felony",2019-10-16,"Guilty",NA,1
+3083863,3073935,11,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-10,"N","245(b)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,12,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","211/212.5(c)","PC","Felony",2019-10-16,"Guilty",NA,1
+3083863,3073935,13,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","211/212.5(c)","PC","Felony",2019-10-16,"Guilty",NA,1
+3083863,3073935,14,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","245(a)(2)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,15,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","245(a)(2)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,16,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","236/237(a)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,17,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","236/237(a)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,18,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","211/212.5(c)","PC","Felony",2019-10-16,"Guilty",NA,1
+3083863,3073935,19,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","245(a)(2)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,20,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","594(a)/(b)(1)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,21,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","664(a)-187(a)","PC","Felony",2019-10-16,"Guilty",NA,1
+3083863,3073935,22,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","245(a)(2)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,23,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","245(a)(2)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,24,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","211/212.5(c)","PC","Felony",2019-10-16,"Dismissed/Not Guilty",NA,1
+3083863,3073935,25,"186.22(b)(1)","PC","Enhancement",2019-10-16,"Dismissed/Not True","Hispanic","Male",NA,NA,"In Custody",NA,2018-11-12,"N","211/212.5(c)","PC","Felony",2019-10-16,"Guilty",NA,1
+3083952,3066330,1,"186.22(b)(1)","PC","Enhancement",2018-12-19,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-11-04,"N","211/212.5(c)","PC","Felony",2018-12-19,"Dismissed/Not Guilty",NA,1
+3083952,3066330,2,"186.22(b)(1)","PC","Enhancement",2018-12-19,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-11-04,"N","186.22(a)","PC","Felony",2018-12-19,"Dismissed/Not Guilty",NA,1
+3083952,3066330,3,"186.22(b)(1)","PC","Enhancement",2018-12-19,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-11-04,"N","236/237(a)","PC","Felony",2018-12-19,"Dismissed/Not Guilty",NA,1
+3083952,3066330,4,"186.22(b)(1)","PC","Enhancement",2018-12-19,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-11-10,"N","211/212.5(c)","PC","Felony",2018-12-19,"Dismissed/Not Guilty",NA,1
+3083952,3066330,5,"186.22(b)(1)","PC","Enhancement",2018-12-19,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-11-10,"N","186.22(a)","PC","Felony",2018-12-19,"Dismissed/Not Guilty",NA,1
+3083952,3066330,6,"186.22(b)(1)","PC","Enhancement",2018-12-19,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-11-10,"N","211/212.5(c)","PC","Felony",2018-12-19,"Dismissed/Not Guilty",NA,1
+3083952,3066330,7,"186.22(b)(1)","PC","Enhancement",2018-12-19,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-11-10,"N","236/237(a)","PC","Felony",2018-12-19,"Dismissed/Not Guilty",NA,1
+3083952,3066330,8,"186.22(b)(1)","PC","Enhancement",2018-12-19,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-11-10,"N","236/237(a)","PC","Felony",2018-12-19,"Dismissed/Not Guilty",NA,1
+3083952,3066330,9,"186.22(b)(1)","PC","Enhancement",2018-12-19,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-11-10,"N","245(b)","PC","Felony",2018-12-19,"Dismissed/Not Guilty",NA,1
+3083952,3066330,10,"186.22(b)(1)","PC","Enhancement",2018-12-19,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-11-10,"N","245(b)","PC","Felony",2018-12-19,"Dismissed/Not Guilty",NA,1
+3084933,3067502,1,"186.22(b)(1)","PC","Enhancement",2018-12-18,"Dismissed/Not True","Hispanic","Male",2018-11-20,50000,"In Custody",NA,2018-09-30,"N","594(a)/(b)(1)","PC","Felony",2018-12-18,"Reduced",NA,0
+3085198,3013396,1,"186.22(b)(1)","PC","Enhancement",2020-03-06,"TRUE","White","Male",NA,1e+05,"Request for Warrant",NA,2017-03-20,"Y","653f(a)","PC","Felony",2020-03-06,"Guilty",NA,1
+3085401,3068044,1,"186.22(b)(1)","PC","Enhancement",2019-02-26,"Dismissed/Not True","Hispanic","Male",2018-11-24,50000,"In Custody",NA,2018-11-24,"N","21310","PC","Felony",2019-02-26,"Dismissed/Not Guilty",NA,0
+3085452,3068106,1,"186.22(b)(1)","PC","Enhancement",2019-03-21,"TRUE","Hispanic","Male",2018-11-22,50000,"In Custody",NA,2018-11-22,"N","29800(a)(1)","PC","Felony",2019-03-21,"Guilty",NA,0
+3085452,3068106,2,"186.22(b)(1)","PC","Enhancement",2019-03-21,"Dismissed/Not True","Hispanic","Male",2018-11-22,50000,"In Custody",NA,2018-11-22,"N","25400(a)(1)/(c)(1)","PC","Felony",2019-03-21,"Dismissed/Not Guilty",NA,0
+3085452,3068106,3,"186.22(b)(1)","PC","Enhancement",2019-03-21,"Dismissed/Not True","Hispanic","Male",2018-11-22,50000,"In Custody",NA,2018-11-22,"N","25850(a)/(c)(1)","PC","Felony",2019-03-21,"Dismissed/Not Guilty",NA,0
+3085452,3068106,4,"186.22(b)(1)","PC","Enhancement",2019-03-21,"Dismissed/Not True","Hispanic","Male",2018-11-22,50000,"In Custody",NA,2018-11-22,"N","30305(a)(1)","PC","Felony",2019-03-21,"Dismissed/Not Guilty",NA,0
+3085452,3068106,5,"186.22(b)(1)","PC","Enhancement",2019-03-21,"Dismissed/Not True","Hispanic","Male",2018-11-22,50000,"In Custody",NA,2018-11-22,"N","496(a)","PC","Misdemeanor",2019-03-21,"Dismissed/Not Guilty",NA,0
+3085469,3068023,1,"186.22(b)(1)","PC","Enhancement",2024-04-12,"TRUE","Hispanic","Male",2018-11-25,1e+06,"In Custody",NA,2018-11-25,"N","664(a)-187(a)","PC","Felony",2024-04-12,"Guilty",NA,0
+3085469,3068023,2,"186.22(b)(4)","PC","Other",2024-04-12,"TRUE","Hispanic","Male",2018-11-25,1e+06,"In Custody",NA,2018-11-25,"N","246","PC","Felony",2024-04-12,"Guilty",NA,0
+3085469,3068023,3,"186.22(b)(1)","PC","Enhancement",2024-04-12,"TRUE","Hispanic","Male",2018-11-25,1e+06,"In Custody",NA,2018-11-25,"N","245(b)","PC","Felony",2024-04-12,"Guilty",NA,0
+3085469,3068023,4,"186.22(b)(1)","PC","Enhancement",2024-04-12,"TRUE","Hispanic","Male",2018-11-25,1e+06,"In Custody",NA,2018-11-25,"N","11351","HS","Felony",2024-04-12,"Guilty",NA,0
+3085991,3068706,1,"186.22(b)(1)","PC","Enhancement",2021-03-26,"Dismissed/Not True","Hispanic","Male",2018-11-28,25000,"In Custody",NA,2018-11-28,"N","21310","PC","Felony",2021-03-26,"Guilty",NA,0
+3086056,3068785,1,"186.22(b)(1)","PC","Enhancement",2019-05-15,"TRUE","Hispanic","Male",2018-11-27,150000,"In Custody",NA,2018-11-27,"N","245(c)","PC","Felony",2019-05-15,"Guilty",NA,1
+3086056,3068785,2,"186.22(b)(1)","PC","Enhancement",2019-05-15,"TRUE","Hispanic","Male",2018-11-27,150000,"In Custody",NA,2018-11-27,"N","23110(b)","VC","Felony",2019-05-15,"Guilty",NA,1
+3086807,3069659,1,"186.22(b)(1)","PC","Enhancement",2019-05-01,"Dismissed/Not True","Black","Male",2018-11-29,250000,"In Custody",NA,2018-11-29,"N","459-460(a)","PC","Felony",2019-05-01,"Guilty",NA,1
+3086807,3069660,1,"186.22(b)(1)","PC","Enhancement",2019-12-16,"TRUE","Black","Male",2018-11-29,1e+06,"In Custody",NA,2018-11-29,"N","459-460(a)","PC","Felony",2019-12-16,"Guilty",NA,0
+3086807,3069661,1,"186.22(b)(1)","PC","Enhancement",2019-06-28,"Dismissed/Not True","Black","Male",2018-11-29,1e+05,"Appearance Date",NA,2018-11-29,"N","459-460(a)","PC","Felony",2019-06-28,"Guilty",NA,1
+3086828,3069685,1,"186.22(b)(1)","PC","Enhancement",2019-01-24,"TRUE","Hispanic","Male",2018-11-30,1e+05,"In Custody",NA,2018-11-30,"N","10851(a)","VC","Felony",2019-01-24,"Guilty",NA,1
+3086828,3069685,2,"186.22(b)(1)","PC","Enhancement",2019-01-24,"TRUE","Hispanic","Male",2018-11-30,1e+05,"In Custody",NA,2018-11-30,"N","496d(a)","PC","Felony",2019-01-24,"Guilty",NA,1
+3086987,3069852,1,"186.22(b)(1)","PC","Enhancement",2019-01-11,"Dismissed/Not True","Hispanic","Male",2018-12-02,50000,"In Custody",NA,2018-12-02,"N","29800(a)(1)","PC","Felony",2019-01-11,"Guilty",NA,0
+3086987,3069852,2,"186.22(b)(1)","PC","Enhancement",2019-01-11,"Dismissed/Not True","Hispanic","Male",2018-12-02,50000,"In Custody",NA,2018-12-02,"N","25850(a)/(c)(3)","PC","Felony",2019-01-11,"Guilty",NA,0
+3086987,3069852,3,"186.22(b)(1)","PC","Enhancement",2019-01-11,"Dismissed/Not True","Hispanic","Male",2018-12-02,50000,"In Custody",NA,2018-12-02,"N","11370.1(a)","HS","Felony",2019-01-11,"Guilty",NA,0
+3086987,3069852,4,"186.22(b)(1)","PC","Enhancement",2019-01-11,"Dismissed/Not True","Hispanic","Male",2018-12-02,50000,"In Custody",NA,2018-12-02,"N","626.9(b)","PC","Felony",2019-01-11,"Dismissed/Not Guilty",NA,0
+3087788,3070716,1,"186.22(b)(1)","PC","Enhancement",2019-04-16,"TRUE","Hispanic","Male",2018-12-04,150000,"Appearance Date",NA,2018-11-30,"N","594(a)/(b)(1)","PC","Felony",2019-04-16,"Guilty",NA,0
+3087788,3070717,1,"186.22(b)(1)","PC","Enhancement",2019-02-01,"TRUE","Hispanic","Male",2018-12-04,150000,"In Custody",NA,2018-11-30,"N","594(a)/(b)(1)","PC","Felony",2019-02-01,"Guilty",NA,1
+3087831,3070762,1,"186.22(b)(1)","PC","Enhancement",2019-05-07,"TRUE","Hispanic","Male",2018-12-04,50000,"In Custody",NA,2018-12-04,"N","29805(a)","PC","Felony",2019-05-07,"Guilty",NA,0
+3087831,3070762,2,"186.22(b)(1)","PC","Enhancement",2019-05-07,"TRUE","Hispanic","Male",2018-12-04,50000,"In Custody",NA,2018-12-04,"N","25400(a)(2)/(c)(3)","PC","Felony",2019-05-07,"Guilty",NA,0
+3088443,3071414,1,"186.22(b)(1)","PC","Enhancement",2019-06-21,"TRUE","Hispanic","Male",2018-12-06,1e+06,"In Custody",NA,2018-12-06,"N","25850(a)/(c)(1)","PC","Felony",2019-06-21,"Guilty",NA,1
+3088443,3071414,2,"186.22(b)(1)","PC","Enhancement",2019-06-21,"TRUE","Hispanic","Male",2018-12-06,1e+06,"In Custody",NA,2018-12-06,"N","29800(a)(1)","PC","Felony",2019-06-21,"Guilty",NA,1
+3088513,3071490,1,"186.22(b)(1)","PC","Enhancement",2019-03-01,"Dismissed/Not True","Hispanic","Male",2018-12-06,NA,"In Custody",NA,2018-12-06,"N","10851(a)","VC","Felony",2019-03-01,"Guilty",NA,1
+3088513,3071490,2,"186.22(b)(1)","PC","Enhancement",2019-03-01,"Dismissed/Not True","Hispanic","Male",2018-12-06,NA,"In Custody",NA,2018-12-06,"N","496d(a)","PC","Felony",2019-03-01,"Dismissed/Not Guilty",NA,1
+3088513,3071491,1,"186.22(b)(1)","PC","Enhancement",2018-12-19,"Dismissed/Not True","Hispanic","Female",2018-12-06,NA,"In Custody",NA,2018-12-06,"N","10851(a)","VC","Felony",2018-12-19,"Dismissed/Not Guilty",NA,0
+3088513,3071491,2,"186.22(b)(1)","PC","Enhancement",2018-12-19,"Dismissed/Not True","Hispanic","Female",2018-12-06,NA,"In Custody",NA,2018-12-06,"N","496d(a)","PC","Felony",2018-12-19,"Reduced",NA,0
+3088513,3071492,1,"186.22(b)(1)","PC","Enhancement",2019-03-22,"Dismissed/Not True","Hispanic","Female",2018-12-06,NA,"Arraignment Letter",NA,2018-12-06,"N","10851(a)","VC","Felony",2019-03-22,"Dismissed/Not Guilty",NA,0
+3088513,3071492,2,"186.22(b)(1)","PC","Enhancement",2019-03-22,"Dismissed/Not True","Hispanic","Female",2018-12-06,NA,"Arraignment Letter",NA,2018-12-06,"N","496d(a)","PC","Felony",2019-03-22,"Reduced",NA,0
+3088632,3071623,1,"186.22(b)(1)","PC","Enhancement",2022-02-18,"TRUE","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2018-11-24,"N","211/212.5(c)","PC","Felony",2022-02-18,"Guilty",NA,1
+3088632,3071623,2,"186.22(b)(1)","PC","Enhancement",2022-02-18,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"Appearance Date",NA,2018-11-24,"N","136.1(b)(1)","PC","Felony",2022-02-18,"Reduced",NA,1
+3088810,3071812,1,"186.22(b)(1)","PC","Enhancement",2020-01-08,"TRUE","Hispanic","Male",2018-12-08,1e+06,"In Custody",NA,2018-12-08,"N","29800(a)(1)","PC","Felony",2020-01-08,"Guilty",NA,1
+3088810,3071812,2,"186.22(b)(1)","PC","Enhancement",2020-01-08,"TRUE","Hispanic","Male",2018-12-08,1e+06,"In Custody",NA,2018-12-08,"N","25400(a)(1)/(c)(1)","PC","Felony",2020-01-08,"Guilty",NA,1
+3088810,3071812,3,"186.22(b)(1)","PC","Enhancement",2020-01-08,"TRUE","Hispanic","Male",2018-12-08,1e+06,"In Custody",NA,2018-12-08,"N","25850(a)/(c)(2)","PC","Felony",2020-01-08,"Guilty",NA,1
+3088810,3071812,4,"186.22(b)(1)","PC","Enhancement",2020-01-08,"TRUE","Hispanic","Male",2018-12-08,1e+06,"In Custody",NA,2018-12-08,"N","25800(a)","PC","Felony",2020-01-08,"Guilty",NA,1
+3088810,3071812,5,"186.22(b)(1)","PC","Enhancement",2020-01-08,"TRUE","Hispanic","Male",2018-12-08,1e+06,"In Custody",NA,2018-12-08,"N","30305(a)(1)","PC","Felony",2020-01-08,"Guilty",NA,1
+3088810,3071812,6,"186.22(b)(1)","PC","Enhancement",2020-01-08,"TRUE","Hispanic","Male",2018-12-08,1e+06,"In Custody",NA,2018-12-08,"N","496(a)","PC","Felony",2020-01-08,"Guilty",NA,1
+3088834,3071841,1,"186.22(b)(1)","PC","Enhancement",2019-03-04,"Dismissed/Not True","Hispanic","Male",2018-12-08,50000,"In Custody",NA,2018-12-08,"N","245(a)(1)","PC","Felony",2019-03-04,"Dismissed/Not Guilty",NA,0
+3089693,3072772,1,"186.22(b)(1)","PC","Enhancement",2020-01-13,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-12-09,"N","211/212.5(c)","PC","Felony",2020-01-13,"Dismissed/Not Guilty",NA,0
+3089693,3072772,2,"186.22(b)(1)","PC","Enhancement",2020-01-13,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-12-09,"N","211/212.5(c)","PC","Felony",2020-01-13,"Dismissed/Not Guilty",NA,0
+3089693,3072772,3,"186.22(b)(1)","PC","Enhancement",2020-01-13,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-12-09,"N","211/212.5(c)","PC","Felony",2020-01-13,"Dismissed/Not Guilty",NA,0
+3089693,3072772,4,"186.22(b)(1)","PC","Enhancement",2020-01-13,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-12-09,"N","29800(a)(1)","PC","Felony",2020-01-13,"Dismissed/Not Guilty",NA,0
+3089820,3072920,1,"186.22(b)(1)","PC","Enhancement",2019-11-07,"Dismissed/Not True","Hispanic","Male",2018-12-12,1e+05,"Appearance Date",NA,2018-12-12,"N","245(a)(4)","PC","Felony",2019-11-07,"Guilty",NA,0
+3089820,3072921,1,"186.22(b)(1)","PC","Enhancement",2019-11-07,"Dismissed/Not True","Hispanic","Male",2018-12-12,1e+05,"In Custody",NA,2018-12-12,"N","245(a)(4)","PC","Felony",2019-11-07,"Guilty",NA,0
+3089820,3072922,1,"186.22(b)(1)","PC","Enhancement",2019-11-07,"Dismissed/Not True","Hispanic","Male",2018-12-12,1e+05,"Appearance Date",NA,2018-12-12,"N","245(a)(4)","PC","Felony",2019-11-07,"Guilty",NA,0
+3089820,3072923,1,"186.22(b)(1)","PC","Enhancement",2019-11-07,"Dismissed/Not True","Hispanic","Male",2018-12-12,1e+05,"Appearance Date",NA,2018-12-12,"N","245(a)(4)","PC","Felony",2019-11-07,"Guilty",NA,0
+3091141,3074356,1,"186.22(b)(1)","PC","Enhancement",2018-12-31,"Dismissed/Not True","Hispanic","Male",2018-12-18,50000,"In Custody",NA,2018-12-18,"N","11378","HS","Felony",2018-12-31,"Dismissed/Not Guilty",NA,0
+3091141,3074356,2,"186.22(b)(1)","PC","Enhancement",2018-12-31,"Dismissed/Not True","Hispanic","Male",2018-12-18,50000,"In Custody",NA,2018-12-18,"N","11379(a)","HS","Felony",2018-12-31,"Guilty",NA,0
+3091189,3074413,1,"186.22(b)(1)","PC","Enhancement",2020-10-15,"Dismissed/Not True","Hispanic","Male",2018-12-18,1e+06,"In Custody",NA,2018-12-17,"N","664(a)-187(a)","PC","Felony",2020-10-15,"Dismissed/Not Guilty",NA,0
+3091189,3074413,2,"186.22(b)(1)","PC","Enhancement",2020-10-15,"Dismissed/Not True","Hispanic","Male",2018-12-18,1e+06,"In Custody",NA,2018-12-17,"N","211/212.5(c)","PC","Felony",2020-10-15,"Dismissed/Not Guilty",NA,0
+3091189,3074413,3,"186.22(b)(1)","PC","Enhancement",2020-05-25,"TRUE","Hispanic","Male",2018-12-18,1e+06,"In Custody",NA,2018-12-17,"N","245(a)(1)","PC","Felony",2020-05-25,"Guilty",NA,0
+3091189,3074414,1,"186.22(b)(1)","PC","Enhancement",2020-10-15,"Dismissed/Not True","Hispanic","Male",2018-12-18,1e+06,"In Custody",NA,2018-12-17,"N","664(a)-187(a)","PC","Felony",2020-10-15,"Dismissed/Not Guilty",NA,0
+3091189,3074414,2,"186.22(b)(1)","PC","Enhancement",2020-10-15,"TRUE","Hispanic","Male",2018-12-18,1e+06,"In Custody",NA,2018-12-17,"N","211/212.5(c)","PC","Felony",2020-10-15,"Guilty",NA,0
+3091189,3074414,3,"186.22(b)(1)","PC","Enhancement",2020-10-15,"Dismissed/Not True","Hispanic","Male",2018-12-18,1e+06,"In Custody",NA,2018-12-17,"N","245(a)(1)","PC","Felony",2020-10-15,"Dismissed/Not Guilty",NA,0
+3091189,3074415,1,"186.22(b)(1)","PC","Enhancement",2020-10-15,"TRUE","Hispanic","Male",2018-12-18,1e+06,"In Custody",NA,2018-12-17,"N","664(a)-187(a)","PC","Felony",2020-10-15,"Guilty",NA,0
+3091189,3074415,2,"186.22(b)(1)","PC","Enhancement",2020-10-15,"Dismissed/Not True","Hispanic","Male",2018-12-18,1e+06,"In Custody",NA,2018-12-17,"N","211/212.5(c)","PC","Felony",2020-10-15,"Dismissed/Not Guilty",NA,0
+3091189,3074415,3,"186.22(b)(1)","PC","Enhancement",2020-10-15,"Dismissed/Not True","Hispanic","Male",2018-12-18,1e+06,"In Custody",NA,2018-12-17,"N","245(a)(1)","PC","Felony",2020-10-15,"Dismissed/Not Guilty",NA,0
+3091411,3074658,1,"186.22(b)(1)","PC","Enhancement",2020-10-29,"TRUE","Hispanic","Male",2018-12-19,1e+06,"In Custody",NA,2018-12-19,"N","29800(a)(1)","PC","Felony",2020-10-29,"Guilty",NA,1
+3091411,3074658,2,"186.22(b)(1)","PC","Enhancement",2020-10-29,"TRUE","Hispanic","Male",2018-12-19,1e+06,"In Custody",NA,2018-12-19,"N","30305(a)(1)","PC","Felony",2020-10-29,"Guilty",NA,1
+3091670,3074934,1,"186.22(b)(1)","PC","Enhancement",2019-02-11,"Dismissed/Not True","Hispanic","Male",2018-12-20,50000,"In Custody",NA,2018-12-20,"N","666.5(a)/10851(a)","PC","Felony",2019-02-11,"Guilty",NA,0
+3091670,3074934,2,"186.22(b)(1)","PC","Enhancement",2019-02-11,"Dismissed/Not True","Hispanic","Male",2018-12-20,50000,"In Custody",NA,2018-12-20,"N","487(d)(1)","PC","Felony",2019-02-11,"Dismissed/Not Guilty",NA,0
+3091670,3074934,3,"186.22(b)(1)","PC","Enhancement",2019-02-11,"Dismissed/Not True","Hispanic","Male",2018-12-20,50000,"In Custody",NA,2018-12-20,"N","2800.2","VC","Felony",2019-02-11,"Guilty",NA,0
+3091791,3075077,1,"186.22(b)(1)","PC","Enhancement",2019-07-16,"Dismissed/Not True","Hispanic","Male",2018-12-20,NA,"In Custody",NA,2018-12-20,"N","594(a)/(b)(1)","PC","Felony",2019-07-16,"Dismissed/Not Guilty",NA,0
+3091791,3075078,1,"186.22(b)(1)","PC","Enhancement",2019-07-17,"Dismissed/Not True","Hispanic","Male",2018-12-20,NA,"In Custody",NA,2018-12-20,"N","594(a)/(b)(1)","PC","Felony",2019-07-17,"Dismissed/Not Guilty",NA,1
+3091791,3075079,1,"186.22(b)(1)","PC","Enhancement",2019-07-16,"Dismissed/Not True","Hispanic","Male",2018-12-20,NA,"Arraignment Letter",NA,2018-12-20,"N","594(a)/(b)(1)","PC","Felony",2019-07-16,"Dismissed/Not Guilty",NA,0
+3091795,3075083,1,"186.22(b)(1)","PC","Enhancement",2019-06-03,"Dismissed/Not True","White","Male",2018-12-22,1e+06,"In Custody",NA,2018-12-22,"N","22210","PC","Felony",2019-06-03,"Guilty",NA,1
+3092034,3075346,1,"186.22(b)(1)","PC","Enhancement",2019-01-09,"Dismissed/Not True","Hispanic","Male",2018-12-24,1e+05,"In Custody",NA,2018-12-24,"N","594(a)/(b)(1)","PC","Felony",2019-01-09,"Reduced",NA,0
+3092115,3075434,1,"186.22(b)(1)","PC","Enhancement",2021-10-06,"Dismissed/Not True","Hispanic","Female",2018-12-24,1e+06,"In Custody",NA,2018-12-24,"N","215(a)","PC","Felony",2021-10-06,"Guilty",NA,0
+3092115,3075532,1,"186.22(b)(1)","PC","Enhancement",2019-02-07,"Dismissed/Not True","Hispanic","Male",NA,1e+06,"Walk Thru Warrant",NA,2018-12-24,"N","215(a)","PC","Felony",2019-02-07,"Dismissed/Not Guilty",NA,0
+3092196,3075522,1,"186.22(b)(1)","PC","Enhancement",2019-07-31,"TRUE","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-12-17,"N","136.1(c)(1)","PC","Felony",2019-07-31,"Guilty",NA,0
+3092196,3075522,1,"186.22(b)(4)","PC","Other",2019-07-31,"TRUE","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-12-17,"N","136.1(c)(1)","PC","Felony",2019-07-31,"Guilty",NA,0
+3092196,3075522,2,"186.22(b)(1)","PC","Enhancement",2019-07-31,"TRUE","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-12-17,"N","422(a)","PC","Felony",2019-07-31,"Guilty",NA,0
+3092196,3075522,3,"186.22(b)(1)","PC","Enhancement",2019-07-31,"TRUE","Hispanic","Male",NA,1e+06,"In Custody",NA,2018-12-17,"N","29800(a)(1)","PC","Felony",2019-07-31,"Guilty",NA,0
+3092842,3076215,1,"186.22(b)(1)","PC","Enhancement",2019-10-07,"TRUE","Hispanic","Male",2018-12-26,1e+06,"In Custody",NA,2018-12-26,"N","245(b)","PC","Felony",2019-10-07,"Guilty",NA,0
+3092842,3076215,2,"186.22(b)(1)","PC","Enhancement",2019-10-07,"TRUE","Hispanic","Male",2018-12-26,1e+06,"In Custody",NA,2018-12-26,"N","215(a)","PC","Felony",2019-10-07,"Guilty",NA,0
+3092842,3076215,2,"186.22(b)(4)","PC","Other",2019-10-07,"TRUE","Hispanic","Male",2018-12-26,1e+06,"In Custody",NA,2018-12-26,"N","215(a)","PC","Felony",2019-10-07,"Guilty",NA,0
+3092842,3076215,3,"186.22(b)(1)","PC","Enhancement",2019-10-07,"TRUE","Hispanic","Male",2018-12-26,1e+06,"In Custody",NA,2018-12-26,"N","211/212.5(c)","PC","Felony",2019-10-07,"Guilty",NA,0
+3092842,3076215,4,"186.22(b)(1)","PC","Enhancement",2019-10-07,"TRUE","Hispanic","Male",2018-12-26,1e+06,"In Custody",NA,2018-12-26,"N","626.9(b)","PC","Felony",2019-10-07,"Guilty",NA,0
+3092842,3076215,5,"186.22(b)(1)","PC","Enhancement",2019-10-07,"TRUE","Hispanic","Male",2018-12-26,1e+06,"In Custody",NA,2018-12-26,"N","25850(a)/(c)(6)","PC","Felony",2019-10-07,"Guilty",NA,0
+3092842,3076216,1,"186.22(b)(1)","PC","Enhancement",2019-10-07,"TRUE","Hispanic","Male",2018-12-26,1e+06,"In Custody",NA,2018-12-26,"N","245(b)","PC","Felony",2019-10-07,"Guilty",NA,0
+3092842,3076216,2,"186.22(b)(1)","PC","Enhancement",2019-10-07,"TRUE","Hispanic","Male",2018-12-26,1e+06,"In Custody",NA,2018-12-26,"N","215(a)","PC","Felony",2019-10-07,"Guilty",NA,0
+3092842,3076216,2,"186.22(b)(4)","PC","Other",2019-10-07,"TRUE","Hispanic","Male",2018-12-26,1e+06,"In Custody",NA,2018-12-26,"N","215(a)","PC","Felony",2019-10-07,"Guilty",NA,0
+3092842,3076216,3,"186.22(b)(1)","PC","Enhancement",2019-10-07,"TRUE","Hispanic","Male",2018-12-26,1e+06,"In Custody",NA,2018-12-26,"N","211/212.5(c)","PC","Felony",2019-10-07,"Guilty",NA,0
+3092842,3076216,4,"186.22(b)(1)","PC","Enhancement",2019-10-07,"TRUE","Hispanic","Male",2018-12-26,1e+06,"In Custody",NA,2018-12-26,"N","626.9(b)","PC","Felony",2019-10-07,"Guilty",NA,0
+3092842,3076216,5,"186.22(b)(1)","PC","Enhancement",2019-10-07,"TRUE","Hispanic","Male",2018-12-26,1e+06,"In Custody",NA,2018-12-26,"N","25850(a)/(c)(6)","PC","Felony",2019-10-07,"Guilty",NA,0
+3095571,2998341,1,"186.22(b)(1)","PC","Enhancement",2019-06-05,"TRUE","Hispanic","Male",NA,NA,"In Custody",NA,2017-10-10,"N","664(a)-187(a)","PC","Felony",2019-06-05,"Guilty",NA,1
+3095571,2998341,2,"186.22(b)(4)","PC","Other",2019-06-05,"TRUE","Hispanic","Male",NA,NA,"In Custody",NA,2017-10-10,"N","215(a)","PC","Felony",2019-06-05,"Guilty",NA,1
+3095726,3035843,1,"186.22(b)(1)","PC","Enhancement",2019-02-08,"Dismissed/Not True","Hispanic","Female",2018-07-25,50000,"In Custody",NA,2018-07-25,"N","245(a)(1)","PC","Felony",2019-02-08,"Dismissed/Not Guilty",NA,0
+3095726,3035843,2,"186.22(b)(1)","PC","Enhancement",2019-02-08,"Dismissed/Not True","Hispanic","Female",2018-07-25,50000,"In Custody",NA,2018-07-25,"N","594(a)/(b)(1)","PC","Felony",2019-02-08,"Dismissed/Not Guilty",NA,0
+3095726,3035845,1,"186.22(b)(1)","PC","Enhancement",2019-01-22,"Dismissed/Not True","Other","Male",2018-07-25,50000,"In Custody",NA,2018-07-25,"N","245(a)(1)","PC","Felony",2019-01-22,"Dismissed/Not Guilty",NA,0
+3095726,3035845,2,"186.22(b)(1)","PC","Enhancement",2019-01-22,"Dismissed/Not True","Other","Male",2018-07-25,50000,"In Custody",NA,2018-07-25,"N","594(a)/(b)(1)","PC","Felony",2019-01-22,"Dismissed/Not Guilty",NA,0
+3101653,3013058,1,"186.22(b)(1)","PC","Enhancement",2019-02-05,"TRUE","White","Male",NA,50000,"Appearance Date",NA,2017-10-22,"N","245(a)(4)","PC","Felony",2019-02-05,"Guilty",NA,1
+3106154,3046879,1,"186.22(b)(1)","PC","Enhancement",2019-10-02,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"In Custody",NA,2018-09-04,"N","626.9(b)","PC","Felony",2019-10-02,"Dismissed/Not Guilty",NA,0
+3106154,3046879,2,"186.22(b)(1)","PC","Enhancement",2019-10-02,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"In Custody",NA,2018-09-04,"N","25850(a)/(c)(6)","PC","Felony",2019-10-02,"Dismissed/Not Guilty",NA,0
+3106154,3046879,8,"186.22(b)(1)","PC","Enhancement",2019-10-02,"Dismissed/Not True","Hispanic","Male",NA,1e+05,"In Custody",NA,2019-02-14,"N","25850(a)/(c)(6)","PC","Felony",2019-10-02,"Dismissed/Not Guilty",NA,0
+3120011,3013089,1,"186.22(b)(1)","PC","Enhancement",2019-10-23,"TRUE","White","Male",NA,25000,"Request for Warrant",NA,2017-06-19,"N","182(a)(1)","PC","Felony",2019-10-23,"Guilty",NA,1
+3123418,2989890,1,"186.22(b)(1)","PC","Enhancement",2020-09-25,"TRUE","White","Male",NA,1e+06,"In Custody",NA,2018-01-31,"N","594(a)/(b)(1)","PC","Felony",2020-09-25,"Guilty",NA,0
+3123418,2989890,4,"186.22(b)(1)","PC","Enhancement",2020-09-25,"TRUE","White","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","664(a)-187(a)","PC","Felony",2020-09-25,"Guilty",NA,0
+3123418,2989890,5,"186.22(b)(1)","PC","Enhancement",2020-09-25,"TRUE","White","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","245(a)(1)","PC","Felony",2020-09-25,"Guilty",NA,0
+3123418,2989890,6,"186.22(b)(1)","PC","Enhancement",2020-09-25,"TRUE","White","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","245(a)(1)","PC","Felony",2020-09-25,"Guilty",NA,0
+3123418,2989890,7,"186.22(b)(1)","PC","Enhancement",2020-09-25,"TRUE","White","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","245(a)(1)","PC","Felony",2020-09-25,"Guilty",NA,0
+3123418,2989890,8,"186.22(b)(1)","PC","Enhancement",2020-09-25,"TRUE","White","Male",NA,1e+06,"In Custody",NA,2018-06-17,"N","244","PC","Felony",2020-09-25,"Guilty",NA,0
+3140622,3031738,1,"186.22(b)(1)","PC","Enhancement",2019-11-18,"TRUE","Hispanic","Male",2018-07-11,1e+05,"In Custody",NA,2018-07-11,"N","594(a)/(b)(1)","PC","Felony",2019-11-18,"Guilty",NA,1
+3140622,3031738,3,"186.22(b)(1)","PC","Enhancement",2019-11-18,"TRUE","Hispanic","Male",2018-07-11,1e+05,"In Custody",NA,2018-07-11,"N","22210","PC","Felony",2019-11-18,"Guilty",NA,1
+3140622,3031738,4,"186.22(b)(1)","PC","Enhancement",2019-11-18,"TRUE","Hispanic","Male",2018-07-11,1e+05,"In Custody",NA,2018-07-11,"N","22210","PC","Felony",2019-11-18,"Guilty",NA,1
+3140622,3031738,5,"186.22(b)(1)","PC","Enhancement",2019-11-18,"TRUE","Hispanic","Male",2018-07-11,1e+05,"In Custody",NA,2018-07-11,"N","21810","PC","Felony",2019-11-18,"Guilty",NA,1
+3146237,3049802,1,"186.22(b)(1)","PC","Enhancement",2020-07-27,"TRUE","Hispanic","Male",2018-09-14,1e+06,"In Custody",NA,2018-09-13,"N","626.9(b)","PC","Felony",2020-07-27,"Guilty",NA,1
+3146237,3049802,2,"186.22(b)(1)","PC","Enhancement",2020-07-27,"TRUE","Hispanic","Male",2018-09-14,1e+06,"In Custody",NA,2018-09-13,"N","246.3(a)","PC","Felony",2020-07-27,"Reduced",NA,1
+3146237,3049802,3,"186.22(b)(1)","PC","Enhancement",2020-07-27,"TRUE","Hispanic","Male",2018-09-14,1e+06,"In Custody",NA,2018-09-13,"N","25400(a)(1)/(c)(6)","PC","Felony",2020-07-27,"Guilty",NA,1
+3146237,3049802,4,"186.22(b)(1)","PC","Enhancement",2020-07-27,"TRUE","Hispanic","Male",2018-09-14,1e+06,"In Custody",NA,2018-09-13,"N","594(a)/(b)(1)","PC","Felony",2020-07-27,"Guilty",NA,1
+3146237,3049802,5,"186.22(b)(1)","PC","Enhancement",2020-07-27,"TRUE","Hispanic","Male",2018-09-14,1e+06,"In Custody",NA,2018-09-13,"N","29800(a)(1)","PC","Felony",2020-07-27,"Guilty",NA,1
+3146991,3113529,2,"186.22(b)(1)","PC","Enhancement",2020-06-19,"TRUE","Hispanic","Male",NA,NA,"In Custody",NA,2018-08-19,"N","245(a)(4)","PC","Felony",2020-06-19,"Guilty",NA,1
+3158796,3066329,1,"186.22(b)(1)","PC","Enhancement",2021-04-14,"TRUE","Hispanic","Male",2018-11-15,50000,"In Custody",NA,2018-11-04,"N","211/212.5(c)","PC","Felony",2021-04-14,"Guilty",NA,1
+3158796,3066329,3,"186.22(b)(1)","PC","Enhancement",2021-04-14,"TRUE","Hispanic","Male",2018-11-15,50000,"In Custody",NA,2018-11-04,"N","236/237(a)","PC","Felony",2021-04-14,"Guilty",NA,1
+3158796,3066329,4,"186.22(b)(1)","PC","Enhancement",2021-04-14,"TRUE","Hispanic","Male",2018-11-15,50000,"In Custody",NA,2018-11-04,"N","245(b)","PC","Felony",2021-04-14,"Guilty",NA,1
+3158796,3066329,5,"186.22(b)(1)","PC","Enhancement",2021-04-14,"TRUE","Hispanic","Male",2018-11-15,50000,"In Custody",NA,2018-11-10,"N","211/212.5(c)","PC","Felony",2021-04-14,"Guilty",NA,1
+3158796,3066329,7,"186.22(b)(1)","PC","Enhancement",2021-04-14,"TRUE","Hispanic","Male",2018-11-15,50000,"In Custody",NA,2018-11-10,"N","211/212.5(c)","PC","Felony",2021-04-14,"Guilty",NA,1
+3158796,3066329,8,"186.22(b)(1)","PC","Enhancement",2021-04-14,"TRUE","Hispanic","Male",2018-11-15,50000,"In Custody",NA,2018-11-10,"N","236/237(a)","PC","Felony",2021-04-14,"Guilty",NA,1
+3158796,3066329,9,"186.22(b)(1)","PC","Enhancement",2021-04-14,"TRUE","Hispanic","Male",2018-11-15,50000,"In Custody",NA,2018-11-10,"N","236/237(a)","PC","Felony",2021-04-14,"Guilty",NA,1
+3158796,3066329,10,"186.22(b)(1)","PC","Enhancement",2021-04-14,"TRUE","Hispanic","Male",2018-11-15,50000,"In Custody",NA,2018-11-10,"N","245(b)","PC","Felony",2021-04-14,"Guilty",NA,1
+3158796,3066329,11,"186.22(b)(1)","PC","Enhancement",2021-04-14,"TRUE","Hispanic","Male",2018-11-15,50000,"In Custody",NA,2018-11-10,"N","245(b)","PC","Felony",2021-04-14,"Guilty",NA,1
+3178034,3033401,1,"186.22(b)(1)","PC","Enhancement",2020-08-31,"TRUE","Hispanic","Male",2018-07-18,1e+05,"Appearance Date",NA,2018-07-18,"N","215(a)","PC","Felony",2020-08-31,"Guilty",NA,1
+3178034,3033401,1,"186.22(b)(4)","PC","Other",2020-08-31,"TRUE","Hispanic","Male",2018-07-18,1e+05,"Appearance Date",NA,2018-07-18,"N","215(a)","PC","Felony",2020-08-31,"Guilty",NA,1
+3242293,3056172,1,"186.22(b)(1)","PC","Enhancement",2023-01-09,"TRUE","Hispanic","Male",NA,110000,"Appearance Date",NA,2017-12-07,"N","245(a)(4)","PC","Felony",2023-01-09,"Guilty",NA,0
+3242293,3056172,2,"186.22(b)(1)","PC","Enhancement",2023-01-09,"TRUE","Hispanic","Male",NA,110000,"Appearance Date",NA,2017-12-07,"N","245(a)(4)","PC","Felony",2023-01-09,"Guilty",NA,0
+3242293,3056172,4,"186.22(b)(1)","PC","Enhancement",2023-01-09,"TRUE","Hispanic","Male",NA,110000,"Appearance Date",NA,2018-05-12,"N","245(a)(1)","PC","Felony",2023-01-09,"Guilty",NA,0
+3242293,3056172,5,"186.22(b)(1)","PC","Enhancement",2023-01-09,"TRUE","Hispanic","Male",NA,110000,"Appearance Date",NA,2018-05-12,"N","245(a)(4)","PC","Felony",2023-01-09,"Guilty",NA,0
+3278013,2983042,1,"186.22(b)(1)","PC","Enhancement",2022-09-19,"TRUE","White","Male",2018-01-17,NA,"Appearance Date",NA,2018-01-16,"N","215(a)","PC","Felony",2022-09-19,"Guilty",NA,1
+3278013,2983042,1,"186.22(b)(4)","PC","Other",2022-09-19,"TRUE","White","Male",2018-01-17,NA,"Appearance Date",NA,2018-01-16,"N","215(a)","PC","Felony",2022-09-19,"Guilty",NA,1
+3278013,2983042,2,"186.22(b)(1)","PC","Enhancement",2022-09-19,"TRUE","White","Male",2018-01-17,NA,"Appearance Date",NA,2018-01-16,"N","211/212.5(c)","PC","Felony",2022-09-19,"Guilty",NA,1
+3278013,2988790,1,"186.22(b)(1)","PC","Enhancement",2022-09-08,"TRUE","Hispanic","Male",NA,NA,"Appearance Date",NA,2018-01-16,"N","215(a)","PC","Felony",2022-09-08,"Guilty",NA,1
+3278013,2988790,1,"186.22(b)(4)","PC","Other",2022-09-08,"TRUE","Hispanic","Male",NA,NA,"Appearance Date",NA,2018-01-16,"N","215(a)","PC","Felony",2022-09-08,"Guilty",NA,1
+3278013,2988790,2,"186.22(b)(1)","PC","Enhancement",2022-09-08,"TRUE","Hispanic","Male",NA,NA,"Appearance Date",NA,2018-01-16,"N","211/212.5(c)","PC","Felony",2022-09-08,"Guilty",NA,1
+3432348,3042420,1,"186.22(b)(1)","PC","Enhancement",2023-10-03,"Dismissed/Not True","Hispanic","Male",2018-08-18,1e+05,"Appearance Date",NA,2018-08-18,"N","594(a)/(b)(1)","PC","Felony",2023-10-03,"Dismissed/Not Guilty",NA,0
+3468627,3043410,1,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"In Custody",NA,2018-08-14,"N","187(a)","PC","Felony",NA,NA,NA,0
+3468627,3043410,2,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"In Custody",NA,2018-08-14,"N","209.5(a)","PC","Felony",NA,NA,NA,0
+3468627,3043414,1,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Request for Warrant",NA,2018-08-14,"N","187(a)","PC","Felony",NA,NA,NA,1
+3468627,3043414,2,"186.22(b)(1)","PC","Enhancement",NA,NA,"Hispanic","Male",NA,1e+06,"Request for Warrant",NA,2018-08-14,"N","209.5(a)","PC","Felony",NA,NA,NA,1
