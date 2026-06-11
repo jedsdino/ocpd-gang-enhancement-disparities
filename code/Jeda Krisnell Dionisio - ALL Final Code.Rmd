@@ -1,0 +1,287 @@
+---
+title: "Final Code - All Years"
+author: "Jeda Krisnell Dionisio"
+date: "2026-05-28"
+output: pdf_document
+---
+
+# Final Code
+
+
+## Libraries + Data
+
+```{r}
+# ===== libraries =====
+library(tidyverse)
+library(ggplot2)
+
+# ===== data =====
+## ===== RACKAUCKAS ======
+dat2013 = read.csv("../185CLEANED/2013-FINAL-CLEANED.csv")
+dat2014 = read.csv("../185CLEANED/2014-FINAL-CLEANED.csv")
+dat2015 = read.csv("../185CLEANED/2015-FINAL-CLEANED.csv")
+dat2016 = read.csv("../185CLEANED/2016-FINAL-CLEANED.csv")
+dat2017 = read.csv("../185CLEANED/2017-FINAL-CLEANED.csv")
+dat2018 = read.csv("../185CLEANED/2018-FINAL-CLEANED.csv")
+
+## ====== SPITZER ======
+dat2019 = read.csv("../185CLEANED/2019-FINAL-CLEANED.csv")
+dat2021 = read.csv("../185CLEANED/2021-FINAL-CLEANED.csv")
+dat2023 = read.csv("../185CLEANED/2023-FINAL-CLEANED.csv")
+dat2024 = read.csv("../185CLEANED/2024-FINAL-CLEANED.csv")
+```
+
+# Assigning `Year` and `Era`
+
+```{r}
+# ====== adding Year ======
+## ===== RACKAUCKAS ======
+dat2013$Year = "2013"
+dat2014$Year = "2014"
+dat2015$Year = "2015"
+dat2016$Year = "2016"
+dat2017$Year = "2017"
+dat2018$Year = "2018"
+
+## ====== SPITZER ======
+dat2019$Year = "2019"
+dat2021$Year = "2021"
+dat2023$Year = "2023"
+dat2024$Year = "2024"
+
+# ====== adding Era ======
+## ===== RACKAUCKAS ======
+dat2013$Era = "Rackauckas"
+dat2014$Era = "Rackauckas"
+dat2015$Era = "Rackauckas"
+dat2016$Era = "Rackauckas"
+dat2017$Era = "Rackauckas"
+dat2018$Era = "Rackauckas"
+
+## ====== SPITZER ======
+dat2019$Era = "Spitzer"
+dat2021$Era = "Spitzer"
+dat2023$Era = "Spitzer"
+dat2024$Era = "Spitzer"
+
+# ====== 20XX (join all together) ======
+dat20XX = full_join(dat2013, dat2014) |> 
+  full_join(dat2015) |> 
+  full_join(dat2016) |> 
+  full_join(dat2017) |> 
+  full_join(dat2018) |> 
+  full_join(dat2019) |> 
+  full_join(dat2021) |> 
+  full_join(dat2023) |> 
+  full_join(dat2024) |> 
+  filter(!is.na(Disposition_enhancement))
+
+```
+
+# Black White Only
+
+```{r}
+# setting the reference groups
+dat20XX = dat20XX |> 
+  filter(Race %in% c("Black", "White"))
+
+dat20XX$Race = relevel(factor(dat20XX$Race), ref = "White")
+dat20XX$Year = relevel(factor(dat20XX$Year), ref = "2013")
+dat20XX$Era = relevel(factor(dat20XX$Era), ref = "Rackauckas")
+
+```
+
+# Data Overview
+
+```{r}
+table(dat20XX$Year, dat20XX$Race)
+
+dat20XX |> 
+  group_by(Race) |> 
+  summarise(n = n())
+```
+
+
+# Get 'sustained'
+
+```{r}
+create_sustained = function(data) {
+  data |> 
+    mutate(
+      sustained = ifelse(
+        Disposition_enhancement %in% c("True", "TRUE"),
+        1,
+        0
+      )
+    )
+}
+
+dat20XX = create_sustained(dat20XX)
+```
+
+# Proportion Tables
+```{r}
+sustained_rate_table = function(data) {
+  data |> 
+    filter(Race %in% c("Black", "White")) |> 
+    group_by(Race, Year) |> 
+    summarise(
+      n = n(),
+      sustained_rate = mean(sustained, na.rm = TRUE),
+      sustains = sum(sustained, na.rm = TRUE),
+      misses = n() - sustains,
+      .groups = "drop"
+    ) |> 
+    arrange(Year, Year)
+}
+
+sustained_df = sustained_rate_table(dat20XX)
+sustained_df
+```
+
+# Visualizations
+```{r}
+ggplot(
+  sustained_df,
+  aes(
+    x = factor(Year),
+    y = sustained_rate * 100,
+    fill = Race
+  )
+) +
+  geom_col(position = position_dodge(width = 0.9),
+           width = 0.8) +
+  geom_text(
+    aes(
+      label = paste0(
+        round(sustained_rate * 100, 1),
+        "%\n(n=", n, ")"
+      )
+    ),
+    position = position_dodge(width = 0.9),
+    vjust = -0.2,
+    size = 2.5
+  ) +
+  scale_fill_manual(
+    values = c(
+      "Black" = "blue2",
+      "White" = "red2"
+    )
+  ) +
+  labs(
+    x = "Year",
+    y = "Sustained Rate (%)"
+  ) +
+  coord_cartesian(ylim = c(0, 110)) +
+  theme_minimal(base_size = 12)
+```
+
+
+# Logistic Regressions (Year)
+
+## Model 1
+```{r}
+mod1 = glm(sustained ~ Race + Year, 
+           family = "binomial", 
+           data = dat20XX)
+summary(mod1)
+```
+
+
+## Model 2
+```{r}
+mod2 = glm(sustained ~ Race + Year + has_prior, 
+           family = "binomial", 
+           data = dat20XX)
+summary(mod2)
+```
+
+
+
+## Model 3
+```{r}
+mod3 = glm(sustained ~ Race + Year + Race:Year, 
+           family = "binomial", 
+           data = dat20XX)
+summary(mod3)
+```
+
+## Model 4
+```{r}
+mod4 = glm(sustained ~ Race + Year + Race:Year + has_prior, 
+           family = "binomial", 
+           data = dat20XX)
+summary(mod4)
+```
+
+# Logistic Regressions (Era)
+
+## Model 5
+```{r}
+mod5 = glm(sustained ~ Race + Era, 
+           family = "binomial", 
+           data = dat20XX)
+summary(mod5)
+```
+
+
+## Model 6
+```{r}
+mod6 = glm(sustained ~ Race + Era + has_prior, 
+           family = "binomial", 
+           data = dat20XX)
+summary(mod6)
+```
+
+
+
+## Model 7
+```{r}
+mod7 = glm(sustained ~ Race + Era + Race:Era, 
+           family = "binomial", 
+           data = dat20XX)
+summary(mod7)
+```
+
+## Model 8
+```{r}
+mod8 = glm(sustained ~ Race + Era + Race:Era + has_prior, 
+           family = "binomial", 
+           data = dat20XX)
+summary(mod8)
+```
+
+# Extra
+```{r}
+mod9 = glm(sustained ~ Race + Gender + Year + has_prior, 
+           family = "binomial", 
+           data = dat20XX)
+summary(mod9)
+```
+
+```{r}
+mod92 = glm(sustained ~ Race + Gender + Era + has_prior, 
+           family = "binomial", 
+           data = dat20XX)
+summary(mod92)
+```
+
+```{r}
+no_2016_dat = filter(dat20XX, Year != 2016)
+
+mod10 = glm(sustained ~ Race + Year + has_prior, 
+           family = "binomial", 
+           data = no_2016_dat)
+summary(mod10)
+```
+
+```{r}
+big_samples_dat = filter(dat20XX, !Year %in% c(2021, 2023, 2024))
+
+mod10 = glm(sustained ~ Race + Year + has_prior, 
+           family = "binomial", 
+           data = big_samples_dat)
+summary(mod10)
+```
+
+
